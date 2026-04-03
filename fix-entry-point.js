@@ -7,7 +7,8 @@ const srcDir = path.join(__dirname, "src");
 const indexPath = path.join(srcDir, "index.ts");
 
 // Check if already has registerRoot
-const current = fs.readFileSync(indexPath, "utf-8");
+let current = "";
+try { current = fs.readFileSync(indexPath, "utf-8"); } catch (e) { /* file doesn't exist yet */ }
 if (current.includes("registerRoot")) {
   console.log("    OK: registerRoot found");
   process.exit(0);

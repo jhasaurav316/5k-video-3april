@@ -126,7 +126,7 @@ foreach ($entry in $testVideos) {
     if (-not (Test-Path $framesDir)) { New-Item -ItemType Directory -Path $framesDir -Force | Out-Null }
 
     $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-    npx remotion render $compId $framesDir --concurrency=75% --log=error --gl=angle --image-format=jpeg --jpeg-quality=90 --sequence
+    npx remotion render src/index.ts $compId $framesDir --concurrency=75% --log=error --gl=angle --image-format=jpeg --jpeg-quality=90 --sequence
     $renderExit = $LASTEXITCODE
 
     if ($renderExit -eq 0) {
