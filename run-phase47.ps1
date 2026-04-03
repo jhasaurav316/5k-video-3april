@@ -143,34 +143,18 @@ foreach ($cat in $catalogs) {
         $elapsed = (Get-Date) - $startTime
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
-        # Step A: Render frames as JPEG sequence (CPU at 75%)
-        $framesDir = Join-Path $outDir "$videoId-frames"
-        if (-not (Test-Path $framesDir)) { New-Item -ItemType Directory -Path $framesDir -Force | Out-Null }
-
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render src/index.ts $compId $framesDir --concurrency=75% --log=error --gl=angle --image-format=jpeg --jpeg-quality=90 --sequence
-        $renderExit = $LASTEXITCODE
+        npx remotion render src/index.ts $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle --port=3100
+        $ErrorActionPreference = $prevEAP
 
-        if ($renderExit -eq 0) {
-            # Step B: Encode with FFmpeg (CPU - libx264)
-            Write-Host "    Encoding with CPU (libx264)..." -ForegroundColor Yellow
-            $audioFile = Join-Path (Join-Path $ProjectDir "public") "$videoId-audio\bgm.mp3"
-            ffmpeg -y -framerate 30 -i "$framesDir\frame%d.jpeg" -i "$audioFile" -c:v libx264 -crf 18 -preset fast -c:a aac -b:a 128k -shortest "$outputFile" 2>&1
-            if ($LASTEXITCODE -eq 0) {
-                $rendered++
-                $fileSize = [math]::Round((Get-Item $outputFile).Length / 1MB, 1)
-                Write-Host "    Done! (${fileSize} MB)" -ForegroundColor Green
-            } else {
-                $failed++
-                Write-Host "    FAILED (encoding)!" -ForegroundColor Red
-            }
-            Remove-Item -Recurse -Force $framesDir -ErrorAction SilentlyContinue
+        if ($LASTEXITCODE -eq 0) {
+            $rendered++
+            $fileSize = [math]::Round((Get-Item $outputFile).Length / 1MB, 1)
+            Write-Host "    Done! (${fileSize} MB)" -ForegroundColor Green
         } else {
             $failed++
-            Write-Host "    FAILED (frame render)!" -ForegroundColor Red
-            Remove-Item -Recurse -Force $framesDir -ErrorAction SilentlyContinue
+            Write-Host "    FAILED!" -ForegroundColor Red
         }
-        $ErrorActionPreference = $prevEAP
     }
 }
 
