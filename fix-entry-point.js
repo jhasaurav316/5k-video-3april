@@ -1,20 +1,12 @@
 #!/usr/bin/env node
-// Auto-fix index.ts to include registerRoot() if missing
+// Always rebuild index.ts from all *Root.tsx files in src/
 const fs = require("fs");
 const path = require("path");
 
 const srcDir = path.join(__dirname, "src");
 const indexPath = path.join(srcDir, "index.ts");
 
-// Check if already has registerRoot
-let current = "";
-try { current = fs.readFileSync(indexPath, "utf-8"); } catch (e) { /* file doesn't exist yet */ }
-if (current.includes("registerRoot")) {
-  console.log("    OK: registerRoot found");
-  process.exit(0);
-}
-
-console.log("    FIXING: index.ts missing registerRoot - regenerating...");
+console.log("    Rebuilding index.ts from all Root components...");
 
 const files = fs.readdirSync(srcDir).filter(f => f.endsWith("Root.tsx")).sort();
 const imports = [];
