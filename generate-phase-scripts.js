@@ -254,26 +254,17 @@ foreach ($cat in $catalogs) {
         $renderExit = $LASTEXITCODE
 
         if ($renderExit -eq 0) {
-            # Step B: Encode with FFmpeg NVENC (GPU accelerated)
-            Write-Host "    Encoding with GPU (NVENC)..." -ForegroundColor Yellow
+            # Step B: Encode with FFmpeg (CPU - libx264)
+            Write-Host "    Encoding with CPU (libx264)..." -ForegroundColor Yellow
             $audioFile = Join-Path (Join-Path $ProjectDir "public") "$videoId-audio\\bgm.mp3"
-            ffmpeg -y -framerate 30 -i "$framesDir\\frame%d.jpeg" -i "$audioFile" -c:v h264_nvenc -preset p4 -cq 20 -b:v 8M -c:a aac -b:a 128k -shortest "$outputFile" -loglevel error 2>&1 | Out-Null
-
+            ffmpeg -y -framerate 30 -i "$framesDir\\frame%d.jpeg" -i "$audioFile" -c:v libx264 -crf 18 -preset fast -c:a aac -b:a 128k -shortest "$outputFile" 2>&1
             if ($LASTEXITCODE -eq 0) {
                 $rendered++
                 $fileSize = [math]::Round((Get-Item $outputFile).Length / 1MB, 1)
                 Write-Host "    Done! (\${fileSize} MB)" -ForegroundColor Green
             } else {
-                Write-Host "    NVENC failed, falling back to CPU..." -ForegroundColor Yellow
-                ffmpeg -y -framerate 30 -i "$framesDir\\frame%d.jpeg" -i "$audioFile" -c:v libx264 -crf 18 -preset fast -c:a aac -b:a 128k -shortest "$outputFile" -loglevel error 2>&1 | Out-Null
-                if ($LASTEXITCODE -eq 0) {
-                    $rendered++
-                    $fileSize = [math]::Round((Get-Item $outputFile).Length / 1MB, 1)
-                    Write-Host "    Done! (\${fileSize} MB) [CPU fallback]" -ForegroundColor Green
-                } else {
-                    $failed++
-                    Write-Host "    FAILED!" -ForegroundColor Red
-                }
+                $failed++
+                Write-Host "    FAILED (encoding)!" -ForegroundColor Red
             }
             Remove-Item -Recurse -Force $framesDir -ErrorAction SilentlyContinue
         } else {
