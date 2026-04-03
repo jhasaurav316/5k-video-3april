@@ -17,11 +17,6 @@ Write-Host ""
 
 Set-Location $ProjectDir
 
-# ======================== STEP 0: FIX ENTRY POINT ========================
-Write-Host "  STEP 0: Verifying Entry Point" -ForegroundColor Yellow
-node (Join-Path $ProjectDir "fix-entry-point.js")
-Write-Host ""
-
 # ======================== STEP 1: GENERATE AUDIO ========================
 Write-Host "  STEP 1: Generating Audio" -ForegroundColor Yellow
 Write-Host ""
@@ -101,6 +96,11 @@ node (Join-Path $ProjectDir "emergency-vehicles\register-compositions.js")
 node (Join-Path $ProjectDir "emotions-feelings\register-compositions.js")
 node (Join-Path $ProjectDir "endangered-species\register-compositions.js")
 Write-Host "  Done!" -ForegroundColor Green
+Write-Host ""
+
+# ======================== STEP 2b: FIX ENTRY POINT ========================
+Write-Host "  STEP 2b: Rebuilding Entry Point (index.ts)" -ForegroundColor Yellow
+node (Join-Path $ProjectDir "fix-entry-point.js")
 Write-Host ""
 
 # ======================== STEP 3: RENDER VIDEOS ========================
