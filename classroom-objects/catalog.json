@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "classroom-objects-1",
+    "title": "Classroom Objects - Part 1",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "classroom-objects-2",
+    "title": "Classroom Objects - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Globe",
+        "emoji": "🌍",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Map",
+        "emoji": "🗺️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tablet",
+        "emoji": "📱",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Projector",
+        "emoji": "📽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Whiteboard",
+        "emoji": "📋",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chalk",
+        "emoji": "🪨",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sharpener",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Dictionary",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "classroom-objects-3",
+    "title": "Classroom Objects - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Library Book",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Science Kit",
+        "emoji": "🔬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Art Supplies",
+        "emoji": "🎨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Binder",
+        "emoji": "📒",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flag",
+        "emoji": "🏁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Index Card",
+        "emoji": "📇",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "J",
+        "word": "Journal",
+        "emoji": "📓",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Poster",
+        "emoji": "🖼️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Textbook",
+        "emoji": "📖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "W",
+        "word": "Water Bottle",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "classroom-objects-4",
+    "title": "Classroom Objects - Part 4",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "classroom-objects-5",
+    "title": "Classroom Objects - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "classroom-objects-6",
+    "title": "Classroom Objects - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "classroom-objects-7",
+    "title": "Classroom Objects - Part 7",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "classroom-objects-8",
+    "title": "Classroom Objects - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "classroom-objects-9",
+    "title": "Classroom Objects - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "classroom-objects-10",
+    "title": "Classroom Objects - Part 10",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "classroom-objects-11",
+    "title": "Classroom Objects - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "classroom-objects-12",
+    "title": "Classroom Objects - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "classroom-objects-13",
+    "title": "Classroom Objects - Part 13",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "classroom-objects-14",
+    "title": "Classroom Objects - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "classroom-objects-15",
+    "title": "Classroom Objects - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "classroom-objects-16",
+    "title": "Classroom Objects - Part 16",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "classroom-objects-17",
+    "title": "Classroom Objects - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "classroom-objects-18",
+    "title": "Classroom Objects - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "classroom-objects-19",
+    "title": "Classroom Objects - Part 19",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "classroom-objects-20",
+    "title": "Classroom Objects - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "classroom-objects-21",
+    "title": "Classroom Objects - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "classroom-objects-22",
+    "title": "Classroom Objects - Part 22",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "classroom-objects-23",
+    "title": "Classroom Objects - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "classroom-objects-24",
+    "title": "Classroom Objects - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "classroom-objects-25",
+    "title": "Classroom Objects - Part 25",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "classroom-objects-26",
+    "title": "Classroom Objects - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "classroom-objects-27",
+    "title": "Classroom Objects - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "classroom-objects-28",
+    "title": "Classroom Objects - Part 28",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "classroom-objects-29",
+    "title": "Classroom Objects - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "classroom-objects-30",
+    "title": "Classroom Objects - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Board",
+        "emoji": "📋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Backpack",
+        "emoji": "🎒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch Box",
+        "emoji": "🍱",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "types-of-music-1",
+    "title": "Types of Music - Part 1",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "types-of-music-2",
+    "title": "Types of Music - Part 2",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Disco",
+        "emoji": "🪩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Metal",
+        "emoji": "🎸",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Punk",
+        "emoji": "🎸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Latin",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Ska",
+        "emoji": "🎺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Afrobeat",
+        "emoji": "🥁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bluegrass",
+        "emoji": "🪕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calypso",
+        "emoji": "🎵",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Dubstep",
+        "emoji": "🎧",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Grunge",
+        "emoji": "🎸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "I",
+        "word": "Indie",
+        "emoji": "🎵",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "K",
+        "word": "K-Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mariachi",
+        "emoji": "🎺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "New Wave",
+        "emoji": "🎵",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "R",
+        "word": "R and B",
+        "emoji": "🎤",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "types-of-music-3",
+    "title": "Types of Music - Part 3",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Salsa",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Techno",
+        "emoji": "🎧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "World Music",
+        "emoji": "🌍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ambient",
+        "emoji": "🎵",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bossa Nova",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Chamber Music",
+        "emoji": "🎻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamenco",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lullaby",
+        "emoji": "🎵",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Musical Theater",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Nursery Rhyme",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Polka",
+        "emoji": "🎵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Samba",
+        "emoji": "💃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tango",
+        "emoji": "💃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Vocal",
+        "emoji": "🎤",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "W",
+        "word": "Waltz",
+        "emoji": "💃",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "types-of-music-4",
+    "title": "Types of Music - Part 4",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "types-of-music-5",
+    "title": "Types of Music - Part 5",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "types-of-music-6",
+    "title": "Types of Music - Part 6",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "types-of-music-7",
+    "title": "Types of Music - Part 7",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "types-of-music-8",
+    "title": "Types of Music - Part 8",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "types-of-music-9",
+    "title": "Types of Music - Part 9",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "types-of-music-10",
+    "title": "Types of Music - Part 10",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "types-of-music-11",
+    "title": "Types of Music - Part 11",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "types-of-music-12",
+    "title": "Types of Music - Part 12",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "types-of-music-13",
+    "title": "Types of Music - Part 13",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "types-of-music-14",
+    "title": "Types of Music - Part 14",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "types-of-music-15",
+    "title": "Types of Music - Part 15",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "types-of-music-16",
+    "title": "Types of Music - Part 16",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "types-of-music-17",
+    "title": "Types of Music - Part 17",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "types-of-music-18",
+    "title": "Types of Music - Part 18",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "types-of-music-19",
+    "title": "Types of Music - Part 19",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "types-of-music-20",
+    "title": "Types of Music - Part 20",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "types-of-music-21",
+    "title": "Types of Music - Part 21",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "types-of-music-22",
+    "title": "Types of Music - Part 22",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "types-of-music-23",
+    "title": "Types of Music - Part 23",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "types-of-music-24",
+    "title": "Types of Music - Part 24",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "types-of-music-25",
+    "title": "Types of Music - Part 25",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "types-of-music-26",
+    "title": "Types of Music - Part 26",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "types-of-music-27",
+    "title": "Types of Music - Part 27",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "types-of-music-28",
+    "title": "Types of Music - Part 28",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "types-of-music-29",
+    "title": "Types of Music - Part 29",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "types-of-music-30",
+    "title": "Types of Music - Part 30",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jazz",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pop",
+        "emoji": "🎤",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Classical",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Blues",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Country",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hip Hop",
+        "emoji": "🎤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Reggae",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Electronic",
+        "emoji": "💻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Folk",
+        "emoji": "🪕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Soul",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gospel",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Opera",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Funk",
+        "emoji": "🎵",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  }
+]

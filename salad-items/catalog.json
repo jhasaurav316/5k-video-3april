@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "salad-items-1",
+    "title": "Salad Items - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "salad-items-2",
+    "title": "Salad Items - Part 2",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Nut",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "E",
+        "word": "Egg",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Dressing",
+        "emoji": "🫗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Onion",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Herb",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Celery",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Walnut",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower Seed",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Chickpea",
+        "emoji": "🫘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "A",
+        "word": "Arugula",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tofu",
+        "emoji": "🧈",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cabbage",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "salad-items-3",
+    "title": "Salad Items - Part 3",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red Onion",
+        "emoji": "🧅",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "J",
+        "word": "Jalapeno",
+        "emoji": "🌶️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Vinaigrette",
+        "emoji": "🫗",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Endive",
+        "emoji": "🥬",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Grape Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon Juice",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pine Nut",
+        "emoji": "🌲",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Romaine",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Watercress",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dried Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zest",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "salad-items-4",
+    "title": "Salad Items - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "salad-items-5",
+    "title": "Salad Items - Part 5",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "salad-items-6",
+    "title": "Salad Items - Part 6",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "salad-items-7",
+    "title": "Salad Items - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "salad-items-8",
+    "title": "Salad Items - Part 8",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "salad-items-9",
+    "title": "Salad Items - Part 9",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "salad-items-10",
+    "title": "Salad Items - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "salad-items-11",
+    "title": "Salad Items - Part 11",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "salad-items-12",
+    "title": "Salad Items - Part 12",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "salad-items-13",
+    "title": "Salad Items - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "salad-items-14",
+    "title": "Salad Items - Part 14",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "salad-items-15",
+    "title": "Salad Items - Part 15",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "salad-items-16",
+    "title": "Salad Items - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "salad-items-17",
+    "title": "Salad Items - Part 17",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "salad-items-18",
+    "title": "Salad Items - Part 18",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "salad-items-19",
+    "title": "Salad Items - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "salad-items-20",
+    "title": "Salad Items - Part 20",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "salad-items-21",
+    "title": "Salad Items - Part 21",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "salad-items-22",
+    "title": "Salad Items - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "salad-items-23",
+    "title": "Salad Items - Part 23",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "salad-items-24",
+    "title": "Salad Items - Part 24",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "salad-items-25",
+    "title": "Salad Items - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "salad-items-26",
+    "title": "Salad Items - Part 26",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "salad-items-27",
+    "title": "Salad Items - Part 27",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "salad-items-28",
+    "title": "Salad Items - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "salad-items-29",
+    "title": "Salad Items - Part 29",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "salad-items-30",
+    "title": "Salad Items - Part 30",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crouton",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  }
+]

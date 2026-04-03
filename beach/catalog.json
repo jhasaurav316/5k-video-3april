@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "beach-1",
+    "title": "Beach & Seaside - Part 1",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "beach-2",
+    "title": "Beach & Seaside - Part 2",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "L",
+        "word": "Lifeguard",
+        "emoji": "🏊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Snorkel",
+        "emoji": "🤿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Ocean",
+        "emoji": "🌊",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Boat",
+        "emoji": "⛵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "K",
+        "word": "Kayak",
+        "emoji": "🛶",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sand Dollar",
+        "emoji": "🪙",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🏖️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tide Pool",
+        "emoji": "🪸",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pier",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mermaid",
+        "emoji": "🧜‍♀️",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "beach-3",
+    "title": "Beach & Seaside - Part 3",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Anchor",
+        "emoji": "⚓",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "B",
+        "word": "Buoy",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🪸",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "R",
+        "word": "Raft",
+        "emoji": "🛟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scuba Diving",
+        "emoji": "🤿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "N",
+        "word": "Nautilus",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Gull",
+        "emoji": "🐦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball",
+        "emoji": "🏐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "E",
+        "word": "Estuary",
+        "emoji": "🌊",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Driftwood",
+        "emoji": "🪵",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Garden",
+        "emoji": "🪨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yacht",
+        "emoji": "🛥️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "X",
+        "word": "X Marks Spot",
+        "emoji": "❌",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "beach-4",
+    "title": "Beach & Seaside - Part 4",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "beach-5",
+    "title": "Beach & Seaside - Part 5",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "beach-6",
+    "title": "Beach & Seaside - Part 6",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "beach-7",
+    "title": "Beach & Seaside - Part 7",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "beach-8",
+    "title": "Beach & Seaside - Part 8",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "beach-9",
+    "title": "Beach & Seaside - Part 9",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "beach-10",
+    "title": "Beach & Seaside - Part 10",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "beach-11",
+    "title": "Beach & Seaside - Part 11",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "beach-12",
+    "title": "Beach & Seaside - Part 12",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "beach-13",
+    "title": "Beach & Seaside - Part 13",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "beach-14",
+    "title": "Beach & Seaside - Part 14",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "beach-15",
+    "title": "Beach & Seaside - Part 15",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "beach-16",
+    "title": "Beach & Seaside - Part 16",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "beach-17",
+    "title": "Beach & Seaside - Part 17",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "beach-18",
+    "title": "Beach & Seaside - Part 18",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "beach-19",
+    "title": "Beach & Seaside - Part 19",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "beach-20",
+    "title": "Beach & Seaside - Part 20",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "beach-21",
+    "title": "Beach & Seaside - Part 21",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "beach-22",
+    "title": "Beach & Seaside - Part 22",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "beach-23",
+    "title": "Beach & Seaside - Part 23",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "beach-24",
+    "title": "Beach & Seaside - Part 24",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "beach-25",
+    "title": "Beach & Seaside - Part 25",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "beach-26",
+    "title": "Beach & Seaside - Part 26",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "beach-27",
+    "title": "Beach & Seaside - Part 27",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "beach-28",
+    "title": "Beach & Seaside - Part 28",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "beach-29",
+    "title": "Beach & Seaside - Part 29",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "beach-30",
+    "title": "Beach & Seaside - Part 30",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunglasses",
+        "emoji": "😎",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Seashell",
+        "emoji": "🐚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sandcastle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flip Flops",
+        "emoji": "🩴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🏖️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  }
+]

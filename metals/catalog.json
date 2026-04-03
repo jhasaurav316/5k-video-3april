@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "metals-1",
+    "title": "Metals & Elements - Part 1",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "metals-2",
+    "title": "Metals & Elements - Part 2",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cobalt",
+        "emoji": "💙",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tungsten",
+        "emoji": "⚙️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "U",
+        "word": "Uranium",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "O",
+        "word": "Oxygen",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Hydrogen",
+        "emoji": "💧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "C",
+        "word": "Carbon",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "N",
+        "word": "Nitrogen",
+        "emoji": "💨",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "H",
+        "word": "Helium",
+        "emoji": "🎈",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "A",
+        "word": "Argon",
+        "emoji": "💨",
+        "bgColor": "#9575CD"
+      },
+      {
+        "letter": "S",
+        "word": "Silicon",
+        "emoji": "🔬",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Phosphorus",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sulfur",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Calcium",
+        "emoji": "🦴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Potassium",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Magnesium",
+        "emoji": "🔥",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "metals-3",
+    "title": "Metals & Elements - Part 3",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fluorine",
+        "emoji": "💨",
+        "bgColor": "#B2EBF2"
+      },
+      {
+        "letter": "R",
+        "word": "Radium",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lithium",
+        "emoji": "🔋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brass",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond Carbon",
+        "emoji": "💎",
+        "bgColor": "#E3F2FD"
+      },
+      {
+        "letter": "E",
+        "word": "Electrum",
+        "emoji": "⚡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrought Iron",
+        "emoji": "⚙️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "K",
+        "word": "Krypton",
+        "emoji": "💨",
+        "bgColor": "#4FC3F7"
+      },
+      {
+        "letter": "X",
+        "word": "Xenon",
+        "emoji": "💡",
+        "bgColor": "#9575CD"
+      },
+      {
+        "letter": "V",
+        "word": "Vanadium",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Y",
+        "word": "Yttrium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "J",
+        "word": "Jet Metal",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Gallium",
+        "emoji": "🌡️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "I",
+        "word": "Iridium",
+        "emoji": "✨",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "Q",
+        "word": "Quartz Crystal",
+        "emoji": "💎",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "metals-4",
+    "title": "Metals & Elements - Part 4",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "metals-5",
+    "title": "Metals & Elements - Part 5",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "metals-6",
+    "title": "Metals & Elements - Part 6",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "metals-7",
+    "title": "Metals & Elements - Part 7",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "metals-8",
+    "title": "Metals & Elements - Part 8",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "metals-9",
+    "title": "Metals & Elements - Part 9",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "metals-10",
+    "title": "Metals & Elements - Part 10",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "metals-11",
+    "title": "Metals & Elements - Part 11",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "metals-12",
+    "title": "Metals & Elements - Part 12",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "metals-13",
+    "title": "Metals & Elements - Part 13",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "metals-14",
+    "title": "Metals & Elements - Part 14",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "metals-15",
+    "title": "Metals & Elements - Part 15",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "metals-16",
+    "title": "Metals & Elements - Part 16",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "metals-17",
+    "title": "Metals & Elements - Part 17",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "metals-18",
+    "title": "Metals & Elements - Part 18",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "metals-19",
+    "title": "Metals & Elements - Part 19",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "metals-20",
+    "title": "Metals & Elements - Part 20",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "metals-21",
+    "title": "Metals & Elements - Part 21",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "metals-22",
+    "title": "Metals & Elements - Part 22",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "metals-23",
+    "title": "Metals & Elements - Part 23",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "metals-24",
+    "title": "Metals & Elements - Part 24",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "metals-25",
+    "title": "Metals & Elements - Part 25",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "metals-26",
+    "title": "Metals & Elements - Part 26",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "metals-27",
+    "title": "Metals & Elements - Part 27",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "metals-28",
+    "title": "Metals & Elements - Part 28",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "metals-29",
+    "title": "Metals & Elements - Part 29",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "metals-30",
+    "title": "Metals & Elements - Part 30",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "B",
+        "word": "Bronze",
+        "emoji": "🥉",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Aluminum",
+        "emoji": "🪙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Titanium",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Steel",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tin",
+        "emoji": "🥫",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Lead",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nickel",
+        "emoji": "🪙",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chromium",
+        "emoji": "⚙️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "🌡️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  }
+]

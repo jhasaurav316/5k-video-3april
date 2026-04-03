@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "alphabet-phonics-1",
+    "title": "Alphabet Phonics - Part 1",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "alphabet-phonics-2",
+    "title": "Alphabet Phonics - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rain",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tree",
+        "emoji": "🌳",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "☂️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "alphabet-phonics-3",
+    "title": "Alphabet Phonics - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Egg",
+        "emoji": "🥚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "G",
+        "word": "Grapes",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jam",
+        "emoji": "🍓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "King",
+        "emoji": "🤴",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "O",
+        "word": "Owl",
+        "emoji": "🦉",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pizza",
+        "emoji": "🍕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "alphabet-phonics-4",
+    "title": "Alphabet Phonics - Part 4",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "alphabet-phonics-5",
+    "title": "Alphabet Phonics - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "alphabet-phonics-6",
+    "title": "Alphabet Phonics - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "alphabet-phonics-7",
+    "title": "Alphabet Phonics - Part 7",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "alphabet-phonics-8",
+    "title": "Alphabet Phonics - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "alphabet-phonics-9",
+    "title": "Alphabet Phonics - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "alphabet-phonics-10",
+    "title": "Alphabet Phonics - Part 10",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "alphabet-phonics-11",
+    "title": "Alphabet Phonics - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "alphabet-phonics-12",
+    "title": "Alphabet Phonics - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "alphabet-phonics-13",
+    "title": "Alphabet Phonics - Part 13",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "alphabet-phonics-14",
+    "title": "Alphabet Phonics - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "alphabet-phonics-15",
+    "title": "Alphabet Phonics - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "alphabet-phonics-16",
+    "title": "Alphabet Phonics - Part 16",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "alphabet-phonics-17",
+    "title": "Alphabet Phonics - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "alphabet-phonics-18",
+    "title": "Alphabet Phonics - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "alphabet-phonics-19",
+    "title": "Alphabet Phonics - Part 19",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "alphabet-phonics-20",
+    "title": "Alphabet Phonics - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "alphabet-phonics-21",
+    "title": "Alphabet Phonics - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "alphabet-phonics-22",
+    "title": "Alphabet Phonics - Part 22",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "alphabet-phonics-23",
+    "title": "Alphabet Phonics - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "alphabet-phonics-24",
+    "title": "Alphabet Phonics - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "alphabet-phonics-25",
+    "title": "Alphabet Phonics - Part 25",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "alphabet-phonics-26",
+    "title": "Alphabet Phonics - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "alphabet-phonics-27",
+    "title": "Alphabet Phonics - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "alphabet-phonics-28",
+    "title": "Alphabet Phonics - Part 28",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "alphabet-phonics-29",
+    "title": "Alphabet Phonics - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "alphabet-phonics-30",
+    "title": "Alphabet Phonics - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goat",
+        "emoji": "🐐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Juice",
+        "emoji": "🧃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  }
+]

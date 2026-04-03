@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "robots-1",
+    "title": "Robots & Machines - Part 1",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "robots-2",
+    "title": "Robots & Machines - Part 2",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Antenna",
+        "emoji": "📡",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Speaker",
+        "emoji": "🔊",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Camera",
+        "emoji": "📷",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Scanner",
+        "emoji": "🔍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Remote Control",
+        "emoji": "🎮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "J",
+        "word": "Joystick",
+        "emoji": "🕹️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microchip",
+        "emoji": "🔬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Transformer",
+        "emoji": "🤖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Humanoid",
+        "emoji": "🧑‍🔬",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nano Bot",
+        "emoji": "🔬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Rover",
+        "emoji": "🤖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Satellite Bot",
+        "emoji": "🛰️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "A",
+        "word": "AI Brain",
+        "emoji": "🧠",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Factory Bot",
+        "emoji": "🏭",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "robots-3",
+    "title": "Robots & Machines - Part 3",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Claw Machine",
+        "emoji": "🦾",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "D",
+        "word": "Data Bot",
+        "emoji": "💾",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "W",
+        "word": "Welding Bot",
+        "emoji": "🔥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Probe",
+        "emoji": "🛸",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Robotic Arm",
+        "emoji": "🦾",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turret",
+        "emoji": "🎯",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum Bot",
+        "emoji": "🧹",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "K",
+        "word": "Kitchen Bot",
+        "emoji": "🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Guard Bot",
+        "emoji": "🛡️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Optimus",
+        "emoji": "🤖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Bumble Bot",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "U",
+        "word": "Utility Bot",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray Machine",
+        "emoji": "🔬",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero Bot",
+        "emoji": "🤖",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "I",
+        "word": "Inspector Bot",
+        "emoji": "🔎",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "robots-4",
+    "title": "Robots & Machines - Part 4",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "robots-5",
+    "title": "Robots & Machines - Part 5",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "robots-6",
+    "title": "Robots & Machines - Part 6",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "robots-7",
+    "title": "Robots & Machines - Part 7",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "robots-8",
+    "title": "Robots & Machines - Part 8",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "robots-9",
+    "title": "Robots & Machines - Part 9",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "robots-10",
+    "title": "Robots & Machines - Part 10",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "robots-11",
+    "title": "Robots & Machines - Part 11",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "robots-12",
+    "title": "Robots & Machines - Part 12",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "robots-13",
+    "title": "Robots & Machines - Part 13",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "robots-14",
+    "title": "Robots & Machines - Part 14",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "robots-15",
+    "title": "Robots & Machines - Part 15",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "robots-16",
+    "title": "Robots & Machines - Part 16",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "robots-17",
+    "title": "Robots & Machines - Part 17",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "robots-18",
+    "title": "Robots & Machines - Part 18",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "robots-19",
+    "title": "Robots & Machines - Part 19",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "robots-20",
+    "title": "Robots & Machines - Part 20",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "robots-21",
+    "title": "Robots & Machines - Part 21",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "robots-22",
+    "title": "Robots & Machines - Part 22",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "robots-23",
+    "title": "Robots & Machines - Part 23",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "robots-24",
+    "title": "Robots & Machines - Part 24",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "robots-25",
+    "title": "Robots & Machines - Part 25",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "robots-26",
+    "title": "Robots & Machines - Part 26",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "robots-27",
+    "title": "Robots & Machines - Part 27",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "robots-28",
+    "title": "Robots & Machines - Part 28",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "robots-29",
+    "title": "Robots & Machines - Part 29",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "robots-30",
+    "title": "Robots & Machines - Part 30",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🚁",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Computer",
+        "emoji": "💻",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Android",
+        "emoji": "🤖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cyborg",
+        "emoji": "🦾",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Processor",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sensor",
+        "emoji": "📡",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Laser",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Circuit",
+        "emoji": "💡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Motor",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  }
+]

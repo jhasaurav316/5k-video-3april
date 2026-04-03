@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "colors-1",
+    "title": "Colors - Part 1",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "colors-2",
+    "title": "Colors - Part 2",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "I",
+        "word": "Indigo",
+        "emoji": "💙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "V",
+        "word": "Violet",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🪸",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crimson",
+        "emoji": "❤️",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#9575CD"
+      },
+      {
+        "letter": "M",
+        "word": "Maroon",
+        "emoji": "🔴",
+        "bgColor": "#6D4C41"
+      },
+      {
+        "letter": "N",
+        "word": "Navy",
+        "emoji": "💙",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "O",
+        "word": "Olive",
+        "emoji": "🫒",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Scarlet",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Turquoise",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Beige",
+        "emoji": "🟤",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "C",
+        "word": "Chartreuse",
+        "emoji": "🟢",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "E",
+        "word": "Emerald",
+        "emoji": "💚",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "colors-3",
+    "title": "Colors - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fuchsia",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Pink",
+        "emoji": "💗",
+        "bgColor": "#FF1493"
+      },
+      {
+        "letter": "I",
+        "word": "Ivory",
+        "emoji": "⚪",
+        "bgColor": "#FFFFF0"
+      },
+      {
+        "letter": "K",
+        "word": "Khaki",
+        "emoji": "🟤",
+        "bgColor": "#F0E68C"
+      },
+      {
+        "letter": "L",
+        "word": "Lime",
+        "emoji": "🟢",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🟢",
+        "bgColor": "#98FF98"
+      },
+      {
+        "letter": "P",
+        "word": "Plum",
+        "emoji": "🟣",
+        "bgColor": "#8E24AA"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💙",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tan",
+        "emoji": "🟤",
+        "bgColor": "#D2B48C"
+      },
+      {
+        "letter": "A",
+        "word": "Amber",
+        "emoji": "🟠",
+        "bgColor": "#FFBF00"
+      },
+      {
+        "letter": "C",
+        "word": "Copper",
+        "emoji": "🟤",
+        "bgColor": "#B87333"
+      },
+      {
+        "letter": "J",
+        "word": "Jade",
+        "emoji": "💚",
+        "bgColor": "#00A86B"
+      },
+      {
+        "letter": "M",
+        "word": "Mauve",
+        "emoji": "💜",
+        "bgColor": "#E0B0FF"
+      },
+      {
+        "letter": "P",
+        "word": "Periwinkle",
+        "emoji": "💙",
+        "bgColor": "#CCCCFF"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "colors-4",
+    "title": "Colors - Part 4",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "colors-5",
+    "title": "Colors - Part 5",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "colors-6",
+    "title": "Colors - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "colors-7",
+    "title": "Colors - Part 7",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "colors-8",
+    "title": "Colors - Part 8",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "colors-9",
+    "title": "Colors - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "colors-10",
+    "title": "Colors - Part 10",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "colors-11",
+    "title": "Colors - Part 11",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "colors-12",
+    "title": "Colors - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "colors-13",
+    "title": "Colors - Part 13",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "colors-14",
+    "title": "Colors - Part 14",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "colors-15",
+    "title": "Colors - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "colors-16",
+    "title": "Colors - Part 16",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "colors-17",
+    "title": "Colors - Part 17",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "colors-18",
+    "title": "Colors - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "colors-19",
+    "title": "Colors - Part 19",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "colors-20",
+    "title": "Colors - Part 20",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "colors-21",
+    "title": "Colors - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "colors-22",
+    "title": "Colors - Part 22",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "colors-23",
+    "title": "Colors - Part 23",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "colors-24",
+    "title": "Colors - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "colors-25",
+    "title": "Colors - Part 25",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "colors-26",
+    "title": "Colors - Part 26",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "colors-27",
+    "title": "Colors - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "colors-28",
+    "title": "Colors - Part 28",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "colors-29",
+    "title": "Colors - Part 29",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "colors-30",
+    "title": "Colors - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Blue",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Green",
+        "emoji": "🟢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🟠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Purple",
+        "emoji": "🟣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pink",
+        "emoji": "💗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "White",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Black",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Brown",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cyan",
+        "emoji": "💙",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Magenta",
+        "emoji": "💜",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Teal",
+        "emoji": "💎",
+        "bgColor": "#00838F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  }
+]

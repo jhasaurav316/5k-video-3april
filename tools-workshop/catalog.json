@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "tools-workshop-1",
+    "title": "Workshop Tools - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "tools-workshop-2",
+    "title": "Workshop Tools - Part 2",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "V",
+        "word": "Vise",
+        "emoji": "🗜️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Chisel",
+        "emoji": "🔪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "A",
+        "word": "Axe",
+        "emoji": "🪓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hacksaw",
+        "emoji": "🪚",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wire Cutter",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Power Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Staple Gun",
+        "emoji": "🔫",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Toolbox",
+        "emoji": "🧰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mallet",
+        "emoji": "🔨",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bolt",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Washer",
+        "emoji": "⭕",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "N",
+        "word": "Nut Bolt",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Ratchet",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "tools-workshop-3",
+    "title": "Workshop Tools - Part 3",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jigsaw",
+        "emoji": "🧩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Circular Saw",
+        "emoji": "🪚",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Socket Set",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Duct Tape",
+        "emoji": "🟦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Electrical Tape",
+        "emoji": "⚡",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Plumber Wrench",
+        "emoji": "🔧",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Grinder",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "I",
+        "word": "Impact Driver",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "Utility Knife",
+        "emoji": "🔪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Keyhole Saw",
+        "emoji": "🪚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Can",
+        "emoji": "🛢️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Zip Tie",
+        "emoji": "🟦",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "X",
+        "word": "X-Acto Knife",
+        "emoji": "🔪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yard Stick",
+        "emoji": "📏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "tools-workshop-4",
+    "title": "Workshop Tools - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "tools-workshop-5",
+    "title": "Workshop Tools - Part 5",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "tools-workshop-6",
+    "title": "Workshop Tools - Part 6",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "tools-workshop-7",
+    "title": "Workshop Tools - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "tools-workshop-8",
+    "title": "Workshop Tools - Part 8",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "tools-workshop-9",
+    "title": "Workshop Tools - Part 9",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "tools-workshop-10",
+    "title": "Workshop Tools - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "tools-workshop-11",
+    "title": "Workshop Tools - Part 11",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "tools-workshop-12",
+    "title": "Workshop Tools - Part 12",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "tools-workshop-13",
+    "title": "Workshop Tools - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "tools-workshop-14",
+    "title": "Workshop Tools - Part 14",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "tools-workshop-15",
+    "title": "Workshop Tools - Part 15",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "tools-workshop-16",
+    "title": "Workshop Tools - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "tools-workshop-17",
+    "title": "Workshop Tools - Part 17",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "tools-workshop-18",
+    "title": "Workshop Tools - Part 18",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "tools-workshop-19",
+    "title": "Workshop Tools - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "tools-workshop-20",
+    "title": "Workshop Tools - Part 20",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "tools-workshop-21",
+    "title": "Workshop Tools - Part 21",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "tools-workshop-22",
+    "title": "Workshop Tools - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "tools-workshop-23",
+    "title": "Workshop Tools - Part 23",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "tools-workshop-24",
+    "title": "Workshop Tools - Part 24",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "tools-workshop-25",
+    "title": "Workshop Tools - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "tools-workshop-26",
+    "title": "Workshop Tools - Part 26",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "tools-workshop-27",
+    "title": "Workshop Tools - Part 27",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "tools-workshop-28",
+    "title": "Workshop Tools - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "tools-workshop-29",
+    "title": "Workshop Tools - Part 29",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "tools-workshop-30",
+    "title": "Workshop Tools - Part 30",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screwdriver",
+        "emoji": "🪛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Saw",
+        "emoji": "🪚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔩",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tape Measure",
+        "emoji": "📏",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Clamp",
+        "emoji": "🗜️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Sandpaper",
+        "emoji": "📄",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Paint Brush",
+        "emoji": "🖌️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glue Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "kitchen-appliances-1",
+    "title": "Kitchen Appliances - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "kitchen-appliances-2",
+    "title": "Kitchen Appliances - Part 2",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Waffle Iron",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "F",
+        "word": "Food Processor",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Maker",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tea Pot",
+        "emoji": "🫖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Espresso Machine",
+        "emoji": "☕",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn Maker",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sandwich Press",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Can Opener",
+        "emoji": "🥫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Deep Fryer",
+        "emoji": "🍟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Air Fryer",
+        "emoji": "🌀",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "B",
+        "word": "Bread Maker",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hand Mixer",
+        "emoji": "🥄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Scale",
+        "emoji": "⚖️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Timer",
+        "emoji": "⏲️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chopper",
+        "emoji": "🔪",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "kitchen-appliances-3",
+    "title": "Kitchen Appliances - Part 3",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "V",
+        "word": "Vacuum Sealer",
+        "emoji": "📦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Ladle",
+        "emoji": "🥄",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "N",
+        "word": "Nutribullet",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wok",
+        "emoji": "🥘",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "Z",
+        "word": "Zester",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Y",
+        "word": "Yogurt Maker",
+        "emoji": "🥛",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "X",
+        "word": "Xtra Burner",
+        "emoji": "🔥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Utility Tray",
+        "emoji": "🍽️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Pot",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Range Hood",
+        "emoji": "💨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Garbage Disposal",
+        "emoji": "🗑️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pan",
+        "emoji": "🍳",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spatula",
+        "emoji": "🥄",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cutting Board",
+        "emoji": "🪵",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "K",
+        "word": "Knife Set",
+        "emoji": "🔪",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "kitchen-appliances-4",
+    "title": "Kitchen Appliances - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "kitchen-appliances-5",
+    "title": "Kitchen Appliances - Part 5",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "kitchen-appliances-6",
+    "title": "Kitchen Appliances - Part 6",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "kitchen-appliances-7",
+    "title": "Kitchen Appliances - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "kitchen-appliances-8",
+    "title": "Kitchen Appliances - Part 8",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "kitchen-appliances-9",
+    "title": "Kitchen Appliances - Part 9",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "kitchen-appliances-10",
+    "title": "Kitchen Appliances - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "kitchen-appliances-11",
+    "title": "Kitchen Appliances - Part 11",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "kitchen-appliances-12",
+    "title": "Kitchen Appliances - Part 12",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "kitchen-appliances-13",
+    "title": "Kitchen Appliances - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "kitchen-appliances-14",
+    "title": "Kitchen Appliances - Part 14",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "kitchen-appliances-15",
+    "title": "Kitchen Appliances - Part 15",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "kitchen-appliances-16",
+    "title": "Kitchen Appliances - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "kitchen-appliances-17",
+    "title": "Kitchen Appliances - Part 17",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "kitchen-appliances-18",
+    "title": "Kitchen Appliances - Part 18",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "kitchen-appliances-19",
+    "title": "Kitchen Appliances - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "kitchen-appliances-20",
+    "title": "Kitchen Appliances - Part 20",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "kitchen-appliances-21",
+    "title": "Kitchen Appliances - Part 21",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "kitchen-appliances-22",
+    "title": "Kitchen Appliances - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "kitchen-appliances-23",
+    "title": "Kitchen Appliances - Part 23",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "kitchen-appliances-24",
+    "title": "Kitchen Appliances - Part 24",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "kitchen-appliances-25",
+    "title": "Kitchen Appliances - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "kitchen-appliances-26",
+    "title": "Kitchen Appliances - Part 26",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "kitchen-appliances-27",
+    "title": "Kitchen Appliances - Part 27",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "kitchen-appliances-28",
+    "title": "Kitchen Appliances - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "kitchen-appliances-29",
+    "title": "Kitchen Appliances - Part 29",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "kitchen-appliances-30",
+    "title": "Kitchen Appliances - Part 30",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Blender",
+        "emoji": "🫙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toaster",
+        "emoji": "🍞",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Microwave",
+        "emoji": "📦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Oven",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fridge",
+        "emoji": "🧊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dishwasher",
+        "emoji": "🍽️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kettle",
+        "emoji": "🫖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Coffee Maker",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Juicer",
+        "emoji": "🍊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Stove",
+        "emoji": "🍳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Grill",
+        "emoji": "🔥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cooker",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pressure Cooker",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Slow Cooker",
+        "emoji": "🥘",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  }
+]

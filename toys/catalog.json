@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "toys-1",
+    "title": "Toys - Part 1",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "toys-2",
+    "title": "Toys - Part 2",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Marbles",
+        "emoji": "🔮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jack-in-Box",
+        "emoji": "🤡",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Playdough",
+        "emoji": "🎨",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hula Hoop",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rattle",
+        "emoji": "🎵",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Stuffed Animal",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "T",
+        "word": "Toy Soldier",
+        "emoji": "🧑‍✈️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Action Figure",
+        "emoji": "🦸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "Nerf Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clay",
+        "emoji": "🏺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "G",
+        "word": "Game Board",
+        "emoji": "🎲",
+        "bgColor": "#4527A0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "toys-3",
+    "title": "Toys - Part 3",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "U",
+        "word": "Unicycle",
+        "emoji": "🚲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Puppet",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Rubik Cube",
+        "emoji": "🟥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scooter",
+        "emoji": "🛴",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "K",
+        "word": "Kaleidoscope",
+        "emoji": "🔭",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Water Gun",
+        "emoji": "🔫",
+        "bgColor": "#2196F3"
+      },
+      {
+        "letter": "D",
+        "word": "Dinosaur Toy",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Balloon",
+        "emoji": "🎈",
+        "bgColor": "#F44336"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Tricycle",
+        "emoji": "🚲",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lincoln Logs",
+        "emoji": "🪵",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter Toy",
+        "emoji": "🚁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Model Kit",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Paint",
+        "emoji": "🎨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sand Castle",
+        "emoji": "🏰",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "toys-4",
+    "title": "Toys - Part 4",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jigsaw",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "toys-5",
+    "title": "Toys - Part 5",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "toys-6",
+    "title": "Toys - Part 6",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "toys-7",
+    "title": "Toys - Part 7",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "toys-8",
+    "title": "Toys - Part 8",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "toys-9",
+    "title": "Toys - Part 9",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "toys-10",
+    "title": "Toys - Part 10",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "toys-11",
+    "title": "Toys - Part 11",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "toys-12",
+    "title": "Toys - Part 12",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "toys-13",
+    "title": "Toys - Part 13",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "toys-14",
+    "title": "Toys - Part 14",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "toys-15",
+    "title": "Toys - Part 15",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "toys-16",
+    "title": "Toys - Part 16",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "toys-17",
+    "title": "Toys - Part 17",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "toys-18",
+    "title": "Toys - Part 18",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "toys-19",
+    "title": "Toys - Part 19",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "toys-20",
+    "title": "Toys - Part 20",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "toys-21",
+    "title": "Toys - Part 21",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "toys-22",
+    "title": "Toys - Part 22",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "toys-23",
+    "title": "Toys - Part 23",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "toys-24",
+    "title": "Toys - Part 24",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "toys-25",
+    "title": "Toys - Part 25",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "toys-26",
+    "title": "Toys - Part 26",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "toys-27",
+    "title": "Toys - Part 27",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "toys-28",
+    "title": "Toys - Part 28",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "toys-29",
+    "title": "Toys - Part 29",
+    "bgGradient": [
+      "#E91E63",
+      "#F48FB1"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "toys-30",
+    "title": "Toys - Part 30",
+    "bgGradient": [
+      "#2196F3",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "D",
+        "word": "Doll",
+        "emoji": "🪆",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Puzzle",
+        "emoji": "🧩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "L",
+        "word": "Lego",
+        "emoji": "🧱",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Y",
+        "word": "Yo-Yo",
+        "emoji": "🪀",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Top",
+        "emoji": "🪅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Slinky",
+        "emoji": "🌀",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Blocks",
+        "emoji": "🧱",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  }
+]

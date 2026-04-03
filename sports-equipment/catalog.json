@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "sports-equipment-1",
+    "title": "Sports Equipment - Part 1",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "sports-equipment-2",
+    "title": "Sports Equipment - Part 2",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dumbbell",
+        "emoji": "🏋️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "👕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Trophy",
+        "emoji": "🏆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Medal",
+        "emoji": "🥇",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Stopwatch",
+        "emoji": "⏱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cleats",
+        "emoji": "👟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Goal Post",
+        "emoji": "🥅",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tennis Ball",
+        "emoji": "🎾",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "B",
+        "word": "Basketball",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Football",
+        "emoji": "🏈",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Soccer Ball",
+        "emoji": "⚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball",
+        "emoji": "🏐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket Ball",
+        "emoji": "🏏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Baseball",
+        "emoji": "⚾",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Golf Ball",
+        "emoji": "⛳",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "sports-equipment-3",
+    "title": "Sports Equipment - Part 3",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paddle",
+        "emoji": "🏓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing Glove",
+        "emoji": "🥊",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Archery Bow",
+        "emoji": "🏹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing Sword",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Knee Pad",
+        "emoji": "🛡️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Shin Guard",
+        "emoji": "🦵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Roller Skate",
+        "emoji": "🛼",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Skate",
+        "emoji": "⛸️",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "W",
+        "word": "Water Polo Ball",
+        "emoji": "🤽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Y",
+        "word": "Yoga Mat",
+        "emoji": "🧘",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Javelin",
+        "emoji": "🏹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🥏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Lacrosse Stick",
+        "emoji": "🥍",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Rope",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "sports-equipment-4",
+    "title": "Sports Equipment - Part 4",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "sports-equipment-5",
+    "title": "Sports Equipment - Part 5",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "sports-equipment-6",
+    "title": "Sports Equipment - Part 6",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "sports-equipment-7",
+    "title": "Sports Equipment - Part 7",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "sports-equipment-8",
+    "title": "Sports Equipment - Part 8",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "sports-equipment-9",
+    "title": "Sports Equipment - Part 9",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "sports-equipment-10",
+    "title": "Sports Equipment - Part 10",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "sports-equipment-11",
+    "title": "Sports Equipment - Part 11",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "sports-equipment-12",
+    "title": "Sports Equipment - Part 12",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "sports-equipment-13",
+    "title": "Sports Equipment - Part 13",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "sports-equipment-14",
+    "title": "Sports Equipment - Part 14",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "sports-equipment-15",
+    "title": "Sports Equipment - Part 15",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "sports-equipment-16",
+    "title": "Sports Equipment - Part 16",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "sports-equipment-17",
+    "title": "Sports Equipment - Part 17",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "sports-equipment-18",
+    "title": "Sports Equipment - Part 18",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "sports-equipment-19",
+    "title": "Sports Equipment - Part 19",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "sports-equipment-20",
+    "title": "Sports Equipment - Part 20",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "sports-equipment-21",
+    "title": "Sports Equipment - Part 21",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "sports-equipment-22",
+    "title": "Sports Equipment - Part 22",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "sports-equipment-23",
+    "title": "Sports Equipment - Part 23",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "sports-equipment-24",
+    "title": "Sports Equipment - Part 24",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "sports-equipment-25",
+    "title": "Sports Equipment - Part 25",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "sports-equipment-26",
+    "title": "Sports Equipment - Part 26",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "sports-equipment-27",
+    "title": "Sports Equipment - Part 27",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "sports-equipment-28",
+    "title": "Sports Equipment - Part 28",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "sports-equipment-29",
+    "title": "Sports Equipment - Part 29",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "sports-equipment-30",
+    "title": "Sports Equipment - Part 30",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Ball",
+        "emoji": "⚽",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🏏",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Racket",
+        "emoji": "🏸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shuttlecock",
+        "emoji": "🏸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hoop",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "📯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboard",
+        "emoji": "🏂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Ski",
+        "emoji": "⛷️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Puck",
+        "emoji": "🏒",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Stick",
+        "emoji": "🏒",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  }
+]

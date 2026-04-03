@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "superheroes-1",
+    "title": "Superheroes - Part 1",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "superheroes-2",
+    "title": "Superheroes - Part 2",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Deadpool",
+        "emoji": "🗡️",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Wolverine",
+        "emoji": "🐺",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "S",
+        "word": "Storm",
+        "emoji": "⛈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cyclops",
+        "emoji": "👁️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Groot",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "A",
+        "word": "Ant-Man",
+        "emoji": "🐜",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "V",
+        "word": "Vision",
+        "emoji": "💎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nightwing",
+        "emoji": "🦅",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Batgirl",
+        "emoji": "🦇",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "S",
+        "word": "Shazam",
+        "emoji": "⚡",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "D",
+        "word": "Doctor Strange",
+        "emoji": "🔮",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "P",
+        "word": "Power Ranger",
+        "emoji": "🦸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Loki",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "T",
+        "word": "Thanos",
+        "emoji": "🫰",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "superheroes-3",
+    "title": "Superheroes - Part 3",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Magneto",
+        "emoji": "🧲",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Jean Grey",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Professor X",
+        "emoji": "🧠",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Silver Surfer",
+        "emoji": "🏄",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "G",
+        "word": "Gamora",
+        "emoji": "🗡️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Harley Quinn",
+        "emoji": "🃏",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "King Kong",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Zatanna",
+        "emoji": "🎩",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "F",
+        "word": "Falcon",
+        "emoji": "🦅",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Catwoman",
+        "emoji": "🐱",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Optimus Prime",
+        "emoji": "🤖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Mystique",
+        "emoji": "💙",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "R",
+        "word": "Rogue",
+        "emoji": "🧤",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "superheroes-4",
+    "title": "Superheroes - Part 4",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "superheroes-5",
+    "title": "Superheroes - Part 5",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "superheroes-6",
+    "title": "Superheroes - Part 6",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "superheroes-7",
+    "title": "Superheroes - Part 7",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "superheroes-8",
+    "title": "Superheroes - Part 8",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "superheroes-9",
+    "title": "Superheroes - Part 9",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "superheroes-10",
+    "title": "Superheroes - Part 10",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "superheroes-11",
+    "title": "Superheroes - Part 11",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "superheroes-12",
+    "title": "Superheroes - Part 12",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "superheroes-13",
+    "title": "Superheroes - Part 13",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "superheroes-14",
+    "title": "Superheroes - Part 14",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "superheroes-15",
+    "title": "Superheroes - Part 15",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "superheroes-16",
+    "title": "Superheroes - Part 16",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "superheroes-17",
+    "title": "Superheroes - Part 17",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "superheroes-18",
+    "title": "Superheroes - Part 18",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "superheroes-19",
+    "title": "Superheroes - Part 19",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "superheroes-20",
+    "title": "Superheroes - Part 20",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "superheroes-21",
+    "title": "Superheroes - Part 21",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "superheroes-22",
+    "title": "Superheroes - Part 22",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "superheroes-23",
+    "title": "Superheroes - Part 23",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "superheroes-24",
+    "title": "Superheroes - Part 24",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "superheroes-25",
+    "title": "Superheroes - Part 25",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "superheroes-26",
+    "title": "Superheroes - Part 26",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "superheroes-27",
+    "title": "Superheroes - Part 27",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "superheroes-28",
+    "title": "Superheroes - Part 28",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "superheroes-29",
+    "title": "Superheroes - Part 29",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "superheroes-30",
+    "title": "Superheroes - Part 30",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Superman",
+        "emoji": "🦸‍♂️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Batman",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider-Man",
+        "emoji": "🕷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wonder Woman",
+        "emoji": "⭐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Man",
+        "emoji": "🤖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "C",
+        "word": "Captain America",
+        "emoji": "🛡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thor",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hulk",
+        "emoji": "💪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Flash",
+        "emoji": "⚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aquaman",
+        "emoji": "🔱",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "G",
+        "word": "Green Lantern",
+        "emoji": "💚",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "B",
+        "word": "Black Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supergirl",
+        "emoji": "🦸‍♀️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkeye",
+        "emoji": "🏹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  }
+]

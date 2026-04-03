@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "herbs-1",
+    "title": "Herbs - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "herbs-2",
+    "title": "Herbs - Part 2",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lemongrass",
+        "emoji": "🌿",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "M",
+        "word": "Marjoram",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sorrel",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Curry Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Epazote",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "G",
+        "word": "Ginseng",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hyssop",
+        "emoji": "🌿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jasmine",
+        "emoji": "🌸",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "K",
+        "word": "Kaffir Lime",
+        "emoji": "🍈",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lovage",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Nettle",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Peppermint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "R",
+        "word": "Rue",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Spearmint",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wintergreen",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "herbs-3",
+    "title": "Herbs - Part 3",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Angelica",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "B",
+        "word": "Borage",
+        "emoji": "🌸",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Catnip",
+        "emoji": "🐱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Comfrey",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Feverfew",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Horehound",
+        "emoji": "🌿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon Balm",
+        "emoji": "🍋",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "M",
+        "word": "Mugwort",
+        "emoji": "🌿",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pennyroyal",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Stevia",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tansy",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "V",
+        "word": "Verbena",
+        "emoji": "🌿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "W",
+        "word": "Woodruff",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yarrow",
+        "emoji": "🌸",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Chervil",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "herbs-4",
+    "title": "Herbs - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "herbs-5",
+    "title": "Herbs - Part 5",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "herbs-6",
+    "title": "Herbs - Part 6",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "herbs-7",
+    "title": "Herbs - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "herbs-8",
+    "title": "Herbs - Part 8",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "herbs-9",
+    "title": "Herbs - Part 9",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "herbs-10",
+    "title": "Herbs - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "herbs-11",
+    "title": "Herbs - Part 11",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "herbs-12",
+    "title": "Herbs - Part 12",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "herbs-13",
+    "title": "Herbs - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "herbs-14",
+    "title": "Herbs - Part 14",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "herbs-15",
+    "title": "Herbs - Part 15",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "herbs-16",
+    "title": "Herbs - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "herbs-17",
+    "title": "Herbs - Part 17",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "herbs-18",
+    "title": "Herbs - Part 18",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "herbs-19",
+    "title": "Herbs - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "herbs-20",
+    "title": "Herbs - Part 20",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "herbs-21",
+    "title": "Herbs - Part 21",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "herbs-22",
+    "title": "Herbs - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "herbs-23",
+    "title": "Herbs - Part 23",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "herbs-24",
+    "title": "Herbs - Part 24",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "herbs-25",
+    "title": "Herbs - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "herbs-26",
+    "title": "Herbs - Part 26",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "herbs-27",
+    "title": "Herbs - Part 27",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "herbs-28",
+    "title": "Herbs - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "herbs-29",
+    "title": "Herbs - Part 29",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "herbs-30",
+    "title": "Herbs - Part 30",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Basil",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mint",
+        "emoji": "🌿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "P",
+        "word": "Parsley",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rosemary",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Thyme",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cilantro",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dill",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "O",
+        "word": "Oregano",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sage",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "C",
+        "word": "Chive",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tarragon",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Bay Leaf",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "C",
+        "word": "Chamomile",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  }
+]

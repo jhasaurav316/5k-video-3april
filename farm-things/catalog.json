@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "farm-things-1",
+    "title": "Farm Things - Part 1",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "farm-things-2",
+    "title": "Farm Things - Part 2",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🧹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Milk Pail",
+        "emoji": "🥛",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Egg",
+        "emoji": "🥚",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "A",
+        "word": "Apple Tree",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Farmer",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gate",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Horseshoe",
+        "emoji": "🧲",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "I",
+        "word": "Irrigation",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lasso",
+        "emoji": "🪢",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Orchard",
+        "emoji": "🍏",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pasture",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Stable",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trough",
+        "emoji": "🪣",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "farm-things-3",
+    "title": "Farm Things - Part 3",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "V",
+        "word": "Vineyard",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Beehive",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dairy",
+        "emoji": "🥛",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feed",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Grain",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Henhouse",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pond",
+        "emoji": "🏞️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rooster",
+        "emoji": "🐓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Water Tank",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Y",
+        "word": "Yard",
+        "emoji": "🏡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Crop",
+        "emoji": "🌾",
+        "bgColor": "#8BC34A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "farm-things-4",
+    "title": "Farm Things - Part 4",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "farm-things-5",
+    "title": "Farm Things - Part 5",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "farm-things-6",
+    "title": "Farm Things - Part 6",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "farm-things-7",
+    "title": "Farm Things - Part 7",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "farm-things-8",
+    "title": "Farm Things - Part 8",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "farm-things-9",
+    "title": "Farm Things - Part 9",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "farm-things-10",
+    "title": "Farm Things - Part 10",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "farm-things-11",
+    "title": "Farm Things - Part 11",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "farm-things-12",
+    "title": "Farm Things - Part 12",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "farm-things-13",
+    "title": "Farm Things - Part 13",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "farm-things-14",
+    "title": "Farm Things - Part 14",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "farm-things-15",
+    "title": "Farm Things - Part 15",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "farm-things-16",
+    "title": "Farm Things - Part 16",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "farm-things-17",
+    "title": "Farm Things - Part 17",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "farm-things-18",
+    "title": "Farm Things - Part 18",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "farm-things-19",
+    "title": "Farm Things - Part 19",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "farm-things-20",
+    "title": "Farm Things - Part 20",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "farm-things-21",
+    "title": "Farm Things - Part 21",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "farm-things-22",
+    "title": "Farm Things - Part 22",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "farm-things-23",
+    "title": "Farm Things - Part 23",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "farm-things-24",
+    "title": "Farm Things - Part 24",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "farm-things-25",
+    "title": "Farm Things - Part 25",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "farm-things-26",
+    "title": "Farm Things - Part 26",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "farm-things-27",
+    "title": "Farm Things - Part 27",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "farm-things-28",
+    "title": "Farm Things - Part 28",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "farm-things-29",
+    "title": "Farm Things - Part 29",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "farm-things-30",
+    "title": "Farm Things - Part 30",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Garden",
+        "emoji": "🌻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🧑‍🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cow",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Coop",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Well",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  }
+]

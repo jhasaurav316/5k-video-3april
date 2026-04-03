@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "cleaning-items-1",
+    "title": "Cleaning Items - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "cleaning-items-2",
+    "title": "Cleaning Items - Part 2",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dish Soap",
+        "emoji": "🧴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrub Brush",
+        "emoji": "🪥",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cloth",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Feather Duster",
+        "emoji": "🪶",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Plunger",
+        "emoji": "🪠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lint Roller",
+        "emoji": "🧻",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hand Sanitizer",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Air Freshener",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🫧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "💨",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Clothesline",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Polish",
+        "emoji": "✨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rag",
+        "emoji": "🧣",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "cleaning-items-3",
+    "title": "Cleaning Items - Part 3",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mop Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Squeegee",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet Brush",
+        "emoji": "🪥",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dustpan",
+        "emoji": "🧹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Floor Cleaner",
+        "emoji": "🧴",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Carpet Cleaner",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Napkin",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Odor Remover",
+        "emoji": "💨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser Sponge",
+        "emoji": "🧽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "K",
+        "word": "Kitchen Cleaner",
+        "emoji": "🧴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Glass Cleaner",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Upholstery Clean",
+        "emoji": "🛋️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "J",
+        "word": "Janitor Cart",
+        "emoji": "🛒",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zip Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yard Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "cleaning-items-4",
+    "title": "Cleaning Items - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "cleaning-items-5",
+    "title": "Cleaning Items - Part 5",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "cleaning-items-6",
+    "title": "Cleaning Items - Part 6",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "cleaning-items-7",
+    "title": "Cleaning Items - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "cleaning-items-8",
+    "title": "Cleaning Items - Part 8",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "cleaning-items-9",
+    "title": "Cleaning Items - Part 9",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "cleaning-items-10",
+    "title": "Cleaning Items - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "cleaning-items-11",
+    "title": "Cleaning Items - Part 11",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "cleaning-items-12",
+    "title": "Cleaning Items - Part 12",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "cleaning-items-13",
+    "title": "Cleaning Items - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "cleaning-items-14",
+    "title": "Cleaning Items - Part 14",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "cleaning-items-15",
+    "title": "Cleaning Items - Part 15",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "cleaning-items-16",
+    "title": "Cleaning Items - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "cleaning-items-17",
+    "title": "Cleaning Items - Part 17",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "cleaning-items-18",
+    "title": "Cleaning Items - Part 18",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "cleaning-items-19",
+    "title": "Cleaning Items - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "cleaning-items-20",
+    "title": "Cleaning Items - Part 20",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "cleaning-items-21",
+    "title": "Cleaning Items - Part 21",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "cleaning-items-22",
+    "title": "Cleaning Items - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "cleaning-items-23",
+    "title": "Cleaning Items - Part 23",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "cleaning-items-24",
+    "title": "Cleaning Items - Part 24",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "cleaning-items-25",
+    "title": "Cleaning Items - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "cleaning-items-26",
+    "title": "Cleaning Items - Part 26",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "cleaning-items-27",
+    "title": "Cleaning Items - Part 27",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "cleaning-items-28",
+    "title": "Cleaning Items - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "cleaning-items-29",
+    "title": "Cleaning Items - Part 29",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "cleaning-items-30",
+    "title": "Cleaning Items - Part 30",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Broom",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mop",
+        "emoji": "🧹",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket",
+        "emoji": "🪣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Duster",
+        "emoji": "🪶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vacuum",
+        "emoji": "🧹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Bottle",
+        "emoji": "💦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wipes",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Trash Bag",
+        "emoji": "🗑️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Recycling Bin",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  }
+]

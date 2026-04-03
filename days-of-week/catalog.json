@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "days-of-week-1",
+    "title": "Days of the Week - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "days-of-week-2",
+    "title": "Days of the Week - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomorrow",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Y",
+        "word": "Yesterday",
+        "emoji": "📅",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "D",
+        "word": "Dusk",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Breakfast",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunch",
+        "emoji": "🍽️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dinner",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Snack",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "N",
+        "word": "Nap",
+        "emoji": "😴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Recess",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "days-of-week-3",
+    "title": "Days of the Week - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Homework",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Playtime",
+        "emoji": "🎮",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bedtime",
+        "emoji": "🛏️",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "W",
+        "word": "Wake Up",
+        "emoji": "⏰",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Art",
+        "emoji": "🎨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Music",
+        "emoji": "🎵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reading",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Science",
+        "emoji": "🔬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Math",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "PE",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Social Studies",
+        "emoji": "🌍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Crafts",
+        "emoji": "✂️",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "days-of-week-4",
+    "title": "Days of the Week - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "days-of-week-5",
+    "title": "Days of the Week - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "days-of-week-6",
+    "title": "Days of the Week - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "days-of-week-7",
+    "title": "Days of the Week - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "days-of-week-8",
+    "title": "Days of the Week - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "days-of-week-9",
+    "title": "Days of the Week - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "days-of-week-10",
+    "title": "Days of the Week - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "days-of-week-11",
+    "title": "Days of the Week - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "days-of-week-12",
+    "title": "Days of the Week - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "days-of-week-13",
+    "title": "Days of the Week - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "days-of-week-14",
+    "title": "Days of the Week - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "days-of-week-15",
+    "title": "Days of the Week - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "days-of-week-16",
+    "title": "Days of the Week - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "days-of-week-17",
+    "title": "Days of the Week - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "days-of-week-18",
+    "title": "Days of the Week - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "days-of-week-19",
+    "title": "Days of the Week - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "days-of-week-20",
+    "title": "Days of the Week - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "days-of-week-21",
+    "title": "Days of the Week - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "days-of-week-22",
+    "title": "Days of the Week - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "days-of-week-23",
+    "title": "Days of the Week - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "days-of-week-24",
+    "title": "Days of the Week - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "days-of-week-25",
+    "title": "Days of the Week - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "days-of-week-26",
+    "title": "Days of the Week - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "days-of-week-27",
+    "title": "Days of the Week - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "days-of-week-28",
+    "title": "Days of the Week - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "days-of-week-29",
+    "title": "Days of the Week - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "days-of-week-30",
+    "title": "Days of the Week - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monday",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuesday",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wednesday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thursday",
+        "emoji": "📅",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Friday",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Saturday",
+        "emoji": "📅",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sunday",
+        "emoji": "📅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Weekday",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Weekend",
+        "emoji": "🎉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Midweek",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plan",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  }
+]

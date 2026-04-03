@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "buildings-1",
+    "title": "Buildings - Part 1",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "buildings-2",
+    "title": "Buildings - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "S",
+        "word": "Stadium",
+        "emoji": "🏟️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Airport",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hotel",
+        "emoji": "🏨",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Warehouse",
+        "emoji": "📦",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Prison",
+        "emoji": "🏚️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Mall",
+        "emoji": "🏬",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage",
+        "emoji": "🏡",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "I",
+        "word": "Igloo",
+        "emoji": "🏠",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Tent",
+        "emoji": "⛺",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "buildings-3",
+    "title": "Buildings - Part 3",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pagoda",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "Windmill",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Silo",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dam",
+        "emoji": "🏗️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cinema",
+        "emoji": "🎬",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hut",
+        "emoji": "🛖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fort",
+        "emoji": "🏰",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cabin",
+        "emoji": "🏠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Arena",
+        "emoji": "🏟️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Observatory",
+        "emoji": "🔭",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "D",
+        "word": "Dome",
+        "emoji": "🏛️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramid",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Ruins",
+        "emoji": "🏚️",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "buildings-4",
+    "title": "Buildings - Part 4",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "buildings-5",
+    "title": "Buildings - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "buildings-6",
+    "title": "Buildings - Part 6",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "buildings-7",
+    "title": "Buildings - Part 7",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "buildings-8",
+    "title": "Buildings - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "buildings-9",
+    "title": "Buildings - Part 9",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "buildings-10",
+    "title": "Buildings - Part 10",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "buildings-11",
+    "title": "Buildings - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "buildings-12",
+    "title": "Buildings - Part 12",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "buildings-13",
+    "title": "Buildings - Part 13",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "buildings-14",
+    "title": "Buildings - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "buildings-15",
+    "title": "Buildings - Part 15",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "buildings-16",
+    "title": "Buildings - Part 16",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "buildings-17",
+    "title": "Buildings - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "buildings-18",
+    "title": "Buildings - Part 18",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "buildings-19",
+    "title": "Buildings - Part 19",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "buildings-20",
+    "title": "Buildings - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "buildings-21",
+    "title": "Buildings - Part 21",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "buildings-22",
+    "title": "Buildings - Part 22",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "buildings-23",
+    "title": "Buildings - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "buildings-24",
+    "title": "Buildings - Part 24",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "buildings-25",
+    "title": "Buildings - Part 25",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "buildings-26",
+    "title": "Buildings - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "buildings-27",
+    "title": "Buildings - Part 27",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "buildings-28",
+    "title": "Buildings - Part 28",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "buildings-29",
+    "title": "Buildings - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "buildings-30",
+    "title": "Buildings - Part 30",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mosque",
+        "emoji": "🕌",
+        "bgColor": "#00838F"
+      },
+      {
+        "letter": "T",
+        "word": "Temple",
+        "emoji": "🛕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Castle",
+        "emoji": "🏰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palace",
+        "emoji": "🏛️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bridge",
+        "emoji": "🌉",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tower",
+        "emoji": "🗼",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Skyscraper",
+        "emoji": "🏢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "F",
+        "word": "Factory",
+        "emoji": "🏭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Barn",
+        "emoji": "🏚️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Garage",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  }
+]

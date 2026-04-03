@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "space-objects-1",
+    "title": "Space Objects - Part 1",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "space-objects-2",
+    "title": "Space Objects - Part 2",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Red Giant",
+        "emoji": "🔴",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "N",
+        "word": "Neutron Star",
+        "emoji": "💫",
+        "bgColor": "#90A4AE"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetar",
+        "emoji": "🧲",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Exoplanet",
+        "emoji": "🌍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Binary Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Shooting Star",
+        "emoji": "🌠",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cosmic Ray",
+        "emoji": "✨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dwarf Star",
+        "emoji": "⭐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fireball",
+        "emoji": "🔥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "G",
+        "word": "Gamma Ray",
+        "emoji": "✨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Heliosphere",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Interstellar",
+        "emoji": "🌌",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "K",
+        "word": "Kuiper Belt",
+        "emoji": "🪨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Light Year",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Protostar",
+        "emoji": "⭐",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "space-objects-3",
+    "title": "Space Objects - Part 3",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring Nebula",
+        "emoji": "🌌",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "S",
+        "word": "Satellite",
+        "emoji": "🛰️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Telescope",
+        "emoji": "🔭",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Void",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "W",
+        "word": "Wormhole",
+        "emoji": "🌀",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Aurora",
+        "emoji": "🌌",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Brown Dwarf",
+        "emoji": "⭐",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cluster",
+        "emoji": "✨",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "E",
+        "word": "Eclipse",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Flare",
+        "emoji": "🔥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Halo",
+        "emoji": "✨",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "N",
+        "word": "Nova",
+        "emoji": "💥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Oort Cloud",
+        "emoji": "☁️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "P",
+        "word": "Plasma",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Singularity",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "space-objects-4",
+    "title": "Space Objects - Part 4",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "space-objects-5",
+    "title": "Space Objects - Part 5",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "space-objects-6",
+    "title": "Space Objects - Part 6",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "space-objects-7",
+    "title": "Space Objects - Part 7",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "space-objects-8",
+    "title": "Space Objects - Part 8",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "space-objects-9",
+    "title": "Space Objects - Part 9",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "space-objects-10",
+    "title": "Space Objects - Part 10",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "space-objects-11",
+    "title": "Space Objects - Part 11",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "space-objects-12",
+    "title": "Space Objects - Part 12",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "space-objects-13",
+    "title": "Space Objects - Part 13",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "space-objects-14",
+    "title": "Space Objects - Part 14",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "space-objects-15",
+    "title": "Space Objects - Part 15",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "space-objects-16",
+    "title": "Space Objects - Part 16",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "space-objects-17",
+    "title": "Space Objects - Part 17",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "space-objects-18",
+    "title": "Space Objects - Part 18",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "space-objects-19",
+    "title": "Space Objects - Part 19",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "space-objects-20",
+    "title": "Space Objects - Part 20",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "space-objects-21",
+    "title": "Space Objects - Part 21",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "space-objects-22",
+    "title": "Space Objects - Part 22",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "space-objects-23",
+    "title": "Space Objects - Part 23",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "space-objects-24",
+    "title": "Space Objects - Part 24",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "space-objects-25",
+    "title": "Space Objects - Part 25",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "space-objects-26",
+    "title": "Space Objects - Part 26",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "space-objects-27",
+    "title": "Space Objects - Part 27",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "space-objects-28",
+    "title": "Space Objects - Part 28",
+    "bgGradient": [
+      "#311B92",
+      "#9575CD"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "space-objects-29",
+    "title": "Space Objects - Part 29",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "space-objects-30",
+    "title": "Space Objects - Part 30",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "D",
+        "word": "Dark Matter",
+        "emoji": "🌑",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Solar Wind",
+        "emoji": "💨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  }
+]

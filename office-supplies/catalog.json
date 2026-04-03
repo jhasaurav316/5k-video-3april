@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "office-supplies-1",
+    "title": "Office Supplies - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "office-supplies-2",
+    "title": "Office Supplies - Part 2",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Binder",
+        "emoji": "📒",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "S",
+        "word": "Stamp",
+        "emoji": "📮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Ink",
+        "emoji": "🖋️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "L",
+        "word": "Label",
+        "emoji": "🏷️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Post-It",
+        "emoji": "📝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Thumbtack",
+        "emoji": "📌",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "White Out",
+        "emoji": "🖊️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Briefcase",
+        "emoji": "💼",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divider",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "File Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hole Punch",
+        "emoji": "🔵",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "office-supplies-3",
+    "title": "Office Supplies - Part 3",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Scanner",
+        "emoji": "📠",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "U",
+        "word": "USB Drive",
+        "emoji": "💾",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Clipboard",
+        "emoji": "📋",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desktop",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monitor",
+        "emoji": "🖥️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Planner",
+        "emoji": "📒",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Band",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Shredder",
+        "emoji": "📄",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tray",
+        "emoji": "📥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wastebasket",
+        "emoji": "🗑️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "B",
+        "word": "Bookend",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "office-supplies-4",
+    "title": "Office Supplies - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "office-supplies-5",
+    "title": "Office Supplies - Part 5",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "office-supplies-6",
+    "title": "Office Supplies - Part 6",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "office-supplies-7",
+    "title": "Office Supplies - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "office-supplies-8",
+    "title": "Office Supplies - Part 8",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "office-supplies-9",
+    "title": "Office Supplies - Part 9",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "office-supplies-10",
+    "title": "Office Supplies - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "office-supplies-11",
+    "title": "Office Supplies - Part 11",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "office-supplies-12",
+    "title": "Office Supplies - Part 12",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "office-supplies-13",
+    "title": "Office Supplies - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "office-supplies-14",
+    "title": "Office Supplies - Part 14",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "office-supplies-15",
+    "title": "Office Supplies - Part 15",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "office-supplies-16",
+    "title": "Office Supplies - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "office-supplies-17",
+    "title": "Office Supplies - Part 17",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "office-supplies-18",
+    "title": "Office Supplies - Part 18",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "office-supplies-19",
+    "title": "Office Supplies - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "office-supplies-20",
+    "title": "Office Supplies - Part 20",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "office-supplies-21",
+    "title": "Office Supplies - Part 21",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "office-supplies-22",
+    "title": "Office Supplies - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "office-supplies-23",
+    "title": "Office Supplies - Part 23",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "office-supplies-24",
+    "title": "Office Supplies - Part 24",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "office-supplies-25",
+    "title": "Office Supplies - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "office-supplies-26",
+    "title": "Office Supplies - Part 26",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "office-supplies-27",
+    "title": "Office Supplies - Part 27",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "office-supplies-28",
+    "title": "Office Supplies - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "office-supplies-29",
+    "title": "Office Supplies - Part 29",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "office-supplies-30",
+    "title": "Office Supplies - Part 30",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pen",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stapler",
+        "emoji": "📎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Clip",
+        "emoji": "📎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Envelope",
+        "emoji": "✉️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Notebook",
+        "emoji": "📓",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Calculator",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  }
+]

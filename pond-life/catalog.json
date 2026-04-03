@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "pond-life-1",
+    "title": "Pond Life - Part 1",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "pond-life-2",
+    "title": "Pond Life - Part 2",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Water Bug",
+        "emoji": "🪲",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Koi",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Algae",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Salamander",
+        "emoji": "🦎",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "R",
+        "word": "Reed",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pond Skater",
+        "emoji": "🪲",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "O",
+        "word": "Otter",
+        "emoji": "🦦",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bullfrog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Carp",
+        "emoji": "🐟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "D",
+        "word": "Damselfly",
+        "emoji": "🪰",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "E",
+        "word": "Egret",
+        "emoji": "🐦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iris",
+        "emoji": "🌸",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Leech",
+        "emoji": "🪱",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Minnow",
+        "emoji": "🐟",
+        "bgColor": "#B0BEC5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "pond-life-3",
+    "title": "Pond Life - Part 3",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pelican",
+        "emoji": "🐦",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Raft Spider",
+        "emoji": "🕷️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Swan",
+        "emoji": "🦢",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Water Lily",
+        "emoji": "🌸",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Beaver",
+        "emoji": "🦫",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crayfish",
+        "emoji": "🦐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mallard",
+        "emoji": "🦆",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pike",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Snapping Turtle",
+        "emoji": "🐢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waterfowl",
+        "emoji": "🦆",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coot",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Grebe",
+        "emoji": "🐦",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Moorhen",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Perch",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "pond-life-4",
+    "title": "Pond Life - Part 4",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "pond-life-5",
+    "title": "Pond Life - Part 5",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "pond-life-6",
+    "title": "Pond Life - Part 6",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "pond-life-7",
+    "title": "Pond Life - Part 7",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "pond-life-8",
+    "title": "Pond Life - Part 8",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "pond-life-9",
+    "title": "Pond Life - Part 9",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "pond-life-10",
+    "title": "Pond Life - Part 10",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "pond-life-11",
+    "title": "Pond Life - Part 11",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "pond-life-12",
+    "title": "Pond Life - Part 12",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "pond-life-13",
+    "title": "Pond Life - Part 13",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "pond-life-14",
+    "title": "Pond Life - Part 14",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "pond-life-15",
+    "title": "Pond Life - Part 15",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "pond-life-16",
+    "title": "Pond Life - Part 16",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "pond-life-17",
+    "title": "Pond Life - Part 17",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "pond-life-18",
+    "title": "Pond Life - Part 18",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "pond-life-19",
+    "title": "Pond Life - Part 19",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "pond-life-20",
+    "title": "Pond Life - Part 20",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "pond-life-21",
+    "title": "Pond Life - Part 21",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "pond-life-22",
+    "title": "Pond Life - Part 22",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "pond-life-23",
+    "title": "Pond Life - Part 23",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "pond-life-24",
+    "title": "Pond Life - Part 24",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "pond-life-25",
+    "title": "Pond Life - Part 25",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "pond-life-26",
+    "title": "Pond Life - Part 26",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "pond-life-27",
+    "title": "Pond Life - Part 27",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "pond-life-28",
+    "title": "Pond Life - Part 28",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "pond-life-29",
+    "title": "Pond Life - Part 29",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "pond-life-30",
+    "title": "Pond Life - Part 30",
+    "bgGradient": [
+      "#00897B",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lily Pad",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cattail",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Heron",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  }
+]

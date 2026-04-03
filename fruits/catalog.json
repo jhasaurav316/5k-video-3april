@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "fruits-1",
+    "title": "Fruits - Part 1",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "fruits-2",
+    "title": "Fruits - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Guava",
+        "emoji": "🍈",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lime",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Papaya",
+        "emoji": "🍈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plum",
+        "emoji": "🍑",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado",
+        "emoji": "🥑",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfruit",
+        "emoji": "🐉",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jackfruit",
+        "emoji": "🍈",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lychee",
+        "emoji": "🍒",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "N",
+        "word": "Nectarine",
+        "emoji": "🍑",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pomegranate",
+        "emoji": "🍎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Star Fruit",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tangerine",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cantaloupe",
+        "emoji": "🍈",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "fruits-3",
+    "title": "Fruits - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Honeydew",
+        "emoji": "🍈",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "G",
+        "word": "Grapefruit",
+        "emoji": "🍊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "🌴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "A",
+        "word": "Apricot",
+        "emoji": "🍑",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Rambutan",
+        "emoji": "🍈",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Soursop",
+        "emoji": "🍈",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "T",
+        "word": "Tamarind",
+        "emoji": "🍈",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "U",
+        "word": "Ugli Fruit",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "Y",
+        "word": "Yuzu",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clementine",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Passion Fruit",
+        "emoji": "🍈",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "fruits-4",
+    "title": "Fruits - Part 4",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "fruits-5",
+    "title": "Fruits - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "fruits-6",
+    "title": "Fruits - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "fruits-7",
+    "title": "Fruits - Part 7",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "fruits-8",
+    "title": "Fruits - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "fruits-9",
+    "title": "Fruits - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "fruits-10",
+    "title": "Fruits - Part 10",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "fruits-11",
+    "title": "Fruits - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "fruits-12",
+    "title": "Fruits - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "fruits-13",
+    "title": "Fruits - Part 13",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "fruits-14",
+    "title": "Fruits - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "fruits-15",
+    "title": "Fruits - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "fruits-16",
+    "title": "Fruits - Part 16",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "fruits-17",
+    "title": "Fruits - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "fruits-18",
+    "title": "Fruits - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "fruits-19",
+    "title": "Fruits - Part 19",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "fruits-20",
+    "title": "Fruits - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "fruits-21",
+    "title": "Fruits - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "fruits-22",
+    "title": "Fruits - Part 22",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "fruits-23",
+    "title": "Fruits - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "fruits-24",
+    "title": "Fruits - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "fruits-25",
+    "title": "Fruits - Part 25",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "fruits-26",
+    "title": "Fruits - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "fruits-27",
+    "title": "Fruits - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "fruits-28",
+    "title": "Fruits - Part 28",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "fruits-29",
+    "title": "Fruits - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "fruits-30",
+    "title": "Fruits - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apple",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Orange",
+        "emoji": "🍊",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Grape",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Peach",
+        "emoji": "🍑",
+        "bgColor": "#FFAB91"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwi",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pear",
+        "emoji": "🍐",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fig",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  }
+]

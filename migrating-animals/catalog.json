@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "migrating-animals-1",
+    "title": "Migrating Animals - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "migrating-animals-2",
+    "title": "Migrating Animals - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "G",
+        "word": "Gray Whale",
+        "emoji": "🐋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hawk",
+        "emoji": "🦅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ibis",
+        "emoji": "🐦",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "K",
+        "word": "Kingfisher",
+        "emoji": "🐦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster",
+        "emoji": "🦞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monarch",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "N",
+        "word": "Narwhal",
+        "emoji": "🦄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Osprey",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stork",
+        "emoji": "🐦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#5D4037"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "migrating-animals-3",
+    "title": "Migrating Animals - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Warbler",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Albatross",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cuckoo",
+        "emoji": "🐦",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "D",
+        "word": "Dove",
+        "emoji": "🕊️",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "E",
+        "word": "Eagle",
+        "emoji": "🦅",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Falcon",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Godwit",
+        "emoji": "🐦",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Herring",
+        "emoji": "🐟",
+        "bgColor": "#90A4AE"
+      },
+      {
+        "letter": "L",
+        "word": "Loon",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Mackerel",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plover",
+        "emoji": "🐦",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Reindeer",
+        "emoji": "🦌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shearwater",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle Dove",
+        "emoji": "🕊️",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "W",
+        "word": "Whimbrel",
+        "emoji": "🐦",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "migrating-animals-4",
+    "title": "Migrating Animals - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "migrating-animals-5",
+    "title": "Migrating Animals - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "migrating-animals-6",
+    "title": "Migrating Animals - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "migrating-animals-7",
+    "title": "Migrating Animals - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "migrating-animals-8",
+    "title": "Migrating Animals - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "migrating-animals-9",
+    "title": "Migrating Animals - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "migrating-animals-10",
+    "title": "Migrating Animals - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "migrating-animals-11",
+    "title": "Migrating Animals - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "migrating-animals-12",
+    "title": "Migrating Animals - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "migrating-animals-13",
+    "title": "Migrating Animals - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "migrating-animals-14",
+    "title": "Migrating Animals - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "migrating-animals-15",
+    "title": "Migrating Animals - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "migrating-animals-16",
+    "title": "Migrating Animals - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "migrating-animals-17",
+    "title": "Migrating Animals - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "migrating-animals-18",
+    "title": "Migrating Animals - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "migrating-animals-19",
+    "title": "Migrating Animals - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "migrating-animals-20",
+    "title": "Migrating Animals - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "migrating-animals-21",
+    "title": "Migrating Animals - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "migrating-animals-22",
+    "title": "Migrating Animals - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "migrating-animals-23",
+    "title": "Migrating Animals - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "migrating-animals-24",
+    "title": "Migrating Animals - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "migrating-animals-25",
+    "title": "Migrating Animals - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "migrating-animals-26",
+    "title": "Migrating Animals - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "migrating-animals-27",
+    "title": "Migrating Animals - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "migrating-animals-28",
+    "title": "Migrating Animals - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "migrating-animals-29",
+    "title": "Migrating Animals - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "migrating-animals-30",
+    "title": "Migrating Animals - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Whale",
+        "emoji": "🐋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goose",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caribou",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swallow",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tern",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eel",
+        "emoji": "🐟",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Tern",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  }
+]

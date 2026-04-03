@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "energy-types-1",
+    "title": "Energy Types - Part 1",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "energy-types-2",
+    "title": "Energy Types - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fuel",
+        "emoji": "⛽",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Radiant",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🔄",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Tidal",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "B",
+        "word": "Biomass",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coal",
+        "emoji": "🪨",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "D",
+        "word": "Diesel",
+        "emoji": "⛽",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elastic",
+        "emoji": "🎯",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Friction",
+        "emoji": "🔥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gravity",
+        "emoji": "⬇️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "I",
+        "word": "Infrared",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Joule",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mechanical",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "O",
+        "word": "Oil",
+        "emoji": "🛢️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "energy-types-3",
+    "title": "Energy Types - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Photon",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "R",
+        "word": "Renewable",
+        "emoji": "♻️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Static",
+        "emoji": "⚡",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultraviolet",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "V",
+        "word": "Voltage",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Watt",
+        "emoji": "💡",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "A",
+        "word": "Ampere",
+        "emoji": "⚡",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Current",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Natural Gas",
+        "emoji": "🔥",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Power",
+        "emoji": "⚡",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "T",
+        "word": "Turbine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Generator",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Lightning",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Calorie",
+        "emoji": "🔥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spark",
+        "emoji": "✨",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "energy-types-4",
+    "title": "Energy Types - Part 4",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "energy-types-5",
+    "title": "Energy Types - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "energy-types-6",
+    "title": "Energy Types - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "energy-types-7",
+    "title": "Energy Types - Part 7",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "energy-types-8",
+    "title": "Energy Types - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "energy-types-9",
+    "title": "Energy Types - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "energy-types-10",
+    "title": "Energy Types - Part 10",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "energy-types-11",
+    "title": "Energy Types - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "energy-types-12",
+    "title": "Energy Types - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "energy-types-13",
+    "title": "Energy Types - Part 13",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "energy-types-14",
+    "title": "Energy Types - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "energy-types-15",
+    "title": "Energy Types - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "energy-types-16",
+    "title": "Energy Types - Part 16",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "energy-types-17",
+    "title": "Energy Types - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "energy-types-18",
+    "title": "Energy Types - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "energy-types-19",
+    "title": "Energy Types - Part 19",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "energy-types-20",
+    "title": "Energy Types - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "energy-types-21",
+    "title": "Energy Types - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "energy-types-22",
+    "title": "Energy Types - Part 22",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "energy-types-23",
+    "title": "Energy Types - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "energy-types-24",
+    "title": "Energy Types - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "energy-types-25",
+    "title": "Energy Types - Part 25",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "energy-types-26",
+    "title": "Energy Types - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "energy-types-27",
+    "title": "Energy Types - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "energy-types-28",
+    "title": "Energy Types - Part 28",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "energy-types-29",
+    "title": "Energy Types - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "energy-types-30",
+    "title": "Energy Types - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Solar",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Electric",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Light",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Nuclear",
+        "emoji": "☢️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic",
+        "emoji": "🏃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potential",
+        "emoji": "⬆️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Thermal",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chemical",
+        "emoji": "🧪",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magnetic",
+        "emoji": "🧲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Geothermal",
+        "emoji": "🌋",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Battery",
+        "emoji": "🔋",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  }
+]

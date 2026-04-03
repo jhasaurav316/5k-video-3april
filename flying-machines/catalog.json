@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "flying-machines-1",
+    "title": "Flying Machines - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "flying-machines-2",
+    "title": "Flying Machines - Part 2",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "Z",
+        "word": "Zeppelin",
+        "emoji": "🎈",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Autogyro",
+        "emoji": "🚁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Concorde",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flying Boat",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Hang Glider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Microlight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Propeller Plane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stealth Jet",
+        "emoji": "✈️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Transport Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wing Suit",
+        "emoji": "🪂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Airship",
+        "emoji": "🎈",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bomber",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Cessna",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dirigible",
+        "emoji": "🎈",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "flying-machines-3",
+    "title": "Flying Machines - Part 3",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Emergency Chopper",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Floatplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Learjet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "N",
+        "word": "News Chopper",
+        "emoji": "🚁",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Parachute",
+        "emoji": "🪂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sky Diver",
+        "emoji": "🪂",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tandem Wing",
+        "emoji": "✈️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "VTOL",
+        "emoji": "✈️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Crop Duster",
+        "emoji": "✈️",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Water Bomber",
+        "emoji": "✈️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tilt Rotor",
+        "emoji": "🚁",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pusher Plane",
+        "emoji": "✈️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Medical Chopper",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sailplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reconnaissance",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "flying-machines-4",
+    "title": "Flying Machines - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "flying-machines-5",
+    "title": "Flying Machines - Part 5",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "flying-machines-6",
+    "title": "Flying Machines - Part 6",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "flying-machines-7",
+    "title": "Flying Machines - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "flying-machines-8",
+    "title": "Flying Machines - Part 8",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "flying-machines-9",
+    "title": "Flying Machines - Part 9",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "flying-machines-10",
+    "title": "Flying Machines - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "flying-machines-11",
+    "title": "Flying Machines - Part 11",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "flying-machines-12",
+    "title": "Flying Machines - Part 12",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "flying-machines-13",
+    "title": "Flying Machines - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "flying-machines-14",
+    "title": "Flying Machines - Part 14",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "flying-machines-15",
+    "title": "Flying Machines - Part 15",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "flying-machines-16",
+    "title": "Flying Machines - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "flying-machines-17",
+    "title": "Flying Machines - Part 17",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "flying-machines-18",
+    "title": "Flying Machines - Part 18",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "flying-machines-19",
+    "title": "Flying Machines - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "flying-machines-20",
+    "title": "Flying Machines - Part 20",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "flying-machines-21",
+    "title": "Flying Machines - Part 21",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "flying-machines-22",
+    "title": "Flying Machines - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "flying-machines-23",
+    "title": "Flying Machines - Part 23",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "flying-machines-24",
+    "title": "Flying Machines - Part 24",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "flying-machines-25",
+    "title": "Flying Machines - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "flying-machines-26",
+    "title": "Flying Machines - Part 26",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "flying-machines-27",
+    "title": "Flying Machines - Part 27",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "flying-machines-28",
+    "title": "Flying Machines - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "flying-machines-29",
+    "title": "Flying Machines - Part 29",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "flying-machines-30",
+    "title": "Flying Machines - Part 30",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Drone",
+        "emoji": "🛸",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "✈️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blimp",
+        "emoji": "🎈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Space Shuttle",
+        "emoji": "🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Biplane",
+        "emoji": "✈️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cargo Plane",
+        "emoji": "✈️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fighter Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Seaplane",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight",
+        "emoji": "✈️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  }
+]

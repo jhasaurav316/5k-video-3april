@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "math-words-1",
+    "title": "Math Words - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "math-words-2",
+    "title": "Math Words - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Nine",
+        "emoji": "9️⃣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "T",
+        "word": "Ten",
+        "emoji": "🔟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sum",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Difference",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Product",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Q",
+        "word": "Quotient",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fraction",
+        "emoji": "🔢",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "D",
+        "word": "Decimal",
+        "emoji": "🔢",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Percent",
+        "emoji": "💯",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Greater",
+        "emoji": "▶️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Less",
+        "emoji": "◀️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Even",
+        "emoji": "🔢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "O",
+        "word": "Odd",
+        "emoji": "🔢",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Shape",
+        "emoji": "🔷",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "math-words-3",
+    "title": "Math Words - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟩",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pattern",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Graph",
+        "emoji": "📊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Count",
+        "emoji": "🔢",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Measure",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Half",
+        "emoji": "½",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Whole",
+        "emoji": "⭕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Plus",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Minus",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "📊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tally",
+        "emoji": "📊",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Unit",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Value",
+        "emoji": "💰",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "math-words-4",
+    "title": "Math Words - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "math-words-5",
+    "title": "Math Words - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "math-words-6",
+    "title": "Math Words - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "math-words-7",
+    "title": "Math Words - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "math-words-8",
+    "title": "Math Words - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "math-words-9",
+    "title": "Math Words - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "math-words-10",
+    "title": "Math Words - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "math-words-11",
+    "title": "Math Words - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "math-words-12",
+    "title": "Math Words - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "math-words-13",
+    "title": "Math Words - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "math-words-14",
+    "title": "Math Words - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "math-words-15",
+    "title": "Math Words - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "math-words-16",
+    "title": "Math Words - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "math-words-17",
+    "title": "Math Words - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "math-words-18",
+    "title": "Math Words - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "math-words-19",
+    "title": "Math Words - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "math-words-20",
+    "title": "Math Words - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "math-words-21",
+    "title": "Math Words - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "math-words-22",
+    "title": "Math Words - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "math-words-23",
+    "title": "Math Words - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "math-words-24",
+    "title": "Math Words - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "math-words-25",
+    "title": "Math Words - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "math-words-26",
+    "title": "Math Words - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "math-words-27",
+    "title": "Math Words - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "math-words-28",
+    "title": "Math Words - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "math-words-29",
+    "title": "Math Words - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "math-words-30",
+    "title": "Math Words - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Add",
+        "emoji": "➕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Subtract",
+        "emoji": "➖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Multiply",
+        "emoji": "✖️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Divide",
+        "emoji": "➗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equals",
+        "emoji": "🟰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Number",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zero",
+        "emoji": "0️⃣",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "One",
+        "emoji": "1️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Two",
+        "emoji": "2️⃣",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Three",
+        "emoji": "3️⃣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Four",
+        "emoji": "4️⃣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Five",
+        "emoji": "5️⃣",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Six",
+        "emoji": "6️⃣",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Seven",
+        "emoji": "7️⃣",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eight",
+        "emoji": "8️⃣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  }
+]

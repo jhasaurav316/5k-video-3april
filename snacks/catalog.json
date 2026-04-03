@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "snacks-1",
+    "title": "Snacks - Part 1",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "snacks-2",
+    "title": "Snacks - Part 2",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Walnuts",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower Seeds",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Raisins",
+        "emoji": "🍇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yogurt Cup",
+        "emoji": "🥛",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "H",
+        "word": "Hummus",
+        "emoji": "🥙",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Celery Sticks",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot Sticks",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Apple Slices",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Grapes",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "snacks-3",
+    "title": "Snacks - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Energy Bar",
+        "emoji": "🍫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "S'mores",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Rings",
+        "emoji": "🧅",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "F",
+        "word": "French Fries",
+        "emoji": "🍟",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Taco",
+        "emoji": "🌮",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pizza Roll",
+        "emoji": "🍕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mini Muffin",
+        "emoji": "🧁",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Dog",
+        "emoji": "🌭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Samosa",
+        "emoji": "🥟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wafer",
+        "emoji": "🍪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Biscuit",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Churro",
+        "emoji": "🥖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "L",
+        "word": "Licorice",
+        "emoji": "🍬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Pistachio",
+        "emoji": "🥜",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "snacks-4",
+    "title": "Snacks - Part 4",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "snacks-5",
+    "title": "Snacks - Part 5",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "snacks-6",
+    "title": "Snacks - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "snacks-7",
+    "title": "Snacks - Part 7",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "snacks-8",
+    "title": "Snacks - Part 8",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "snacks-9",
+    "title": "Snacks - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "snacks-10",
+    "title": "Snacks - Part 10",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "snacks-11",
+    "title": "Snacks - Part 11",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "snacks-12",
+    "title": "Snacks - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "snacks-13",
+    "title": "Snacks - Part 13",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "snacks-14",
+    "title": "Snacks - Part 14",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "snacks-15",
+    "title": "Snacks - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "snacks-16",
+    "title": "Snacks - Part 16",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "snacks-17",
+    "title": "Snacks - Part 17",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "snacks-18",
+    "title": "Snacks - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "snacks-19",
+    "title": "Snacks - Part 19",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "snacks-20",
+    "title": "Snacks - Part 20",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "snacks-21",
+    "title": "Snacks - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "snacks-22",
+    "title": "Snacks - Part 22",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "snacks-23",
+    "title": "Snacks - Part 23",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "snacks-24",
+    "title": "Snacks - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "snacks-25",
+    "title": "Snacks - Part 25",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "snacks-26",
+    "title": "Snacks - Part 26",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "snacks-27",
+    "title": "Snacks - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "snacks-28",
+    "title": "Snacks - Part 28",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "snacks-29",
+    "title": "Snacks - Part 29",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "snacks-30",
+    "title": "Snacks - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chips",
+        "emoji": "🍟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Popcorn",
+        "emoji": "🍿",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nachos",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crackers",
+        "emoji": "🍘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cookies",
+        "emoji": "🍪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Granola Bar",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Mix",
+        "emoji": "🥜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Snack",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cheese Stick",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jerky",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Peanuts",
+        "emoji": "🥜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Almonds",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashews",
+        "emoji": "🥜",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  }
+]

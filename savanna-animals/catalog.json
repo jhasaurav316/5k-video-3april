@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "savanna-animals-1",
+    "title": "Savanna Animals - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "savanna-animals-2",
+    "title": "Savanna Animals - Part 2",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Antelope",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Baboon",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Caracal",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dik-dik",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Eland",
+        "emoji": "🐂",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "I",
+        "word": "Impala",
+        "emoji": "🦌",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "J",
+        "word": "Jackal",
+        "emoji": "🐺",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "K",
+        "word": "Kudu",
+        "emoji": "🦌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Leopard",
+        "emoji": "🐆",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "M",
+        "word": "Mongoose",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "N",
+        "word": "Nyala",
+        "emoji": "🦌",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Serval",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "savanna-animals-3",
+    "title": "Savanna Animals - Part 3",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "U",
+        "word": "Uganda Kob",
+        "emoji": "🦌",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "W",
+        "word": "Wild Dog",
+        "emoji": "🐕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "X",
+        "word": "Xerus",
+        "emoji": "🐿️",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "S",
+        "word": "Secretary Bird",
+        "emoji": "🐦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "A",
+        "word": "Aardvark",
+        "emoji": "🐾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "O",
+        "word": "Oryx",
+        "emoji": "🦌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Porcupine",
+        "emoji": "🦔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hartebeest",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "G",
+        "word": "Gnu",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Springbok",
+        "emoji": "🦌",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Topi",
+        "emoji": "🦌",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "R",
+        "word": "Roan",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sable",
+        "emoji": "🦌",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Klipspringer",
+        "emoji": "🦌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "savanna-animals-4",
+    "title": "Savanna Animals - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "savanna-animals-5",
+    "title": "Savanna Animals - Part 5",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "savanna-animals-6",
+    "title": "Savanna Animals - Part 6",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "savanna-animals-7",
+    "title": "Savanna Animals - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "savanna-animals-8",
+    "title": "Savanna Animals - Part 8",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "savanna-animals-9",
+    "title": "Savanna Animals - Part 9",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "savanna-animals-10",
+    "title": "Savanna Animals - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "savanna-animals-11",
+    "title": "Savanna Animals - Part 11",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "savanna-animals-12",
+    "title": "Savanna Animals - Part 12",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "savanna-animals-13",
+    "title": "Savanna Animals - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "savanna-animals-14",
+    "title": "Savanna Animals - Part 14",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "savanna-animals-15",
+    "title": "Savanna Animals - Part 15",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "savanna-animals-16",
+    "title": "Savanna Animals - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "savanna-animals-17",
+    "title": "Savanna Animals - Part 17",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "savanna-animals-18",
+    "title": "Savanna Animals - Part 18",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "savanna-animals-19",
+    "title": "Savanna Animals - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "savanna-animals-20",
+    "title": "Savanna Animals - Part 20",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "savanna-animals-21",
+    "title": "Savanna Animals - Part 21",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "savanna-animals-22",
+    "title": "Savanna Animals - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "savanna-animals-23",
+    "title": "Savanna Animals - Part 23",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "savanna-animals-24",
+    "title": "Savanna Animals - Part 24",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "savanna-animals-25",
+    "title": "Savanna Animals - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "savanna-animals-26",
+    "title": "Savanna Animals - Part 26",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "savanna-animals-27",
+    "title": "Savanna Animals - Part 27",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "savanna-animals-28",
+    "title": "Savanna Animals - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "savanna-animals-29",
+    "title": "Savanna Animals - Part 29",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "savanna-animals-30",
+    "title": "Savanna Animals - Part 30",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wildebeest",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐾",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "G",
+        "word": "Gazelle",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buffalo",
+        "emoji": "🐃",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  }
+]

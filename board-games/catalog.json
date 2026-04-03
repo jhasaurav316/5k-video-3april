@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "board-games-1",
+    "title": "Board Games - Part 1",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "board-games-2",
+    "title": "Board Games - Part 2",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Go",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Mancala",
+        "emoji": "🟤",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Candy Land",
+        "emoji": "🍬",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Chutes Ladders",
+        "emoji": "🪜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jenga",
+        "emoji": "🧱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pictionary",
+        "emoji": "🎨",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cranium",
+        "emoji": "🧠",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Twister",
+        "emoji": "🌀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Uno Cards",
+        "emoji": "🃏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stratego",
+        "emoji": "⚔️",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kerplunk",
+        "emoji": "🔴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hungry Hippos",
+        "emoji": "🦛",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mouse Trap",
+        "emoji": "🐭",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Guess Who",
+        "emoji": "🤔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Boggle",
+        "emoji": "🔤",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "board-games-3",
+    "title": "Board Games - Part 3",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ludo",
+        "emoji": "🎲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Parcheesi",
+        "emoji": "🎲",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Snakes Ladders",
+        "emoji": "🐍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Catan",
+        "emoji": "🏝️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Ticket to Ride",
+        "emoji": "🚂",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "P",
+        "word": "Pandemic",
+        "emoji": "🦠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Azul",
+        "emoji": "🟦",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wingspan",
+        "emoji": "🐦",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dixit",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🦊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "E",
+        "word": "Everdell",
+        "emoji": "🐿️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Splendor",
+        "emoji": "💎",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Gloomhaven",
+        "emoji": "⚔️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombicide",
+        "emoji": "🧟",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Nemesis",
+        "emoji": "👽",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "board-games-4",
+    "title": "Board Games - Part 4",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "board-games-5",
+    "title": "Board Games - Part 5",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "board-games-6",
+    "title": "Board Games - Part 6",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "board-games-7",
+    "title": "Board Games - Part 7",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "board-games-8",
+    "title": "Board Games - Part 8",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "board-games-9",
+    "title": "Board Games - Part 9",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "board-games-10",
+    "title": "Board Games - Part 10",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "board-games-11",
+    "title": "Board Games - Part 11",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "board-games-12",
+    "title": "Board Games - Part 12",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "board-games-13",
+    "title": "Board Games - Part 13",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "board-games-14",
+    "title": "Board Games - Part 14",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "board-games-15",
+    "title": "Board Games - Part 15",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "board-games-16",
+    "title": "Board Games - Part 16",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "board-games-17",
+    "title": "Board Games - Part 17",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "board-games-18",
+    "title": "Board Games - Part 18",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "board-games-19",
+    "title": "Board Games - Part 19",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "board-games-20",
+    "title": "Board Games - Part 20",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "board-games-21",
+    "title": "Board Games - Part 21",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "board-games-22",
+    "title": "Board Games - Part 22",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "board-games-23",
+    "title": "Board Games - Part 23",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "board-games-24",
+    "title": "Board Games - Part 24",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "board-games-25",
+    "title": "Board Games - Part 25",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "board-games-26",
+    "title": "Board Games - Part 26",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "board-games-27",
+    "title": "Board Games - Part 27",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "board-games-28",
+    "title": "Board Games - Part 28",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "board-games-29",
+    "title": "Board Games - Part 29",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "board-games-30",
+    "title": "Board Games - Part 30",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Checkers",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monopoly",
+        "emoji": "🏠",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Scrabble",
+        "emoji": "🔤",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "R",
+        "word": "Risk",
+        "emoji": "🗺️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Clue",
+        "emoji": "🔎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Life Game",
+        "emoji": "🎯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sorry",
+        "emoji": "😅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Connect Four",
+        "emoji": "🔵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Battleship",
+        "emoji": "🚢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Operation",
+        "emoji": "🩺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yahtzee",
+        "emoji": "🎲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trivial Pursuit",
+        "emoji": "🧠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dominoes",
+        "emoji": "🁢",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Backgammon",
+        "emoji": "🎲",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  }
+]

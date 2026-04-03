@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "theater-words-1",
+    "title": "Theater Words - Part 1",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "theater-words-2",
+    "title": "Theater Words - Part 2",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "I",
+        "word": "Intermission",
+        "emoji": "⏸️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Monologue",
+        "emoji": "🎤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "O",
+        "word": "Orchestra",
+        "emoji": "🎵",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Playwright",
+        "emoji": "✒️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Ticket",
+        "emoji": "🎫",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "U",
+        "word": "Understudy",
+        "emoji": "🎭",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wings",
+        "emoji": "🎭",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "A",
+        "word": "Act",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Box Seat",
+        "emoji": "💺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cue",
+        "emoji": "🎬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dialogue",
+        "emoji": "💬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Footlights",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Green Room",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "House",
+        "emoji": "🏠",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lighting",
+        "emoji": "💡",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "theater-words-3",
+    "title": "Theater Words - Part 3",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Makeup",
+        "emoji": "💄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "Narrator",
+        "emoji": "🎤",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "O",
+        "word": "Overture",
+        "emoji": "🎵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Performance",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Role",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Set",
+        "emoji": "🎬",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tragedy",
+        "emoji": "😢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Comedy",
+        "emoji": "😂",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Drama",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Exit",
+        "emoji": "🚪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Musical",
+        "emoji": "🎵",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Premiere",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Soliloquy",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "theater-words-4",
+    "title": "Theater Words - Part 4",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "theater-words-5",
+    "title": "Theater Words - Part 5",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "theater-words-6",
+    "title": "Theater Words - Part 6",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "theater-words-7",
+    "title": "Theater Words - Part 7",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "theater-words-8",
+    "title": "Theater Words - Part 8",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "theater-words-9",
+    "title": "Theater Words - Part 9",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "theater-words-10",
+    "title": "Theater Words - Part 10",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "theater-words-11",
+    "title": "Theater Words - Part 11",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "theater-words-12",
+    "title": "Theater Words - Part 12",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "theater-words-13",
+    "title": "Theater Words - Part 13",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "theater-words-14",
+    "title": "Theater Words - Part 14",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "theater-words-15",
+    "title": "Theater Words - Part 15",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "theater-words-16",
+    "title": "Theater Words - Part 16",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "theater-words-17",
+    "title": "Theater Words - Part 17",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "theater-words-18",
+    "title": "Theater Words - Part 18",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "theater-words-19",
+    "title": "Theater Words - Part 19",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "theater-words-20",
+    "title": "Theater Words - Part 20",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "theater-words-21",
+    "title": "Theater Words - Part 21",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "theater-words-22",
+    "title": "Theater Words - Part 22",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "theater-words-23",
+    "title": "Theater Words - Part 23",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "theater-words-24",
+    "title": "Theater Words - Part 24",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "theater-words-25",
+    "title": "Theater Words - Part 25",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "theater-words-26",
+    "title": "Theater Words - Part 26",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "theater-words-27",
+    "title": "Theater Words - Part 27",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "theater-words-28",
+    "title": "Theater Words - Part 28",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "theater-words-29",
+    "title": "Theater Words - Part 29",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "theater-words-30",
+    "title": "Theater Words - Part 30",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Stage",
+        "emoji": "🎭",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🎭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Actor",
+        "emoji": "🎭",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Script",
+        "emoji": "📜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Director",
+        "emoji": "🎬",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spotlight",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Prop",
+        "emoji": "🎭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "👗",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Audience",
+        "emoji": "👥",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rehearsal",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Scene",
+        "emoji": "🎬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Backstage",
+        "emoji": "🎭",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "👥",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Encore",
+        "emoji": "👏",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  }
+]

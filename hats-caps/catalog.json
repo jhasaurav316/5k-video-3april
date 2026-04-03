@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "hats-caps-1",
+    "title": "Hats & Caps - Part 1",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "hats-caps-2",
+    "title": "Hats & Caps - Part 2",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bowler Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Chef Hat",
+        "emoji": "👨‍🍳",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Straw Hat",
+        "emoji": "👒",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "N",
+        "word": "Night Cap",
+        "emoji": "🧢",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "P",
+        "word": "Pirate Hat",
+        "emoji": "🏴‍☠️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "W",
+        "word": "Witch Hat",
+        "emoji": "🧙",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Safari Hat",
+        "emoji": "👒",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cap",
+        "emoji": "🧢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dunce Cap",
+        "emoji": "📐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Fishing Hat",
+        "emoji": "🎣",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Graduation Cap",
+        "emoji": "🎓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Knit Cap",
+        "emoji": "🧶",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Military Hat",
+        "emoji": "🎖️",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "hats-caps-3",
+    "title": "Hats & Caps - Part 3",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Nurse Cap",
+        "emoji": "🧑‍⚕️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Panama Hat",
+        "emoji": "👒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Rain Hat",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Ski Hat",
+        "emoji": "🎿",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Trilby",
+        "emoji": "🎩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Winter Hat",
+        "emoji": "🧶",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aviator Hat",
+        "emoji": "✈️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bucket Hat",
+        "emoji": "🧢",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cloche",
+        "emoji": "👒",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flat Cap",
+        "emoji": "🧢",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Lampshade Hat",
+        "emoji": "👒",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mobcap",
+        "emoji": "👒",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pith Helmet",
+        "emoji": "⛑️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "S",
+        "word": "Sombrero",
+        "emoji": "👒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tam",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "hats-caps-4",
+    "title": "Hats & Caps - Part 4",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "hats-caps-5",
+    "title": "Hats & Caps - Part 5",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "hats-caps-6",
+    "title": "Hats & Caps - Part 6",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "hats-caps-7",
+    "title": "Hats & Caps - Part 7",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "hats-caps-8",
+    "title": "Hats & Caps - Part 8",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "hats-caps-9",
+    "title": "Hats & Caps - Part 9",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "hats-caps-10",
+    "title": "Hats & Caps - Part 10",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "hats-caps-11",
+    "title": "Hats & Caps - Part 11",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "hats-caps-12",
+    "title": "Hats & Caps - Part 12",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "hats-caps-13",
+    "title": "Hats & Caps - Part 13",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "hats-caps-14",
+    "title": "Hats & Caps - Part 14",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "hats-caps-15",
+    "title": "Hats & Caps - Part 15",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "hats-caps-16",
+    "title": "Hats & Caps - Part 16",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "hats-caps-17",
+    "title": "Hats & Caps - Part 17",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "hats-caps-18",
+    "title": "Hats & Caps - Part 18",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "hats-caps-19",
+    "title": "Hats & Caps - Part 19",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "hats-caps-20",
+    "title": "Hats & Caps - Part 20",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "hats-caps-21",
+    "title": "Hats & Caps - Part 21",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "hats-caps-22",
+    "title": "Hats & Caps - Part 22",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "hats-caps-23",
+    "title": "Hats & Caps - Part 23",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "hats-caps-24",
+    "title": "Hats & Caps - Part 24",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "hats-caps-25",
+    "title": "Hats & Caps - Part 25",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "hats-caps-26",
+    "title": "Hats & Caps - Part 26",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "hats-caps-27",
+    "title": "Hats & Caps - Part 27",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "hats-caps-28",
+    "title": "Hats & Caps - Part 28",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "hats-caps-29",
+    "title": "Hats & Caps - Part 29",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "hats-caps-30",
+    "title": "Hats & Caps - Part 30",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Baseball Cap",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Beanie",
+        "emoji": "🧶",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Hat",
+        "emoji": "👒",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Top Hat",
+        "emoji": "🎩",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cowboy Hat",
+        "emoji": "🤠",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Beret",
+        "emoji": "🧢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fedora",
+        "emoji": "🎩",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Visor",
+        "emoji": "🧢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hood",
+        "emoji": "🧥",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Turban",
+        "emoji": "🧕",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Headband",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Party Hat",
+        "emoji": "🥳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Ear Muff",
+        "emoji": "🎧",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  }
+]

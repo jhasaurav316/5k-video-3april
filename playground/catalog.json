@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "playground-1",
+    "title": "Playground - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "playground-2",
+    "title": "Playground - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tunnel",
+        "emoji": "🚇",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Water Fountain",
+        "emoji": "⛲",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Picnic Table",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "K",
+        "word": "Kite",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "F",
+        "word": "Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinner",
+        "emoji": "🌀",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bench",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "G",
+        "word": "Grass Field",
+        "emoji": "🌱",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Playground",
+        "emoji": "🎪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Roller Skates",
+        "emoji": "🛼",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Scooter",
+        "emoji": "🛴",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hula Hoop",
+        "emoji": "⭕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chalk Drawing",
+        "emoji": "🖍️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tag Game",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "playground-3",
+    "title": "Playground - Part 3",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dodgeball",
+        "emoji": "🏐",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Catch",
+        "emoji": "🧤",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hide and Seek",
+        "emoji": "🙈",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pole",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rings",
+        "emoji": "⭕",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Tetherball",
+        "emoji": "🏐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🚗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zipline",
+        "emoji": "🏗️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Y",
+        "word": "Yard",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Gazebo",
+        "emoji": "🏠",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fort",
+        "emoji": "🏰",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "A",
+        "word": "Adventure",
+        "emoji": "🏕️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nature Trail",
+        "emoji": "🌲",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "playground-4",
+    "title": "Playground - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "playground-5",
+    "title": "Playground - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "playground-6",
+    "title": "Playground - Part 6",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "playground-7",
+    "title": "Playground - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "playground-8",
+    "title": "Playground - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "playground-9",
+    "title": "Playground - Part 9",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "playground-10",
+    "title": "Playground - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "playground-11",
+    "title": "Playground - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "playground-12",
+    "title": "Playground - Part 12",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "playground-13",
+    "title": "Playground - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "playground-14",
+    "title": "Playground - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "playground-15",
+    "title": "Playground - Part 15",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "playground-16",
+    "title": "Playground - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "playground-17",
+    "title": "Playground - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "playground-18",
+    "title": "Playground - Part 18",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "playground-19",
+    "title": "Playground - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "playground-20",
+    "title": "Playground - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "playground-21",
+    "title": "Playground - Part 21",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "playground-22",
+    "title": "Playground - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "playground-23",
+    "title": "Playground - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "playground-24",
+    "title": "Playground - Part 24",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "playground-25",
+    "title": "Playground - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "playground-26",
+    "title": "Playground - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "playground-27",
+    "title": "Playground - Part 27",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "playground-28",
+    "title": "Playground - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "playground-29",
+    "title": "Playground - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "playground-30",
+    "title": "Playground - Part 30",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swing",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "⚖️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Bars",
+        "emoji": "🐒",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sandbox",
+        "emoji": "🏖️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jungle Gym",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing Wall",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Merry-Go-Round",
+        "emoji": "🎠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rope Ladder",
+        "emoji": "🪜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Balance Beam",
+        "emoji": "🤸",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Tire Swing",
+        "emoji": "🛞",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hopscotch",
+        "emoji": "🎯",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "Jump Rope",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Ball Pit",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  }
+]

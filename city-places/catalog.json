@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "city-places-1",
+    "title": "City Places - Part 1",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "city-places-2",
+    "title": "City Places - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airport",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bus Stop",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "City Hall",
+        "emoji": "🏛️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drug Store",
+        "emoji": "💊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gas Station",
+        "emoji": "⛽",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hotel",
+        "emoji": "🏨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Rink",
+        "emoji": "⛸️",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "J",
+        "word": "Jail",
+        "emoji": "🏢",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kindergarten",
+        "emoji": "🧒",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mall",
+        "emoji": "🛍️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "Nursery",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "O",
+        "word": "Office",
+        "emoji": "🏢",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Q",
+        "word": "Quay",
+        "emoji": "🚢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stadium",
+        "emoji": "🏟️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Train Station",
+        "emoji": "🚉",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "city-places-3",
+    "title": "City Places - Part 3",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "U",
+        "word": "University",
+        "emoji": "🎓",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "V",
+        "word": "Vet Clinic",
+        "emoji": "🐾",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Water Tower",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Arcade",
+        "emoji": "🎮",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bookstore",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cinema",
+        "emoji": "🎬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Diner",
+        "emoji": "🍔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fountain",
+        "emoji": "⛲",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Laundromat",
+        "emoji": "👔",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Market",
+        "emoji": "🛒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Playground",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Supermarket",
+        "emoji": "🛒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi Stand",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cafe",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bakery",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "city-places-4",
+    "title": "City Places - Part 4",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "city-places-5",
+    "title": "City Places - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "city-places-6",
+    "title": "City Places - Part 6",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "city-places-7",
+    "title": "City Places - Part 7",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "city-places-8",
+    "title": "City Places - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "city-places-9",
+    "title": "City Places - Part 9",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "city-places-10",
+    "title": "City Places - Part 10",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "city-places-11",
+    "title": "City Places - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "city-places-12",
+    "title": "City Places - Part 12",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "city-places-13",
+    "title": "City Places - Part 13",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "city-places-14",
+    "title": "City Places - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "city-places-15",
+    "title": "City Places - Part 15",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "city-places-16",
+    "title": "City Places - Part 16",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "city-places-17",
+    "title": "City Places - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "city-places-18",
+    "title": "City Places - Part 18",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "city-places-19",
+    "title": "City Places - Part 19",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "city-places-20",
+    "title": "City Places - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "city-places-21",
+    "title": "City Places - Part 21",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "city-places-22",
+    "title": "City Places - Part 22",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "city-places-23",
+    "title": "City Places - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "city-places-24",
+    "title": "City Places - Part 24",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "city-places-25",
+    "title": "City Places - Part 25",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "city-places-26",
+    "title": "City Places - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "city-places-27",
+    "title": "City Places - Part 27",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "city-places-28",
+    "title": "City Places - Part 28",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "city-places-29",
+    "title": "City Places - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "city-places-30",
+    "title": "City Places - Part 30",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Park",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "School",
+        "emoji": "🏫",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Store",
+        "emoji": "🏪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bank",
+        "emoji": "🏦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Post Office",
+        "emoji": "📮",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Station",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Station",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Museum",
+        "emoji": "🏛️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Restaurant",
+        "emoji": "🍽️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Church",
+        "emoji": "⛪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Theater",
+        "emoji": "🎭",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Gym",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Z",
+        "word": "Zoo",
+        "emoji": "🦁",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  }
+]

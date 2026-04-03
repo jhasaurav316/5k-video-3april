@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "bathroom-items-1",
+    "title": "Bathroom Items - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "bathroom-items-2",
+    "title": "Bathroom Items - Part 2",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "💇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "💇",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Deodorant",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Floss",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mouthwash",
+        "emoji": "🥤",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Nail Clipper",
+        "emoji": "✂️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Plunger",
+        "emoji": "🪠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Robe",
+        "emoji": "🥋",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scale",
+        "emoji": "⚖️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tissue",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Washcloth",
+        "emoji": "🧽",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bath Mat",
+        "emoji": "🧶",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton Ball",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Exhaust Fan",
+        "emoji": "🌬️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "bathroom-items-3",
+    "title": "Bathroom Items - Part 3",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Grab Bar",
+        "emoji": "🔧",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "H",
+        "word": "Hamper",
+        "emoji": "🧺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lip Balm",
+        "emoji": "💄",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine Cabinet",
+        "emoji": "💊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Ointment",
+        "emoji": "🧴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Perfume",
+        "emoji": "🌹",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "Q",
+        "word": "Q-Tip",
+        "emoji": "🪥",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Razor",
+        "emoji": "🪒",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tweezers",
+        "emoji": "🔧",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Vanity",
+        "emoji": "🪞",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wastebasket",
+        "emoji": "🗑️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Band-Aid",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "A",
+        "word": "Air Freshener",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "bathroom-items-4",
+    "title": "Bathroom Items - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "bathroom-items-5",
+    "title": "Bathroom Items - Part 5",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "bathroom-items-6",
+    "title": "Bathroom Items - Part 6",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "bathroom-items-7",
+    "title": "Bathroom Items - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "bathroom-items-8",
+    "title": "Bathroom Items - Part 8",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "bathroom-items-9",
+    "title": "Bathroom Items - Part 9",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "bathroom-items-10",
+    "title": "Bathroom Items - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "bathroom-items-11",
+    "title": "Bathroom Items - Part 11",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "bathroom-items-12",
+    "title": "Bathroom Items - Part 12",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "bathroom-items-13",
+    "title": "Bathroom Items - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "bathroom-items-14",
+    "title": "Bathroom Items - Part 14",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "bathroom-items-15",
+    "title": "Bathroom Items - Part 15",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "bathroom-items-16",
+    "title": "Bathroom Items - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "bathroom-items-17",
+    "title": "Bathroom Items - Part 17",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "bathroom-items-18",
+    "title": "Bathroom Items - Part 18",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "bathroom-items-19",
+    "title": "Bathroom Items - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "bathroom-items-20",
+    "title": "Bathroom Items - Part 20",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "bathroom-items-21",
+    "title": "Bathroom Items - Part 21",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "bathroom-items-22",
+    "title": "Bathroom Items - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "bathroom-items-23",
+    "title": "Bathroom Items - Part 23",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "bathroom-items-24",
+    "title": "Bathroom Items - Part 24",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "bathroom-items-25",
+    "title": "Bathroom Items - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "bathroom-items-26",
+    "title": "Bathroom Items - Part 26",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "bathroom-items-27",
+    "title": "Bathroom Items - Part 27",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "bathroom-items-28",
+    "title": "Bathroom Items - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "bathroom-items-29",
+    "title": "Bathroom Items - Part 29",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "bathroom-items-30",
+    "title": "Bathroom Items - Part 30",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🛁",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🪥",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Toilet",
+        "emoji": "🚽",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rubber Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bubble Bath",
+        "emoji": "🫧",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  }
+]

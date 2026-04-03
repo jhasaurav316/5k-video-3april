@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "garden-items-1",
+    "title": "Garden Items - Part 1",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "garden-items-2",
+    "title": "Garden Items - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rose",
+        "emoji": "🌹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tulip",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Daisy",
+        "emoji": "🌼",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lily",
+        "emoji": "🌸",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Compost",
+        "emoji": "🌿",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Mulch",
+        "emoji": "🍂",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trellis",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Greenhouse",
+        "emoji": "🏠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pruner",
+        "emoji": "✂️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🌿",
+        "bgColor": "#1B5E20"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "garden-items-3",
+    "title": "Garden Items - Part 3",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Planter",
+        "emoji": "🪴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Arbor",
+        "emoji": "🏗️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Herb",
+        "emoji": "🌿",
+        "bgColor": "#388E3C"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Stepping Stone",
+        "emoji": "🪨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Birdseed",
+        "emoji": "🐦",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gazebo",
+        "emoji": "🏠",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nest",
+        "emoji": "🪹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fountain",
+        "emoji": "⛲",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Topiary",
+        "emoji": "🌳",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pebble",
+        "emoji": "🪨",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "garden-items-4",
+    "title": "Garden Items - Part 4",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "garden-items-5",
+    "title": "Garden Items - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "garden-items-6",
+    "title": "Garden Items - Part 6",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "garden-items-7",
+    "title": "Garden Items - Part 7",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "garden-items-8",
+    "title": "Garden Items - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "garden-items-9",
+    "title": "Garden Items - Part 9",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "garden-items-10",
+    "title": "Garden Items - Part 10",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "garden-items-11",
+    "title": "Garden Items - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "garden-items-12",
+    "title": "Garden Items - Part 12",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "garden-items-13",
+    "title": "Garden Items - Part 13",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "garden-items-14",
+    "title": "Garden Items - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "garden-items-15",
+    "title": "Garden Items - Part 15",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "garden-items-16",
+    "title": "Garden Items - Part 16",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "garden-items-17",
+    "title": "Garden Items - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "garden-items-18",
+    "title": "Garden Items - Part 18",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "garden-items-19",
+    "title": "Garden Items - Part 19",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "garden-items-20",
+    "title": "Garden Items - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "garden-items-21",
+    "title": "Garden Items - Part 21",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "garden-items-22",
+    "title": "Garden Items - Part 22",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "garden-items-23",
+    "title": "Garden Items - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "garden-items-24",
+    "title": "Garden Items - Part 24",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "garden-items-25",
+    "title": "Garden Items - Part 25",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "garden-items-26",
+    "title": "Garden Items - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "garden-items-27",
+    "title": "Garden Items - Part 27",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "garden-items-28",
+    "title": "Garden Items - Part 28",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "garden-items-29",
+    "title": "Garden Items - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "garden-items-30",
+    "title": "Garden Items - Part 30",
+    "bgGradient": [
+      "#F48FB1",
+      "#FCE4EC"
+    ],
+    "accentColor": "#AD1457",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shovel",
+        "emoji": "⛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Watering Can",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pot",
+        "emoji": "🏺",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Soil",
+        "emoji": "🟫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🏗️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hose",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sprinkler",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "F",
+        "word": "Fence",
+        "emoji": "🏗️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bird Bath",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gnome",
+        "emoji": "🧙",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  }
+]

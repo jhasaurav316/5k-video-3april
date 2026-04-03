@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "sandwiches-1",
+    "title": "Sandwiches - Part 1",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "sandwiches-2",
+    "title": "Sandwiches - Part 2",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "V",
+        "word": "Veggie Wrap",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Burger",
+        "emoji": "🍔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Dog",
+        "emoji": "🌭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel Sandwich",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant Sandwich",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Po Boy",
+        "emoji": "🥖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gyro",
+        "emoji": "🥙",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Falafel Wrap",
+        "emoji": "🧆",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sloppy Joe",
+        "emoji": "🍔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quesadilla",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Torta",
+        "emoji": "🥪",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dagwood",
+        "emoji": "🥪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster Roll",
+        "emoji": "🦞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Monte Cristo",
+        "emoji": "🥪",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Nutella Sandwich",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "sandwiches-3",
+    "title": "Sandwiches - Part 3",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Open Face",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Avocado Toast",
+        "emoji": "🥑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Banh Mi",
+        "emoji": "🥖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cuban",
+        "emoji": "🥪",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jam Sandwich",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kebab Wrap",
+        "emoji": "🥙",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Philly Steak",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rachel",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Shawarma",
+        "emoji": "🥙",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taco",
+        "emoji": "🌮",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Western",
+        "emoji": "🥪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Caprese",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Italian Sub",
+        "emoji": "🥖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Hummus Wrap",
+        "emoji": "🫘",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Muffuletta",
+        "emoji": "🥪",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "sandwiches-4",
+    "title": "Sandwiches - Part 4",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "sandwiches-5",
+    "title": "Sandwiches - Part 5",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "sandwiches-6",
+    "title": "Sandwiches - Part 6",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "sandwiches-7",
+    "title": "Sandwiches - Part 7",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "sandwiches-8",
+    "title": "Sandwiches - Part 8",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "sandwiches-9",
+    "title": "Sandwiches - Part 9",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "sandwiches-10",
+    "title": "Sandwiches - Part 10",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "sandwiches-11",
+    "title": "Sandwiches - Part 11",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "sandwiches-12",
+    "title": "Sandwiches - Part 12",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "sandwiches-13",
+    "title": "Sandwiches - Part 13",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "sandwiches-14",
+    "title": "Sandwiches - Part 14",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "sandwiches-15",
+    "title": "Sandwiches - Part 15",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "sandwiches-16",
+    "title": "Sandwiches - Part 16",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "sandwiches-17",
+    "title": "Sandwiches - Part 17",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "sandwiches-18",
+    "title": "Sandwiches - Part 18",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "sandwiches-19",
+    "title": "Sandwiches - Part 19",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "sandwiches-20",
+    "title": "Sandwiches - Part 20",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "sandwiches-21",
+    "title": "Sandwiches - Part 21",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "sandwiches-22",
+    "title": "Sandwiches - Part 22",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "sandwiches-23",
+    "title": "Sandwiches - Part 23",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "sandwiches-24",
+    "title": "Sandwiches - Part 24",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "sandwiches-25",
+    "title": "Sandwiches - Part 25",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "sandwiches-26",
+    "title": "Sandwiches - Part 26",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "sandwiches-27",
+    "title": "Sandwiches - Part 27",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "sandwiches-28",
+    "title": "Sandwiches - Part 28",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "sandwiches-29",
+    "title": "Sandwiches - Part 29",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "sandwiches-30",
+    "title": "Sandwiches - Part 30",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "PB and J",
+        "emoji": "🥜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Grilled Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "BLT",
+        "emoji": "🥓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sub",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Club",
+        "emoji": "🥪",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuna Melt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Reuben",
+        "emoji": "🥩",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wrap",
+        "emoji": "🌯",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Ham Sandwich",
+        "emoji": "🥪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Salad",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Salad",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Club",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Meatball Sub",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panini",
+        "emoji": "🥪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fish Sandwich",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  }
+]

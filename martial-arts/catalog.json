@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "martial-arts-1",
+    "title": "Martial Arts - Part 1",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "martial-arts-2",
+    "title": "Martial Arts - Part 2",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wing Chun",
+        "emoji": "🥋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hapkido",
+        "emoji": "🥋",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Sambo",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kickboxing",
+        "emoji": "🥊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "MMA",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Shaolin",
+        "emoji": "🏯",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Krav Maga",
+        "emoji": "🥊",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pencak Silat",
+        "emoji": "🥋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "Iaido",
+        "emoji": "⚔️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wushu",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Escrima",
+        "emoji": "🥢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lethwei",
+        "emoji": "🥊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Savate",
+        "emoji": "👟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Gatka",
+        "emoji": "⚔️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "martial-arts-3",
+    "title": "Martial Arts - Part 3",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dragon Style",
+        "emoji": "🐉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger Style",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crane Style",
+        "emoji": "🦢",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey Style",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Snake Style",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Black Belt",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Roundhouse Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "U",
+        "word": "Uppercut",
+        "emoji": "🥊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dojo",
+        "emoji": "🏯",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gi Uniform",
+        "emoji": "🥋",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Nunchaku",
+        "emoji": "🥢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shuriken",
+        "emoji": "⭐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Katana",
+        "emoji": "⚔️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "B",
+        "word": "Bo Staff",
+        "emoji": "🥢",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "martial-arts-4",
+    "title": "Martial Arts - Part 4",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "martial-arts-5",
+    "title": "Martial Arts - Part 5",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "martial-arts-6",
+    "title": "Martial Arts - Part 6",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "martial-arts-7",
+    "title": "Martial Arts - Part 7",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "martial-arts-8",
+    "title": "Martial Arts - Part 8",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "martial-arts-9",
+    "title": "Martial Arts - Part 9",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "martial-arts-10",
+    "title": "Martial Arts - Part 10",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "martial-arts-11",
+    "title": "Martial Arts - Part 11",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "martial-arts-12",
+    "title": "Martial Arts - Part 12",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "martial-arts-13",
+    "title": "Martial Arts - Part 13",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "martial-arts-14",
+    "title": "Martial Arts - Part 14",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "martial-arts-15",
+    "title": "Martial Arts - Part 15",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "martial-arts-16",
+    "title": "Martial Arts - Part 16",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "martial-arts-17",
+    "title": "Martial Arts - Part 17",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "martial-arts-18",
+    "title": "Martial Arts - Part 18",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "martial-arts-19",
+    "title": "Martial Arts - Part 19",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "martial-arts-20",
+    "title": "Martial Arts - Part 20",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "martial-arts-21",
+    "title": "Martial Arts - Part 21",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "martial-arts-22",
+    "title": "Martial Arts - Part 22",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "martial-arts-23",
+    "title": "Martial Arts - Part 23",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "martial-arts-24",
+    "title": "Martial Arts - Part 24",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "martial-arts-25",
+    "title": "Martial Arts - Part 25",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "martial-arts-26",
+    "title": "Martial Arts - Part 26",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "martial-arts-27",
+    "title": "Martial Arts - Part 27",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "martial-arts-28",
+    "title": "Martial Arts - Part 28",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "martial-arts-29",
+    "title": "Martial Arts - Part 29",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "martial-arts-30",
+    "title": "Martial Arts - Part 30",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu-Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🤸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "⚔️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥷",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  }
+]

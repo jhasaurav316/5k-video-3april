@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "five-senses-1",
+    "title": "Five Senses - Part 1",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "five-senses-2",
+    "title": "Five Senses - Part 2",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "👀",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sound",
+        "emoji": "🔊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Aroma",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flavor",
+        "emoji": "🍭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Soft",
+        "emoji": "🧸",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "Hard",
+        "emoji": "🪨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Loud",
+        "emoji": "📢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Bright",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Dark",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Sweet",
+        "emoji": "🍬",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sour",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bitter",
+        "emoji": "☕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Salty",
+        "emoji": "🧂",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rough",
+        "emoji": "🪨",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "five-senses-3",
+    "title": "Five Senses - Part 3",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Smooth",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "C",
+        "word": "Cold",
+        "emoji": "🥶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Hot",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Warm",
+        "emoji": "🌡️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cool",
+        "emoji": "❄️",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Sharp",
+        "emoji": "📌",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffled",
+        "emoji": "🔇",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Perfume",
+        "emoji": "🌹",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Texture",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vision",
+        "emoji": "👓",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Gaze",
+        "emoji": "👀",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Prickly",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Crunchy",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stinky",
+        "emoji": "🦨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Echo",
+        "emoji": "🔊",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "five-senses-4",
+    "title": "Five Senses - Part 4",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "five-senses-5",
+    "title": "Five Senses - Part 5",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "five-senses-6",
+    "title": "Five Senses - Part 6",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "five-senses-7",
+    "title": "Five Senses - Part 7",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "five-senses-8",
+    "title": "Five Senses - Part 8",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "five-senses-9",
+    "title": "Five Senses - Part 9",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "five-senses-10",
+    "title": "Five Senses - Part 10",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "five-senses-11",
+    "title": "Five Senses - Part 11",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "five-senses-12",
+    "title": "Five Senses - Part 12",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "five-senses-13",
+    "title": "Five Senses - Part 13",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "five-senses-14",
+    "title": "Five Senses - Part 14",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "five-senses-15",
+    "title": "Five Senses - Part 15",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "five-senses-16",
+    "title": "Five Senses - Part 16",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "five-senses-17",
+    "title": "Five Senses - Part 17",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "five-senses-18",
+    "title": "Five Senses - Part 18",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "five-senses-19",
+    "title": "Five Senses - Part 19",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "five-senses-20",
+    "title": "Five Senses - Part 20",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "five-senses-21",
+    "title": "Five Senses - Part 21",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "five-senses-22",
+    "title": "Five Senses - Part 22",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "five-senses-23",
+    "title": "Five Senses - Part 23",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "five-senses-24",
+    "title": "Five Senses - Part 24",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "five-senses-25",
+    "title": "Five Senses - Part 25",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "five-senses-26",
+    "title": "Five Senses - Part 26",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "five-senses-27",
+    "title": "Five Senses - Part 27",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "five-senses-28",
+    "title": "Five Senses - Part 28",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "five-senses-29",
+    "title": "Five Senses - Part 29",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "five-senses-30",
+    "title": "Five Senses - Part 30",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "See",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hear",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Smell",
+        "emoji": "👃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Taste",
+        "emoji": "👅",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Touch",
+        "emoji": "✋",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Eyes",
+        "emoji": "👁️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Ears",
+        "emoji": "👂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Nose",
+        "emoji": "👃",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouth",
+        "emoji": "👄",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Skin",
+        "emoji": "🤲",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Look",
+        "emoji": "👀",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "L",
+        "word": "Listen",
+        "emoji": "👂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sniff",
+        "emoji": "👃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Bite",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Feel",
+        "emoji": "✋",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "baked-goods-1",
+    "title": "Baked Goods - Part 1",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "baked-goods-2",
+    "title": "Baked Goods - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Biscuit",
+        "emoji": "🍪",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "F",
+        "word": "Focaccia",
+        "emoji": "🍞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic Bread",
+        "emoji": "🧄",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Loaf",
+        "emoji": "🍞",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Naan",
+        "emoji": "🫓",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "S",
+        "word": "Sourdough",
+        "emoji": "🍞",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "C",
+        "word": "Cornbread",
+        "emoji": "🌽",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Eclair",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Strudel",
+        "emoji": "🥧",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "T",
+        "word": "Toast",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Apple Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Banana Bread",
+        "emoji": "🍌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cinnamon Roll",
+        "emoji": "🍥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Danish",
+        "emoji": "🍥",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "baked-goods-3",
+    "title": "Baked Goods - Part 3",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "F",
+        "word": "French Toast",
+        "emoji": "🍞",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "K",
+        "word": "Key Lime Pie",
+        "emoji": "🥧",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon Cake",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🍬",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "O",
+        "word": "Oat Cake",
+        "emoji": "🍪",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "P",
+        "word": "Pound Cake",
+        "emoji": "🍰",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rye Bread",
+        "emoji": "🍞",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shortbread",
+        "emoji": "🍪",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "V",
+        "word": "Vienna Bread",
+        "emoji": "🍞",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "Z",
+        "word": "Zucchini Bread",
+        "emoji": "🍞",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Challah",
+        "emoji": "🍞",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Cross Bun",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pita",
+        "emoji": "🫓",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "J",
+        "word": "Jam Tart",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Whole Wheat",
+        "emoji": "🍞",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "baked-goods-4",
+    "title": "Baked Goods - Part 4",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "baked-goods-5",
+    "title": "Baked Goods - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "baked-goods-6",
+    "title": "Baked Goods - Part 6",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "baked-goods-7",
+    "title": "Baked Goods - Part 7",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "baked-goods-8",
+    "title": "Baked Goods - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "baked-goods-9",
+    "title": "Baked Goods - Part 9",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "baked-goods-10",
+    "title": "Baked Goods - Part 10",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "baked-goods-11",
+    "title": "Baked Goods - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "baked-goods-12",
+    "title": "Baked Goods - Part 12",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "baked-goods-13",
+    "title": "Baked Goods - Part 13",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "baked-goods-14",
+    "title": "Baked Goods - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "baked-goods-15",
+    "title": "Baked Goods - Part 15",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "baked-goods-16",
+    "title": "Baked Goods - Part 16",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "baked-goods-17",
+    "title": "Baked Goods - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "baked-goods-18",
+    "title": "Baked Goods - Part 18",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "baked-goods-19",
+    "title": "Baked Goods - Part 19",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "baked-goods-20",
+    "title": "Baked Goods - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "baked-goods-21",
+    "title": "Baked Goods - Part 21",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "baked-goods-22",
+    "title": "Baked Goods - Part 22",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "baked-goods-23",
+    "title": "Baked Goods - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "baked-goods-24",
+    "title": "Baked Goods - Part 24",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "baked-goods-25",
+    "title": "Baked Goods - Part 25",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "baked-goods-26",
+    "title": "Baked Goods - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "baked-goods-27",
+    "title": "Baked Goods - Part 27",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "baked-goods-28",
+    "title": "Baked Goods - Part 28",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "baked-goods-29",
+    "title": "Baked Goods - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "baked-goods-30",
+    "title": "Baked Goods - Part 30",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Muffin",
+        "emoji": "🧁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Croissant",
+        "emoji": "🥐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Bagel",
+        "emoji": "🥯",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pretzel",
+        "emoji": "🥨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pancake",
+        "emoji": "🥞",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Scone",
+        "emoji": "🧁",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tart",
+        "emoji": "🥧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🥖",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  }
+]

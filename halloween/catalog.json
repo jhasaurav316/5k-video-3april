@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "halloween-1",
+    "title": "Halloween - Part 1",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "halloween-2",
+    "title": "Halloween - Part 2",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Haunted House",
+        "emoji": "🏚️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "C",
+        "word": "Cauldron",
+        "emoji": "🧪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Broomstick",
+        "emoji": "🧹",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "O",
+        "word": "Owl",
+        "emoji": "🦉",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scarecrow",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "🎭",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cobweb",
+        "emoji": "🕸️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "J",
+        "word": "Jack-o-Lantern",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potion",
+        "emoji": "🧪",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Full Moon",
+        "emoji": "🌕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Dracula",
+        "emoji": "🧛‍♂️",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Goblin",
+        "emoji": "👺",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "W",
+        "word": "Wand",
+        "emoji": "🪄",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lantern",
+        "emoji": "🏮",
+        "bgColor": "#FF5722"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "halloween-3",
+    "title": "Halloween - Part 3",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eerie",
+        "emoji": "👁️",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "N",
+        "word": "Nightmare",
+        "emoji": "😱",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "R",
+        "word": "Raven",
+        "emoji": "🐦‍⬛",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tombstone",
+        "emoji": "🪦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Spell",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cloak",
+        "emoji": "🧥",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Fang",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grave",
+        "emoji": "🪦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Horror",
+        "emoji": "😱",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Moonlight",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Creepy",
+        "emoji": "🕷️",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "W",
+        "word": "Wicked",
+        "emoji": "🧙",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "S",
+        "word": "Spooky",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bones",
+        "emoji": "🦴",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "halloween-4",
+    "title": "Halloween - Part 4",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "halloween-5",
+    "title": "Halloween - Part 5",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "halloween-6",
+    "title": "Halloween - Part 6",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "halloween-7",
+    "title": "Halloween - Part 7",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "halloween-8",
+    "title": "Halloween - Part 8",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "halloween-9",
+    "title": "Halloween - Part 9",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "halloween-10",
+    "title": "Halloween - Part 10",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "halloween-11",
+    "title": "Halloween - Part 11",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "halloween-12",
+    "title": "Halloween - Part 12",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "halloween-13",
+    "title": "Halloween - Part 13",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "halloween-14",
+    "title": "Halloween - Part 14",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "halloween-15",
+    "title": "Halloween - Part 15",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "halloween-16",
+    "title": "Halloween - Part 16",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "halloween-17",
+    "title": "Halloween - Part 17",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "halloween-18",
+    "title": "Halloween - Part 18",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "halloween-19",
+    "title": "Halloween - Part 19",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "halloween-20",
+    "title": "Halloween - Part 20",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "halloween-21",
+    "title": "Halloween - Part 21",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "halloween-22",
+    "title": "Halloween - Part 22",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "halloween-23",
+    "title": "Halloween - Part 23",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "halloween-24",
+    "title": "Halloween - Part 24",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "halloween-25",
+    "title": "Halloween - Part 25",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "halloween-26",
+    "title": "Halloween - Part 26",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "halloween-27",
+    "title": "Halloween - Part 27",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "halloween-28",
+    "title": "Halloween - Part 28",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "halloween-29",
+    "title": "Halloween - Part 29",
+    "bgGradient": [
+      "#4A148C",
+      "#CE93D8"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "halloween-30",
+    "title": "Halloween - Part 30",
+    "bgGradient": [
+      "#212121",
+      "#757575"
+    ],
+    "accentColor": "#000000",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Ghost",
+        "emoji": "👻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Witch",
+        "emoji": "🧙‍♀️",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "V",
+        "word": "Vampire",
+        "emoji": "🧛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zombie",
+        "emoji": "🧟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "💀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bat",
+        "emoji": "🦇",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Werewolf",
+        "emoji": "🐺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Candy",
+        "emoji": "🍬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mummy",
+        "emoji": "🧟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Costume",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Trick",
+        "emoji": "👻",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treat",
+        "emoji": "🍫",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  }
+]

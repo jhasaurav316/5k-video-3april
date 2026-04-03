@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "island-things-1",
+    "title": "Island Things - Part 1",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "island-things-2",
+    "title": "Island Things - Part 2",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "V",
+        "word": "Volcano",
+        "emoji": "🌋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Reef",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tide Pool",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Ocean",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Mango",
+        "emoji": "🥭",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Boat",
+        "emoji": "🛥️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Crab",
+        "emoji": "🦀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jellyfish",
+        "emoji": "🪼",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "K",
+        "word": "Kayak",
+        "emoji": "🛶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lighthouse",
+        "emoji": "🗼",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Net",
+        "emoji": "🥅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pelican",
+        "emoji": "🐦",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Snorkel",
+        "emoji": "🤿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "U",
+        "word": "Umbrella",
+        "emoji": "⛱️",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "island-things-3",
+    "title": "Island Things - Part 3",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Anchor",
+        "emoji": "⚓",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "B",
+        "word": "Breeze",
+        "emoji": "🍃",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "E",
+        "word": "Explorer",
+        "emoji": "🧑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "G",
+        "word": "Gull",
+        "emoji": "🐦",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "H",
+        "word": "Hibiscus",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Island",
+        "emoji": "🏝️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lei",
+        "emoji": "💐",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mangrove",
+        "emoji": "🌳",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pineapple",
+        "emoji": "🍍",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Raft",
+        "emoji": "🛶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Treasure",
+        "emoji": "💎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Waterfall",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Seagull",
+        "emoji": "🐦",
+        "bgColor": "#B0BEC5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "island-things-4",
+    "title": "Island Things - Part 4",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "island-things-5",
+    "title": "Island Things - Part 5",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "island-things-6",
+    "title": "Island Things - Part 6",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "island-things-7",
+    "title": "Island Things - Part 7",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "island-things-8",
+    "title": "Island Things - Part 8",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "island-things-9",
+    "title": "Island Things - Part 9",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "island-things-10",
+    "title": "Island Things - Part 10",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "island-things-11",
+    "title": "Island Things - Part 11",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "island-things-12",
+    "title": "Island Things - Part 12",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "island-things-13",
+    "title": "Island Things - Part 13",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "island-things-14",
+    "title": "Island Things - Part 14",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "island-things-15",
+    "title": "Island Things - Part 15",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "island-things-16",
+    "title": "Island Things - Part 16",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "island-things-17",
+    "title": "Island Things - Part 17",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "island-things-18",
+    "title": "Island Things - Part 18",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "island-things-19",
+    "title": "Island Things - Part 19",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "island-things-20",
+    "title": "Island Things - Part 20",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "island-things-21",
+    "title": "Island Things - Part 21",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "island-things-22",
+    "title": "Island Things - Part 22",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "island-things-23",
+    "title": "Island Things - Part 23",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "island-things-24",
+    "title": "Island Things - Part 24",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "island-things-25",
+    "title": "Island Things - Part 25",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "island-things-26",
+    "title": "Island Things - Part 26",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "island-things-27",
+    "title": "Island Things - Part 27",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "island-things-28",
+    "title": "Island Things - Part 28",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "island-things-29",
+    "title": "Island Things - Part 29",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "island-things-30",
+    "title": "Island Things - Part 30",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Beach",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coconut",
+        "emoji": "🥥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Shell",
+        "emoji": "🐚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏖️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "🐠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dolphin",
+        "emoji": "🐬",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🛏️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Surfboard",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lagoon",
+        "emoji": "🏝️",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  }
+]

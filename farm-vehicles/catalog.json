@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "farm-vehicles-1",
+    "title": "Farm Vehicles - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "farm-vehicles-2",
+    "title": "Farm Vehicles - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Milk Truck",
+        "emoji": "🚛",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pickup Truck",
+        "emoji": "🛻",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rake",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tedder",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "ATV",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Boom Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chisel Plow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drill Seeder",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "F",
+        "word": "Forage Harvester",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hay Baler",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Irrigator",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Manure Spreader",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nursery Cart",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "farm-vehicles-3",
+    "title": "Farm Vehicles - Part 3",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Orchard Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Post Hole Digger",
+        "emoji": "🚜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rotary Tiller",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silage Wagon",
+        "emoji": "🚛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tiller",
+        "emoji": "🚜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "UTV",
+        "emoji": "🏍️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vineyard Tractor",
+        "emoji": "🚜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "W",
+        "word": "Windrower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton Picker",
+        "emoji": "🚜",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fertilizer Spreader",
+        "emoji": "🚜",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Garden Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hoe",
+        "emoji": "🪓",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Mower",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Planter",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Sub-Soiler",
+        "emoji": "🚜",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "farm-vehicles-4",
+    "title": "Farm Vehicles - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "farm-vehicles-5",
+    "title": "Farm Vehicles - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "farm-vehicles-6",
+    "title": "Farm Vehicles - Part 6",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "farm-vehicles-7",
+    "title": "Farm Vehicles - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "farm-vehicles-8",
+    "title": "Farm Vehicles - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "farm-vehicles-9",
+    "title": "Farm Vehicles - Part 9",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "farm-vehicles-10",
+    "title": "Farm Vehicles - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "farm-vehicles-11",
+    "title": "Farm Vehicles - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "farm-vehicles-12",
+    "title": "Farm Vehicles - Part 12",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "farm-vehicles-13",
+    "title": "Farm Vehicles - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "farm-vehicles-14",
+    "title": "Farm Vehicles - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "farm-vehicles-15",
+    "title": "Farm Vehicles - Part 15",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "farm-vehicles-16",
+    "title": "Farm Vehicles - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "farm-vehicles-17",
+    "title": "Farm Vehicles - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "farm-vehicles-18",
+    "title": "Farm Vehicles - Part 18",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "farm-vehicles-19",
+    "title": "Farm Vehicles - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "farm-vehicles-20",
+    "title": "Farm Vehicles - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "farm-vehicles-21",
+    "title": "Farm Vehicles - Part 21",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "farm-vehicles-22",
+    "title": "Farm Vehicles - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "farm-vehicles-23",
+    "title": "Farm Vehicles - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "farm-vehicles-24",
+    "title": "Farm Vehicles - Part 24",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "farm-vehicles-25",
+    "title": "Farm Vehicles - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "farm-vehicles-26",
+    "title": "Farm Vehicles - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "farm-vehicles-27",
+    "title": "Farm Vehicles - Part 27",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "farm-vehicles-28",
+    "title": "Farm Vehicles - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "farm-vehicles-29",
+    "title": "Farm Vehicles - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "farm-vehicles-30",
+    "title": "Farm Vehicles - Part 30",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Combine",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trailer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sprayer",
+        "emoji": "🚜",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Harvester",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Baler",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seeder",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mower",
+        "emoji": "🚜",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🛻",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cultivator",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Harrow",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Feed Truck",
+        "emoji": "🚛",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Grain Cart",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  }
+]

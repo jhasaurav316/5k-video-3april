@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "planets-1",
+    "title": "Planets & Space Objects - Part 1",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "planets-2",
+    "title": "Planets & Space Objects - Part 2",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Nebula",
+        "emoji": "🌌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Black Hole",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Supernova",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Constellation",
+        "emoji": "✨",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Meteor",
+        "emoji": "☄️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Satellite",
+        "emoji": "🛰️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Space Station",
+        "emoji": "🛸",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Telescope",
+        "emoji": "🔭",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Orbit",
+        "emoji": "🔄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "E",
+        "word": "Eclipse",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Solar System",
+        "emoji": "🌞",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Milky Way",
+        "emoji": "🌌",
+        "bgColor": "#9575CD"
+      },
+      {
+        "letter": "D",
+        "word": "Dwarf Planet",
+        "emoji": "🌑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar",
+        "emoji": "🌕",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "planets-3",
+    "title": "Planets & Space Objects - Part 3",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shooting Star",
+        "emoji": "🌠",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crater",
+        "emoji": "🌑",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Astronaut",
+        "emoji": "👩‍🚀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Red Giant",
+        "emoji": "🔴",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "W",
+        "word": "White Dwarf",
+        "emoji": "⚪",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "P",
+        "word": "Pulsar",
+        "emoji": "💫",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "Q",
+        "word": "Quasar",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "North Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "B",
+        "word": "Big Bang",
+        "emoji": "💥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "G",
+        "word": "Gravity",
+        "emoji": "🍎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hubble",
+        "emoji": "🔭",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "V",
+        "word": "Void",
+        "emoji": "🕳️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cosmos",
+        "emoji": "🌌",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "Z",
+        "word": "Zodiac",
+        "emoji": "♈",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "I",
+        "word": "Io Moon",
+        "emoji": "🌕",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "planets-4",
+    "title": "Planets & Space Objects - Part 4",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "planets-5",
+    "title": "Planets & Space Objects - Part 5",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "planets-6",
+    "title": "Planets & Space Objects - Part 6",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "planets-7",
+    "title": "Planets & Space Objects - Part 7",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "planets-8",
+    "title": "Planets & Space Objects - Part 8",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "planets-9",
+    "title": "Planets & Space Objects - Part 9",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "planets-10",
+    "title": "Planets & Space Objects - Part 10",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "planets-11",
+    "title": "Planets & Space Objects - Part 11",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "planets-12",
+    "title": "Planets & Space Objects - Part 12",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "planets-13",
+    "title": "Planets & Space Objects - Part 13",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "planets-14",
+    "title": "Planets & Space Objects - Part 14",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "planets-15",
+    "title": "Planets & Space Objects - Part 15",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "planets-16",
+    "title": "Planets & Space Objects - Part 16",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "planets-17",
+    "title": "Planets & Space Objects - Part 17",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "planets-18",
+    "title": "Planets & Space Objects - Part 18",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "planets-19",
+    "title": "Planets & Space Objects - Part 19",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "planets-20",
+    "title": "Planets & Space Objects - Part 20",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "planets-21",
+    "title": "Planets & Space Objects - Part 21",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "planets-22",
+    "title": "Planets & Space Objects - Part 22",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "planets-23",
+    "title": "Planets & Space Objects - Part 23",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "planets-24",
+    "title": "Planets & Space Objects - Part 24",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "planets-25",
+    "title": "Planets & Space Objects - Part 25",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "planets-26",
+    "title": "Planets & Space Objects - Part 26",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "planets-27",
+    "title": "Planets & Space Objects - Part 27",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "planets-28",
+    "title": "Planets & Space Objects - Part 28",
+    "bgGradient": [
+      "#311B92",
+      "#B39DDB"
+    ],
+    "accentColor": "#1A0A5E",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "planets-29",
+    "title": "Planets & Space Objects - Part 29",
+    "bgGradient": [
+      "#0D47A1",
+      "#90CAF9"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "planets-30",
+    "title": "Planets & Space Objects - Part 30",
+    "bgGradient": [
+      "#E65100",
+      "#FFB74D"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mercury",
+        "emoji": "☿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Venus",
+        "emoji": "🌟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Earth",
+        "emoji": "🌍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Mars",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jupiter",
+        "emoji": "🪐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Saturn",
+        "emoji": "🪐",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "U",
+        "word": "Uranus",
+        "emoji": "🌐",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Neptune",
+        "emoji": "🌊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pluto",
+        "emoji": "⚫",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moon",
+        "emoji": "🌙",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Comet",
+        "emoji": "☄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Asteroid",
+        "emoji": "🪨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Galaxy",
+        "emoji": "🌌",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  }
+]

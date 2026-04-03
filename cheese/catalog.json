@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "cheese-1",
+    "title": "Cheese Types - Part 1",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "cheese-2",
+    "title": "Cheese Types - Part 2",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Emmental",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Havarti",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "A",
+        "word": "Asiago",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Monterey Jack",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Colby",
+        "emoji": "🧀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Goat Cheese",
+        "emoji": "🐐",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Limburger",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Taleggio",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Roquefort",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Stilton",
+        "emoji": "🧀",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "P",
+        "word": "Pecorino",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Muenster",
+        "emoji": "🧀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Burrata",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "F",
+        "word": "Fontina",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neufchatel",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "cheese-3",
+    "title": "Cheese Types - Part 3",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wensleydale",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "J",
+        "word": "Jarlsberg",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "K",
+        "word": "Kashkaval",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "O",
+        "word": "Oaxaca Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Danblu",
+        "emoji": "🧀",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "V",
+        "word": "Velveeta",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zamorano",
+        "emoji": "🧀",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "I",
+        "word": "Irish Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "U",
+        "word": "Urgelia",
+        "emoji": "🧀",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "Q",
+        "word": "Queso Fresco",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "Y",
+        "word": "Yarg Cheese",
+        "emoji": "🧀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "X",
+        "word": "Xynotyri",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "A",
+        "word": "American Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Leicester",
+        "emoji": "🧀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "String Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "cheese-4",
+    "title": "Cheese Types - Part 4",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "cheese-5",
+    "title": "Cheese Types - Part 5",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "cheese-6",
+    "title": "Cheese Types - Part 6",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "cheese-7",
+    "title": "Cheese Types - Part 7",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "cheese-8",
+    "title": "Cheese Types - Part 8",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "cheese-9",
+    "title": "Cheese Types - Part 9",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "cheese-10",
+    "title": "Cheese Types - Part 10",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "cheese-11",
+    "title": "Cheese Types - Part 11",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "cheese-12",
+    "title": "Cheese Types - Part 12",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "cheese-13",
+    "title": "Cheese Types - Part 13",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "cheese-14",
+    "title": "Cheese Types - Part 14",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "cheese-15",
+    "title": "Cheese Types - Part 15",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "cheese-16",
+    "title": "Cheese Types - Part 16",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "cheese-17",
+    "title": "Cheese Types - Part 17",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "cheese-18",
+    "title": "Cheese Types - Part 18",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "cheese-19",
+    "title": "Cheese Types - Part 19",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "cheese-20",
+    "title": "Cheese Types - Part 20",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "cheese-21",
+    "title": "Cheese Types - Part 21",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "cheese-22",
+    "title": "Cheese Types - Part 22",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "cheese-23",
+    "title": "Cheese Types - Part 23",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "cheese-24",
+    "title": "Cheese Types - Part 24",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "cheese-25",
+    "title": "Cheese Types - Part 25",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "cheese-26",
+    "title": "Cheese Types - Part 26",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "cheese-27",
+    "title": "Cheese Types - Part 27",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "cheese-28",
+    "title": "Cheese Types - Part 28",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "cheese-29",
+    "title": "Cheese Types - Part 29",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "cheese-30",
+    "title": "Cheese Types - Part 30",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cheddar",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mozzarella",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Brie",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parmesan",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gouda",
+        "emoji": "🧀",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swiss",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Feta",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Camembert",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ricotta",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Cheese",
+        "emoji": "🧀",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "G",
+        "word": "Gruyere",
+        "emoji": "🧀",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Provolone",
+        "emoji": "🧀",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Manchego",
+        "emoji": "🧀",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Cheese",
+        "emoji": "🧀",
+        "bgColor": "#FAFAFA"
+      },
+      {
+        "letter": "C",
+        "word": "Cottage Cheese",
+        "emoji": "🧀",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  }
+]

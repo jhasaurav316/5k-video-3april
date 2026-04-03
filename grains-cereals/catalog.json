@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "grains-cereals-1",
+    "title": "Grains & Cereals - Part 1",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "grains-cereals-2",
+    "title": "Grains & Cereals - Part 2",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cereal",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Granola",
+        "emoji": "🥣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oatmeal",
+        "emoji": "🥣",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "P",
+        "word": "Porridge",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Muesli",
+        "emoji": "🥣",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Flour",
+        "emoji": "🌾",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bran",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Couscous",
+        "emoji": "🌾",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "P",
+        "word": "Pasta",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cracker",
+        "emoji": "🍘",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bread",
+        "emoji": "🍞",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tortilla",
+        "emoji": "🌮",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Wafer",
+        "emoji": "🧇",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "P",
+        "word": "Pita",
+        "emoji": "🫓",
+        "bgColor": "#D7CCC8"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "grains-cereals-3",
+    "title": "Grains & Cereals - Part 3",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice Cake",
+        "emoji": "🍘",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grits",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "P",
+        "word": "Polenta",
+        "emoji": "🌽",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Semolina",
+        "emoji": "🌾",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "T",
+        "word": "Tapioca",
+        "emoji": "🫧",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Durum",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "E",
+        "word": "Emmer",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hominy",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lavash",
+        "emoji": "🫓",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "M",
+        "word": "Maize",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Naan",
+        "emoji": "🫓",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "P",
+        "word": "Puffed Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Soba",
+        "emoji": "🍜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "U",
+        "word": "Udon",
+        "emoji": "🍜",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "grains-cereals-4",
+    "title": "Grains & Cereals - Part 4",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "grains-cereals-5",
+    "title": "Grains & Cereals - Part 5",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "grains-cereals-6",
+    "title": "Grains & Cereals - Part 6",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "grains-cereals-7",
+    "title": "Grains & Cereals - Part 7",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "grains-cereals-8",
+    "title": "Grains & Cereals - Part 8",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "grains-cereals-9",
+    "title": "Grains & Cereals - Part 9",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "grains-cereals-10",
+    "title": "Grains & Cereals - Part 10",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "grains-cereals-11",
+    "title": "Grains & Cereals - Part 11",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "grains-cereals-12",
+    "title": "Grains & Cereals - Part 12",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "grains-cereals-13",
+    "title": "Grains & Cereals - Part 13",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "grains-cereals-14",
+    "title": "Grains & Cereals - Part 14",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "grains-cereals-15",
+    "title": "Grains & Cereals - Part 15",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "grains-cereals-16",
+    "title": "Grains & Cereals - Part 16",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "grains-cereals-17",
+    "title": "Grains & Cereals - Part 17",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "grains-cereals-18",
+    "title": "Grains & Cereals - Part 18",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "grains-cereals-19",
+    "title": "Grains & Cereals - Part 19",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "grains-cereals-20",
+    "title": "Grains & Cereals - Part 20",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "grains-cereals-21",
+    "title": "Grains & Cereals - Part 21",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "grains-cereals-22",
+    "title": "Grains & Cereals - Part 22",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "grains-cereals-23",
+    "title": "Grains & Cereals - Part 23",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "grains-cereals-24",
+    "title": "Grains & Cereals - Part 24",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "grains-cereals-25",
+    "title": "Grains & Cereals - Part 25",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "grains-cereals-26",
+    "title": "Grains & Cereals - Part 26",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "grains-cereals-27",
+    "title": "Grains & Cereals - Part 27",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "grains-cereals-28",
+    "title": "Grains & Cereals - Part 28",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "grains-cereals-29",
+    "title": "Grains & Cereals - Part 29",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "grains-cereals-30",
+    "title": "Grains & Cereals - Part 30",
+    "bgGradient": [
+      "#CDDC39",
+      "#F0F4C3"
+    ],
+    "accentColor": "#9E9D24",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🥣",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spelt",
+        "emoji": "🌾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Amaranth",
+        "emoji": "🌾",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Teff",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Farro",
+        "emoji": "🌾",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kamut",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  }
+]

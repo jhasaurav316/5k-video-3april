@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "simple-machines-1",
+    "title": "Simple Machines - Part 1",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "simple-machines-2",
+    "title": "Simple Machines - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bolt",
+        "emoji": "🔩",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Crowbar",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Elevator",
+        "emoji": "🛗",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flag Pole",
+        "emoji": "🏁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jack",
+        "emoji": "🔧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "M",
+        "word": "Machine",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "O",
+        "word": "Opener",
+        "emoji": "🔧",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Pliers",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tongs",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Vise",
+        "emoji": "🔧",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wrench",
+        "emoji": "🔧",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "Z",
+        "word": "Zipper",
+        "emoji": "🤐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "simple-machines-3",
+    "title": "Simple Machines - Part 3",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Corkscrew",
+        "emoji": "🔧",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Drill",
+        "emoji": "🔧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fork",
+        "emoji": "🍴",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "G",
+        "word": "Grinder",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Lid",
+        "emoji": "🫙",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "N",
+        "word": "Nutcracker",
+        "emoji": "🔧",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Plow",
+        "emoji": "🚜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Roller",
+        "emoji": "🛞",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Slide",
+        "emoji": "🛝",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "T",
+        "word": "Tweezers",
+        "emoji": "🔧",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "U",
+        "word": "Utility Knife",
+        "emoji": "🔪",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Winch",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "A",
+        "word": "Anchor",
+        "emoji": "⚓",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brake",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "simple-machines-4",
+    "title": "Simple Machines - Part 4",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "simple-machines-5",
+    "title": "Simple Machines - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "simple-machines-6",
+    "title": "Simple Machines - Part 6",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "simple-machines-7",
+    "title": "Simple Machines - Part 7",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "simple-machines-8",
+    "title": "Simple Machines - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "simple-machines-9",
+    "title": "Simple Machines - Part 9",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "simple-machines-10",
+    "title": "Simple Machines - Part 10",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "simple-machines-11",
+    "title": "Simple Machines - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "simple-machines-12",
+    "title": "Simple Machines - Part 12",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "simple-machines-13",
+    "title": "Simple Machines - Part 13",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "simple-machines-14",
+    "title": "Simple Machines - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "simple-machines-15",
+    "title": "Simple Machines - Part 15",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "simple-machines-16",
+    "title": "Simple Machines - Part 16",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "simple-machines-17",
+    "title": "Simple Machines - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "simple-machines-18",
+    "title": "Simple Machines - Part 18",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "simple-machines-19",
+    "title": "Simple Machines - Part 19",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "simple-machines-20",
+    "title": "Simple Machines - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "simple-machines-21",
+    "title": "Simple Machines - Part 21",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "simple-machines-22",
+    "title": "Simple Machines - Part 22",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "simple-machines-23",
+    "title": "Simple Machines - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "simple-machines-24",
+    "title": "Simple Machines - Part 24",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "simple-machines-25",
+    "title": "Simple Machines - Part 25",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "simple-machines-26",
+    "title": "Simple Machines - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "simple-machines-27",
+    "title": "Simple Machines - Part 27",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "simple-machines-28",
+    "title": "Simple Machines - Part 28",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "simple-machines-29",
+    "title": "Simple Machines - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "simple-machines-30",
+    "title": "Simple Machines - Part 30",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lever",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pulley",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wheel",
+        "emoji": "☸️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Screw",
+        "emoji": "🔩",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "W",
+        "word": "Wedge",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Inclined Plane",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Axle",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Gear",
+        "emoji": "⚙️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "R",
+        "word": "Ramp",
+        "emoji": "📐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fulcrum",
+        "emoji": "⚖️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seesaw",
+        "emoji": "🎠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Doorknob",
+        "emoji": "🚪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail",
+        "emoji": "📌",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  }
+]

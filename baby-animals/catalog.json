@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "baby-animals-1",
+    "title": "Baby Animals - Part 1",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "baby-animals-2",
+    "title": "Baby Animals - Part 2",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "O",
+        "word": "Owlet",
+        "emoji": "🦉",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "Eaglet",
+        "emoji": "🦅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hatchling",
+        "emoji": "🐣",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pup",
+        "emoji": "🐕",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Larva",
+        "emoji": "🐛",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "N",
+        "word": "Nestling",
+        "emoji": "🐦",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fry",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grub",
+        "emoji": "🐛",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "I",
+        "word": "Infant",
+        "emoji": "👶",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Whelp",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Squab",
+        "emoji": "🕊️",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Poult",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "E",
+        "word": "Elver",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Smolt",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "baby-animals-3",
+    "title": "Baby Animals - Part 3",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Leveret",
+        "emoji": "🐇",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Cockerel",
+        "emoji": "🐓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Doe",
+        "emoji": "🦌",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "F",
+        "word": "Fingerling",
+        "emoji": "🐟",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "H",
+        "word": "Heifer",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "K",
+        "word": "Kid",
+        "emoji": "🐐",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "M",
+        "word": "Maggot",
+        "emoji": "🐛",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🐛",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "P",
+        "word": "Parr",
+        "emoji": "🐟",
+        "bgColor": "#78909C"
+      },
+      {
+        "letter": "R",
+        "word": "Ryely",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Shoat",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "T",
+        "word": "Toddler",
+        "emoji": "🧒",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Weanling",
+        "emoji": "🐴",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "Y",
+        "word": "Yearling",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Baby Bear",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "baby-animals-4",
+    "title": "Baby Animals - Part 4",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "baby-animals-5",
+    "title": "Baby Animals - Part 5",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "baby-animals-6",
+    "title": "Baby Animals - Part 6",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "baby-animals-7",
+    "title": "Baby Animals - Part 7",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "baby-animals-8",
+    "title": "Baby Animals - Part 8",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "baby-animals-9",
+    "title": "Baby Animals - Part 9",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "baby-animals-10",
+    "title": "Baby Animals - Part 10",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "baby-animals-11",
+    "title": "Baby Animals - Part 11",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "baby-animals-12",
+    "title": "Baby Animals - Part 12",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "baby-animals-13",
+    "title": "Baby Animals - Part 13",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "baby-animals-14",
+    "title": "Baby Animals - Part 14",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "baby-animals-15",
+    "title": "Baby Animals - Part 15",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "baby-animals-16",
+    "title": "Baby Animals - Part 16",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "baby-animals-17",
+    "title": "Baby Animals - Part 17",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "baby-animals-18",
+    "title": "Baby Animals - Part 18",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "baby-animals-19",
+    "title": "Baby Animals - Part 19",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "baby-animals-20",
+    "title": "Baby Animals - Part 20",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "baby-animals-21",
+    "title": "Baby Animals - Part 21",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "baby-animals-22",
+    "title": "Baby Animals - Part 22",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "baby-animals-23",
+    "title": "Baby Animals - Part 23",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "baby-animals-24",
+    "title": "Baby Animals - Part 24",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "baby-animals-25",
+    "title": "Baby Animals - Part 25",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "baby-animals-26",
+    "title": "Baby Animals - Part 26",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "baby-animals-27",
+    "title": "Baby Animals - Part 27",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "baby-animals-28",
+    "title": "Baby Animals - Part 28",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "baby-animals-29",
+    "title": "Baby Animals - Part 29",
+    "bgGradient": [
+      "#81D4FA",
+      "#E1F5FE"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "baby-animals-30",
+    "title": "Baby Animals - Part 30",
+    "bgGradient": [
+      "#A5D6A7",
+      "#E8F5E9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Calf",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Lamb",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chick",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Foal",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Piglet",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "D",
+        "word": "Duckling",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "G",
+        "word": "Gosling",
+        "emoji": "🐤",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cub",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Fawn",
+        "emoji": "🦌",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "K",
+        "word": "Kit",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joey",
+        "emoji": "🦘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tadpole",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐇",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "computer-words-1",
+    "title": "Computer Words - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "computer-words-2",
+    "title": "Computer Words - Part 2",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Search",
+        "emoji": "🔍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Link",
+        "emoji": "🔗",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Password",
+        "emoji": "🔒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "U",
+        "word": "Username",
+        "emoji": "👤",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "WiFi",
+        "emoji": "📶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bluetooth",
+        "emoji": "📱",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "App",
+        "emoji": "📱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Camera",
+        "emoji": "📷",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Data",
+        "emoji": "📊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Game",
+        "emoji": "🎮",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Drive",
+        "emoji": "💾",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "M",
+        "word": "Memory",
+        "emoji": "💾",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Network",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pixel",
+        "emoji": "🟦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Robot",
+        "emoji": "🤖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "computer-words-3",
+    "title": "Computer Words - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Software",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tablet",
+        "emoji": "📱",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "V",
+        "word": "Video",
+        "emoji": "🎥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bug",
+        "emoji": "🐛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cursor",
+        "emoji": "👆",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Desktop",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "E",
+        "word": "Enter",
+        "emoji": "⏎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Homepage",
+        "emoji": "🏠",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Icon",
+        "emoji": "📌",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Laptop",
+        "emoji": "💻",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "M",
+        "word": "Monitor",
+        "emoji": "🖥️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Operating System",
+        "emoji": "💻",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Program",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Server",
+        "emoji": "🖥️",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "computer-words-4",
+    "title": "Computer Words - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "computer-words-5",
+    "title": "Computer Words - Part 5",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "computer-words-6",
+    "title": "Computer Words - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "computer-words-7",
+    "title": "Computer Words - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "computer-words-8",
+    "title": "Computer Words - Part 8",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "computer-words-9",
+    "title": "Computer Words - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "computer-words-10",
+    "title": "Computer Words - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "computer-words-11",
+    "title": "Computer Words - Part 11",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "computer-words-12",
+    "title": "Computer Words - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "computer-words-13",
+    "title": "Computer Words - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "computer-words-14",
+    "title": "Computer Words - Part 14",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "computer-words-15",
+    "title": "Computer Words - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "computer-words-16",
+    "title": "Computer Words - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "computer-words-17",
+    "title": "Computer Words - Part 17",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "computer-words-18",
+    "title": "Computer Words - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "computer-words-19",
+    "title": "Computer Words - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "computer-words-20",
+    "title": "Computer Words - Part 20",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "computer-words-21",
+    "title": "Computer Words - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "computer-words-22",
+    "title": "Computer Words - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "computer-words-23",
+    "title": "Computer Words - Part 23",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "computer-words-24",
+    "title": "Computer Words - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "computer-words-25",
+    "title": "Computer Words - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "computer-words-26",
+    "title": "Computer Words - Part 26",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "computer-words-27",
+    "title": "Computer Words - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "computer-words-28",
+    "title": "Computer Words - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "computer-words-29",
+    "title": "Computer Words - Part 29",
+    "bgGradient": [
+      "#455A64",
+      "#CFD8DC"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "computer-words-30",
+    "title": "Computer Words - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Screen",
+        "emoji": "🖥️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "C",
+        "word": "Code",
+        "emoji": "💻",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Email",
+        "emoji": "📧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Printer",
+        "emoji": "🖨️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "File",
+        "emoji": "📂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Folder",
+        "emoji": "📁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Internet",
+        "emoji": "🌐",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Browser",
+        "emoji": "🌐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Download",
+        "emoji": "⬇️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "U",
+        "word": "Upload",
+        "emoji": "⬆️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Click",
+        "emoji": "🖱️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Type",
+        "emoji": "⌨️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  }
+]

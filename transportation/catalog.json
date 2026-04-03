@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "transportation-1",
+    "title": "Transportation - Part 1",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "transportation-2",
+    "title": "Transportation - Part 2",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rickshaw",
+        "emoji": "🛺",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sailboat",
+        "emoji": "⛵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canoe",
+        "emoji": "🛶",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Scooter",
+        "emoji": "🛴",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboard",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wagon",
+        "emoji": "🚗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "J",
+        "word": "Jet",
+        "emoji": "✈️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "G",
+        "word": "Glider",
+        "emoji": "🪂",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "H",
+        "word": "Hot Air Balloon",
+        "emoji": "🎈",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "T",
+        "word": "Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "V",
+        "word": "Van",
+        "emoji": "🚐",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Engine",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚓",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚚",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "transportation-3",
+    "title": "Transportation - Part 3",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Limousine",
+        "emoji": "🚙",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Kayak",
+        "emoji": "🛶",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Segway",
+        "emoji": "🛴",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zeppelin",
+        "emoji": "🎈",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "U",
+        "word": "Unicycle",
+        "emoji": "🚲",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paraglider",
+        "emoji": "🪂",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hovercraft",
+        "emoji": "🚤",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Monorail",
+        "emoji": "🚝",
+        "bgColor": "#4527A0"
+      },
+      {
+        "letter": "S",
+        "word": "Speedboat",
+        "emoji": "🚤",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Trolley",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Go-Kart",
+        "emoji": "🏎️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dogsled",
+        "emoji": "🛷",
+        "bgColor": "#5D4037"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "transportation-4",
+    "title": "Transportation - Part 4",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "transportation-5",
+    "title": "Transportation - Part 5",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "transportation-6",
+    "title": "Transportation - Part 6",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "transportation-7",
+    "title": "Transportation - Part 7",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "transportation-8",
+    "title": "Transportation - Part 8",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "transportation-9",
+    "title": "Transportation - Part 9",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "transportation-10",
+    "title": "Transportation - Part 10",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "transportation-11",
+    "title": "Transportation - Part 11",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "transportation-12",
+    "title": "Transportation - Part 12",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "transportation-13",
+    "title": "Transportation - Part 13",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "transportation-14",
+    "title": "Transportation - Part 14",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "transportation-15",
+    "title": "Transportation - Part 15",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "transportation-16",
+    "title": "Transportation - Part 16",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "transportation-17",
+    "title": "Transportation - Part 17",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "transportation-18",
+    "title": "Transportation - Part 18",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "transportation-19",
+    "title": "Transportation - Part 19",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "transportation-20",
+    "title": "Transportation - Part 20",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "transportation-21",
+    "title": "Transportation - Part 21",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "transportation-22",
+    "title": "Transportation - Part 22",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "transportation-23",
+    "title": "Transportation - Part 23",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "transportation-24",
+    "title": "Transportation - Part 24",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "transportation-25",
+    "title": "Transportation - Part 25",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "transportation-26",
+    "title": "Transportation - Part 26",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "transportation-27",
+    "title": "Transportation - Part 27",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "transportation-28",
+    "title": "Transportation - Part 28",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "transportation-29",
+    "title": "Transportation - Part 29",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "transportation-30",
+    "title": "Transportation - Part 30",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Airplane",
+        "emoji": "✈️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Train",
+        "emoji": "🚂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bus",
+        "emoji": "🚌",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Car",
+        "emoji": "🚗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bicycle",
+        "emoji": "🚲",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Ship",
+        "emoji": "🚢",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rocket",
+        "emoji": "🚀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Submarine",
+        "emoji": "🚇",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Motorcycle",
+        "emoji": "🏍️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Taxi",
+        "emoji": "🚕",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tram",
+        "emoji": "🚃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Ferry",
+        "emoji": "⛴️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Cable Car",
+        "emoji": "🚡",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Metro",
+        "emoji": "🚇",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  }
+]

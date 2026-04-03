@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "art-supplies-1",
+    "title": "Art Supplies - Part 1",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "art-supplies-2",
+    "title": "Art Supplies - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "I",
+        "word": "Ink",
+        "emoji": "🖋️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Clay",
+        "emoji": "🏺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stencil",
+        "emoji": "📐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🖌️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Colored Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Drawing Pad",
+        "emoji": "📓",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "F",
+        "word": "Felt Tip",
+        "emoji": "🖊️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "G",
+        "word": "Gouache",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Highlighter",
+        "emoji": "🖊️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🎨",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Paper",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Paint",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "art-supplies-3",
+    "title": "Art Supplies - Part 3",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Turpentine",
+        "emoji": "🫙",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "V",
+        "word": "Varnish",
+        "emoji": "🫙",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Wire",
+        "emoji": "🔌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Blending Stump",
+        "emoji": "🖊️",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "C",
+        "word": "Compass",
+        "emoji": "📐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fixative",
+        "emoji": "🫙",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "G",
+        "word": "Gesso",
+        "emoji": "🎨",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "K",
+        "word": "Knife",
+        "emoji": "🔪",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "L",
+        "word": "Linseed Oil",
+        "emoji": "🫙",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Modeling Clay",
+        "emoji": "🏺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Newsprint",
+        "emoji": "📰",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "P",
+        "word": "Pigment",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quill",
+        "emoji": "🪶",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Resin",
+        "emoji": "🫙",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "art-supplies-4",
+    "title": "Art Supplies - Part 4",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "art-supplies-5",
+    "title": "Art Supplies - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "art-supplies-6",
+    "title": "Art Supplies - Part 6",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "art-supplies-7",
+    "title": "Art Supplies - Part 7",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "art-supplies-8",
+    "title": "Art Supplies - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "art-supplies-9",
+    "title": "Art Supplies - Part 9",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "art-supplies-10",
+    "title": "Art Supplies - Part 10",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "art-supplies-11",
+    "title": "Art Supplies - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "art-supplies-12",
+    "title": "Art Supplies - Part 12",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "art-supplies-13",
+    "title": "Art Supplies - Part 13",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "art-supplies-14",
+    "title": "Art Supplies - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "art-supplies-15",
+    "title": "Art Supplies - Part 15",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "art-supplies-16",
+    "title": "Art Supplies - Part 16",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "art-supplies-17",
+    "title": "Art Supplies - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "art-supplies-18",
+    "title": "Art Supplies - Part 18",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "art-supplies-19",
+    "title": "Art Supplies - Part 19",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "art-supplies-20",
+    "title": "Art Supplies - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "art-supplies-21",
+    "title": "Art Supplies - Part 21",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "art-supplies-22",
+    "title": "Art Supplies - Part 22",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "art-supplies-23",
+    "title": "Art Supplies - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "art-supplies-24",
+    "title": "Art Supplies - Part 24",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "art-supplies-25",
+    "title": "Art Supplies - Part 25",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "art-supplies-26",
+    "title": "Art Supplies - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "art-supplies-27",
+    "title": "Art Supplies - Part 27",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "art-supplies-28",
+    "title": "Art Supplies - Part 28",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "art-supplies-29",
+    "title": "Art Supplies - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "art-supplies-30",
+    "title": "Art Supplies - Part 30",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Paintbrush",
+        "emoji": "🖌️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Easel",
+        "emoji": "🎨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Palette",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crayon",
+        "emoji": "🖍️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marker",
+        "emoji": "🖊️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pencil",
+        "emoji": "✏️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eraser",
+        "emoji": "🧽",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Paint",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sketchbook",
+        "emoji": "📒",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Ruler",
+        "emoji": "📏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Glue",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Scissors",
+        "emoji": "✂️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tape",
+        "emoji": "📎",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Charcoal",
+        "emoji": "🖊️",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  }
+]

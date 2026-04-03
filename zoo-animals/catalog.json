@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "zoo-animals-1",
+    "title": "Zoo Animals - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "zoo-animals-2",
+    "title": "Zoo Animals - Part 2",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cheetah",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Peacock",
+        "emoji": "🦚",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "W",
+        "word": "Wolf",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Leopard",
+        "emoji": "🐆",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#4E342E"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "O",
+        "word": "Otter",
+        "emoji": "🦦",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Seal",
+        "emoji": "🦭",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Eagle",
+        "emoji": "🦅",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#37474F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "zoo-animals-3",
+    "title": "Zoo Animals - Part 3",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "Y",
+        "word": "Yak",
+        "emoji": "🐂",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Deer",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fox",
+        "emoji": "🦊",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "L",
+        "word": "Llama",
+        "emoji": "🦙",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "B",
+        "word": "Bison",
+        "emoji": "🐂",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Meerkat",
+        "emoji": "🐿️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tapir",
+        "emoji": "🐽",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "H",
+        "word": "Hyena",
+        "emoji": "🐺",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "P",
+        "word": "Porcupine",
+        "emoji": "🦔",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Red Panda",
+        "emoji": "🐼",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antelope",
+        "emoji": "🦌",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "zoo-animals-4",
+    "title": "Zoo Animals - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "zoo-animals-5",
+    "title": "Zoo Animals - Part 5",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "zoo-animals-6",
+    "title": "Zoo Animals - Part 6",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "zoo-animals-7",
+    "title": "Zoo Animals - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "zoo-animals-8",
+    "title": "Zoo Animals - Part 8",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "zoo-animals-9",
+    "title": "Zoo Animals - Part 9",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "zoo-animals-10",
+    "title": "Zoo Animals - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "zoo-animals-11",
+    "title": "Zoo Animals - Part 11",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "zoo-animals-12",
+    "title": "Zoo Animals - Part 12",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "zoo-animals-13",
+    "title": "Zoo Animals - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "zoo-animals-14",
+    "title": "Zoo Animals - Part 14",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "zoo-animals-15",
+    "title": "Zoo Animals - Part 15",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "zoo-animals-16",
+    "title": "Zoo Animals - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "zoo-animals-17",
+    "title": "Zoo Animals - Part 17",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "zoo-animals-18",
+    "title": "Zoo Animals - Part 18",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "zoo-animals-19",
+    "title": "Zoo Animals - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "zoo-animals-20",
+    "title": "Zoo Animals - Part 20",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "zoo-animals-21",
+    "title": "Zoo Animals - Part 21",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "zoo-animals-22",
+    "title": "Zoo Animals - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "zoo-animals-23",
+    "title": "Zoo Animals - Part 23",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "zoo-animals-24",
+    "title": "Zoo Animals - Part 24",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "zoo-animals-25",
+    "title": "Zoo Animals - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "zoo-animals-26",
+    "title": "Zoo Animals - Part 26",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "zoo-animals-27",
+    "title": "Zoo Animals - Part 27",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "zoo-animals-28",
+    "title": "Zoo Animals - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "zoo-animals-29",
+    "title": "Zoo Animals - Part 29",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "zoo-animals-30",
+    "title": "Zoo Animals - Part 30",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lion",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Giraffe",
+        "emoji": "🦒",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra",
+        "emoji": "🦓",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Panda",
+        "emoji": "🐼",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bear",
+        "emoji": "🐻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo",
+        "emoji": "🦘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Flamingo",
+        "emoji": "🦩",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Penguin",
+        "emoji": "🐧",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Ostrich",
+        "emoji": "🐦",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  }
+]

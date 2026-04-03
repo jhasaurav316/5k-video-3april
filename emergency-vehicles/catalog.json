@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "emergency-vehicles-1",
+    "title": "Emergency Vehicles - Part 1",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "emergency-vehicles-2",
+    "title": "Emergency Vehicles - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hazmat Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bomb Squad",
+        "emoji": "🚐",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "D",
+        "word": "Disaster Relief",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Water Tanker",
+        "emoji": "🚒",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Air Ambulance",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Crash Truck",
+        "emoji": "🚒",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Firehose",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gas Mask",
+        "emoji": "😷",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "I",
+        "word": "Incident Van",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "J",
+        "word": "Jaws of Life",
+        "emoji": "🔧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "K9 Unit",
+        "emoji": "🐕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "L",
+        "word": "Life Flight",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Megaphone",
+        "emoji": "📢",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Night Vision",
+        "emoji": "👓",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Oxygen Tank",
+        "emoji": "🫁",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "emergency-vehicles-3",
+    "title": "Emergency Vehicles - Part 3",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Rescue Chopper",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Siren",
+        "emoji": "🚨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Trauma Center",
+        "emoji": "🏥",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "U",
+        "word": "Utility Truck",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Volunteer Fire",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wildfire Truck",
+        "emoji": "🚒",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Badge",
+        "emoji": "🪪",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cruiser",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "D",
+        "word": "Defibrillator",
+        "emoji": "💓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Engine",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "First Aid",
+        "emoji": "🩹",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Radio",
+        "emoji": "📻",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stretcher",
+        "emoji": "🛏️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walkie Talkie",
+        "emoji": "📻",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Flashlight",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "emergency-vehicles-4",
+    "title": "Emergency Vehicles - Part 4",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "emergency-vehicles-5",
+    "title": "Emergency Vehicles - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "emergency-vehicles-6",
+    "title": "Emergency Vehicles - Part 6",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "emergency-vehicles-7",
+    "title": "Emergency Vehicles - Part 7",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "emergency-vehicles-8",
+    "title": "Emergency Vehicles - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "emergency-vehicles-9",
+    "title": "Emergency Vehicles - Part 9",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "emergency-vehicles-10",
+    "title": "Emergency Vehicles - Part 10",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "emergency-vehicles-11",
+    "title": "Emergency Vehicles - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "emergency-vehicles-12",
+    "title": "Emergency Vehicles - Part 12",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "emergency-vehicles-13",
+    "title": "Emergency Vehicles - Part 13",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "emergency-vehicles-14",
+    "title": "Emergency Vehicles - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "emergency-vehicles-15",
+    "title": "Emergency Vehicles - Part 15",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "emergency-vehicles-16",
+    "title": "Emergency Vehicles - Part 16",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "emergency-vehicles-17",
+    "title": "Emergency Vehicles - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "emergency-vehicles-18",
+    "title": "Emergency Vehicles - Part 18",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "emergency-vehicles-19",
+    "title": "Emergency Vehicles - Part 19",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "emergency-vehicles-20",
+    "title": "Emergency Vehicles - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "emergency-vehicles-21",
+    "title": "Emergency Vehicles - Part 21",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "emergency-vehicles-22",
+    "title": "Emergency Vehicles - Part 22",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "emergency-vehicles-23",
+    "title": "Emergency Vehicles - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "emergency-vehicles-24",
+    "title": "Emergency Vehicles - Part 24",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "emergency-vehicles-25",
+    "title": "Emergency Vehicles - Part 25",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "emergency-vehicles-26",
+    "title": "Emergency Vehicles - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "emergency-vehicles-27",
+    "title": "Emergency Vehicles - Part 27",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "emergency-vehicles-28",
+    "title": "Emergency Vehicles - Part 28",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "emergency-vehicles-29",
+    "title": "Emergency Vehicles - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "emergency-vehicles-30",
+    "title": "Emergency Vehicles - Part 30",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Fire Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Police Car",
+        "emoji": "🚔",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Helicopter",
+        "emoji": "🚁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "SWAT Van",
+        "emoji": "🚐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Coast Guard",
+        "emoji": "🚤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Rescue Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tow Truck",
+        "emoji": "🚛",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Search Light",
+        "emoji": "🔦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Ladder Truck",
+        "emoji": "🚒",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Paramedic Van",
+        "emoji": "🚑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mobile Command",
+        "emoji": "🚐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fire Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "EMT Bike",
+        "emoji": "🏍️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Plow",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  }
+]

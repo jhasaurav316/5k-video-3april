@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "reading-words-1",
+    "title": "Reading Words - Part 1",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "reading-words-2",
+    "title": "Reading Words - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Plot",
+        "emoji": "📖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Setting",
+        "emoji": "🌍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Character",
+        "emoji": "🧑",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rhyme",
+        "emoji": "🎵",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Poem",
+        "emoji": "📝",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Fable",
+        "emoji": "📖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Myth",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "L",
+        "word": "Legend",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tale",
+        "emoji": "📖",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Alphabet",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "V",
+        "word": "Vowel",
+        "emoji": "🔤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Consonant",
+        "emoji": "🔤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Syllable",
+        "emoji": "🔤",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "reading-words-3",
+    "title": "Reading Words - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Write",
+        "emoji": "✍️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spell",
+        "emoji": "🔤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Noun",
+        "emoji": "📝",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "V",
+        "word": "Verb",
+        "emoji": "📝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Adjective",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Dictionary",
+        "emoji": "📖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "E",
+        "word": "Encyclopedia",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Genre",
+        "emoji": "📖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Library",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bookmark",
+        "emoji": "📌",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quote",
+        "emoji": "💬",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Magazine",
+        "emoji": "📰",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Comic",
+        "emoji": "💬",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Diary",
+        "emoji": "📓",
+        "bgColor": "#FF80AB"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "reading-words-4",
+    "title": "Reading Words - Part 4",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "reading-words-5",
+    "title": "Reading Words - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "reading-words-6",
+    "title": "Reading Words - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "reading-words-7",
+    "title": "Reading Words - Part 7",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "reading-words-8",
+    "title": "Reading Words - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "reading-words-9",
+    "title": "Reading Words - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "reading-words-10",
+    "title": "Reading Words - Part 10",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "reading-words-11",
+    "title": "Reading Words - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "reading-words-12",
+    "title": "Reading Words - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "reading-words-13",
+    "title": "Reading Words - Part 13",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "reading-words-14",
+    "title": "Reading Words - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "reading-words-15",
+    "title": "Reading Words - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "reading-words-16",
+    "title": "Reading Words - Part 16",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "reading-words-17",
+    "title": "Reading Words - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "reading-words-18",
+    "title": "Reading Words - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "reading-words-19",
+    "title": "Reading Words - Part 19",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "reading-words-20",
+    "title": "Reading Words - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "reading-words-21",
+    "title": "Reading Words - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "reading-words-22",
+    "title": "Reading Words - Part 22",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "reading-words-23",
+    "title": "Reading Words - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "reading-words-24",
+    "title": "Reading Words - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "reading-words-25",
+    "title": "Reading Words - Part 25",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "reading-words-26",
+    "title": "Reading Words - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "reading-words-27",
+    "title": "Reading Words - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "reading-words-28",
+    "title": "Reading Words - Part 28",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "reading-words-29",
+    "title": "Reading Words - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "reading-words-30",
+    "title": "Reading Words - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Word",
+        "emoji": "📝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sentence",
+        "emoji": "📝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Letter",
+        "emoji": "🔤",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragraph",
+        "emoji": "📝",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Illustrator",
+        "emoji": "🖌️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cover",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hero",
+        "emoji": "🦸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "V",
+        "word": "Villain",
+        "emoji": "🦹",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  }
+]

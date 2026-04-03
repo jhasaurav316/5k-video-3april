@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "laundry-items-1",
+    "title": "Laundry Items - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "laundry-items-2",
+    "title": "Laundry Items - Part 2",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lint Roller",
+        "emoji": "🧹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Soak",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rinse",
+        "emoji": "💧",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "W",
+        "word": "Wrinkle",
+        "emoji": "👕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Clean",
+        "emoji": "✨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dry Clean",
+        "emoji": "👔",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Fabric",
+        "emoji": "🧵",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "G",
+        "word": "Garment Bag",
+        "emoji": "👗",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hamper",
+        "emoji": "🧺",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mesh Bag",
+        "emoji": "🧺",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Steamer",
+        "emoji": "♨️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tumble Dry",
+        "emoji": "🌀",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wash",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Air Dry",
+        "emoji": "💨",
+        "bgColor": "#81C784"
+      },
+      {
+        "letter": "C",
+        "word": "Collar",
+        "emoji": "👔",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "laundry-items-3",
+    "title": "Laundry Items - Part 3",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Drying Rack",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Press",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Spin Cycle",
+        "emoji": "🌀",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Temperature",
+        "emoji": "🌡️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Water Level",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Button",
+        "emoji": "🔘",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crease",
+        "emoji": "👖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Delicate",
+        "emoji": "🧵",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fluff",
+        "emoji": "🧸",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Normal Cycle",
+        "emoji": "🔄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Permanent Press",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Reload",
+        "emoji": "🔄",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Shrink",
+        "emoji": "👕",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thread",
+        "emoji": "🧵",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "Z",
+        "word": "Zipper",
+        "emoji": "🤐",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "laundry-items-4",
+    "title": "Laundry Items - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "laundry-items-5",
+    "title": "Laundry Items - Part 5",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "laundry-items-6",
+    "title": "Laundry Items - Part 6",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "laundry-items-7",
+    "title": "Laundry Items - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "laundry-items-8",
+    "title": "Laundry Items - Part 8",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "laundry-items-9",
+    "title": "Laundry Items - Part 9",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "laundry-items-10",
+    "title": "Laundry Items - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "laundry-items-11",
+    "title": "Laundry Items - Part 11",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "laundry-items-12",
+    "title": "Laundry Items - Part 12",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "laundry-items-13",
+    "title": "Laundry Items - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "laundry-items-14",
+    "title": "Laundry Items - Part 14",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "laundry-items-15",
+    "title": "Laundry Items - Part 15",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "laundry-items-16",
+    "title": "Laundry Items - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "laundry-items-17",
+    "title": "Laundry Items - Part 17",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "laundry-items-18",
+    "title": "Laundry Items - Part 18",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "laundry-items-19",
+    "title": "Laundry Items - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "laundry-items-20",
+    "title": "Laundry Items - Part 20",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "laundry-items-21",
+    "title": "Laundry Items - Part 21",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "laundry-items-22",
+    "title": "Laundry Items - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "laundry-items-23",
+    "title": "Laundry Items - Part 23",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "laundry-items-24",
+    "title": "Laundry Items - Part 24",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "laundry-items-25",
+    "title": "Laundry Items - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "laundry-items-26",
+    "title": "Laundry Items - Part 26",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "laundry-items-27",
+    "title": "Laundry Items - Part 27",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "laundry-items-28",
+    "title": "Laundry Items - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "laundry-items-29",
+    "title": "Laundry Items - Part 29",
+    "bgGradient": [
+      "#F5F5F5",
+      "#FAFAFA"
+    ],
+    "accentColor": "#9E9E9E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "laundry-items-30",
+    "title": "Laundry Items - Part 30",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Washing Machine",
+        "emoji": "🧺",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Iron",
+        "emoji": "♨️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "B",
+        "word": "Basket",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dryer",
+        "emoji": "🌀",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Detergent",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Softener",
+        "emoji": "🧴",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "C",
+        "word": "Clothespin",
+        "emoji": "📌",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Laundry Line",
+        "emoji": "🧵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fold",
+        "emoji": "👕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sort",
+        "emoji": "👚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bleach",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Stain Remover",
+        "emoji": "🧴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Starch",
+        "emoji": "🧴",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ironing Board",
+        "emoji": "♨️",
+        "bgColor": "#BCAAA4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  }
+]

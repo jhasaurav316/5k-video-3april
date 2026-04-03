@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "farm-crops-1",
+    "title": "Farm Crops - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "farm-crops-2",
+    "title": "Farm Crops - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Peanut",
+        "emoji": "🥜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Alfalfa",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Hay",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "F",
+        "word": "Flax",
+        "emoji": "🌿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Canola",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rye",
+        "emoji": "🌾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Buckwheat",
+        "emoji": "🌾",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Sorghum",
+        "emoji": "🌾",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "Q",
+        "word": "Quinoa",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "T",
+        "word": "Tobacco",
+        "emoji": "🍃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cassava",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "Y",
+        "word": "Yam",
+        "emoji": "🍠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jute",
+        "emoji": "🌿",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Clover",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Grain",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "farm-crops-3",
+    "title": "Farm Crops - Part 3",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hemp",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil",
+        "emoji": "🫘",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "P",
+        "word": "Pea",
+        "emoji": "🫛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "A",
+        "word": "Asparagus",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Eggplant",
+        "emoji": "🍆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "Z",
+        "word": "Zucchini",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bean",
+        "emoji": "🫘",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "N",
+        "word": "Nut",
+        "emoji": "🌰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Date Palm",
+        "emoji": "🌴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Watermelon",
+        "emoji": "🍉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Indigo Plant",
+        "emoji": "🌿",
+        "bgColor": "#311B92"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "farm-crops-4",
+    "title": "Farm Crops - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "farm-crops-5",
+    "title": "Farm Crops - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "farm-crops-6",
+    "title": "Farm Crops - Part 6",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "farm-crops-7",
+    "title": "Farm Crops - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "farm-crops-8",
+    "title": "Farm Crops - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "farm-crops-9",
+    "title": "Farm Crops - Part 9",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "farm-crops-10",
+    "title": "Farm Crops - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "farm-crops-11",
+    "title": "Farm Crops - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "farm-crops-12",
+    "title": "Farm Crops - Part 12",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "farm-crops-13",
+    "title": "Farm Crops - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "farm-crops-14",
+    "title": "Farm Crops - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "farm-crops-15",
+    "title": "Farm Crops - Part 15",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "farm-crops-16",
+    "title": "Farm Crops - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "farm-crops-17",
+    "title": "Farm Crops - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "farm-crops-18",
+    "title": "Farm Crops - Part 18",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "farm-crops-19",
+    "title": "Farm Crops - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "farm-crops-20",
+    "title": "Farm Crops - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "farm-crops-21",
+    "title": "Farm Crops - Part 21",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "farm-crops-22",
+    "title": "Farm Crops - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "farm-crops-23",
+    "title": "Farm Crops - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "farm-crops-24",
+    "title": "Farm Crops - Part 24",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "farm-crops-25",
+    "title": "Farm Crops - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "farm-crops-26",
+    "title": "Farm Crops - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "farm-crops-27",
+    "title": "Farm Crops - Part 27",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "farm-crops-28",
+    "title": "Farm Crops - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "farm-crops-29",
+    "title": "Farm Crops - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "farm-crops-30",
+    "title": "Farm Crops - Part 30",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wheat",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Rice",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Soybean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sugarcane",
+        "emoji": "🎋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Barley",
+        "emoji": "🌾",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "O",
+        "word": "Oats",
+        "emoji": "🌾",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "M",
+        "word": "Millet",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sunflower",
+        "emoji": "🌻",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  }
+]

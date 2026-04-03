@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "pasta-1",
+    "title": "Pasta & Noodles - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "pasta-2",
+    "title": "Pasta & Noodles - Part 2",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "U",
+        "word": "Udon",
+        "emoji": "🍜",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Ramen",
+        "emoji": "🍜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Soba",
+        "emoji": "🍜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pho Noodles",
+        "emoji": "🍜",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "L",
+        "word": "Lo Mein",
+        "emoji": "🍜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chow Mein",
+        "emoji": "🍜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Noodles",
+        "emoji": "🍜",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Glass Noodles",
+        "emoji": "🍜",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Noodles",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Z",
+        "word": "Ziti",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "D",
+        "word": "Ditalini",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bucatini",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "A",
+        "word": "Angel Hair",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Couscous",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pappardelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "pasta-3",
+    "title": "Pasta & Noodles - Part 3",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Mostaccioli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Cavatappi",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Farfalle",
+        "emoji": "🦋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Shells Pasta",
+        "emoji": "🐚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Wonton Noodles",
+        "emoji": "🥟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Instant Noodles",
+        "emoji": "🍜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kluski",
+        "emoji": "🍜",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hokkien Noodles",
+        "emoji": "🍜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "J",
+        "word": "Japchae",
+        "emoji": "🍜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Y",
+        "word": "Yakisoba",
+        "emoji": "🍜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Somen",
+        "emoji": "🍜",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pad Thai",
+        "emoji": "🍜",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dan Dan Noodles",
+        "emoji": "🍜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tofu Noodles",
+        "emoji": "🍜",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "pasta-4",
+    "title": "Pasta & Noodles - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "pasta-5",
+    "title": "Pasta & Noodles - Part 5",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "pasta-6",
+    "title": "Pasta & Noodles - Part 6",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "pasta-7",
+    "title": "Pasta & Noodles - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "pasta-8",
+    "title": "Pasta & Noodles - Part 8",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "pasta-9",
+    "title": "Pasta & Noodles - Part 9",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "pasta-10",
+    "title": "Pasta & Noodles - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "pasta-11",
+    "title": "Pasta & Noodles - Part 11",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "pasta-12",
+    "title": "Pasta & Noodles - Part 12",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "pasta-13",
+    "title": "Pasta & Noodles - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "pasta-14",
+    "title": "Pasta & Noodles - Part 14",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "pasta-15",
+    "title": "Pasta & Noodles - Part 15",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "pasta-16",
+    "title": "Pasta & Noodles - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "pasta-17",
+    "title": "Pasta & Noodles - Part 17",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "pasta-18",
+    "title": "Pasta & Noodles - Part 18",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "pasta-19",
+    "title": "Pasta & Noodles - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "pasta-20",
+    "title": "Pasta & Noodles - Part 20",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "pasta-21",
+    "title": "Pasta & Noodles - Part 21",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "pasta-22",
+    "title": "Pasta & Noodles - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "pasta-23",
+    "title": "Pasta & Noodles - Part 23",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "pasta-24",
+    "title": "Pasta & Noodles - Part 24",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "pasta-25",
+    "title": "Pasta & Noodles - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "pasta-26",
+    "title": "Pasta & Noodles - Part 26",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "pasta-27",
+    "title": "Pasta & Noodles - Part 27",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "pasta-28",
+    "title": "Pasta & Noodles - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "pasta-29",
+    "title": "Pasta & Noodles - Part 29",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "pasta-30",
+    "title": "Pasta & Noodles - Part 30",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spaghetti",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Penne",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fusilli",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lasagna",
+        "emoji": "🍝",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Ravioli",
+        "emoji": "🥟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaroni",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tagliatelle",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gnocchi",
+        "emoji": "🍝",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Orzo",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rigatoni",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Fettuccine",
+        "emoji": "🍝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Linguine",
+        "emoji": "🍝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cannelloni",
+        "emoji": "🍝",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortellini",
+        "emoji": "🍝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Vermicelli",
+        "emoji": "🍝",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "plant-parts-1",
+    "title": "Plant Parts - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "plant-parts-2",
+    "title": "Plant Parts - Part 2",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Nectar",
+        "emoji": "🍯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cone",
+        "emoji": "🌲",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Sap",
+        "emoji": "💧",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rhizome",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tuber",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bulb",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "A",
+        "word": "Acorn",
+        "emoji": "🌰",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Canopy",
+        "emoji": "🌳",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Drupe",
+        "emoji": "🍑",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "E",
+        "word": "Embryo",
+        "emoji": "🌱",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "F",
+        "word": "Fiber",
+        "emoji": "🧶",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "G",
+        "word": "Germinate",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Husk",
+        "emoji": "🌽",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lobe",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Midrib",
+        "emoji": "🍃",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "plant-parts-3",
+    "title": "Plant Parts - Part 3",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Node",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "O",
+        "word": "Ovule",
+        "emoji": "🌸",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pistil",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stamen",
+        "emoji": "🌼",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Stigma",
+        "emoji": "🌸",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "T",
+        "word": "Taproot",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chlorophyll",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Phloem",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "X",
+        "word": "Xylem",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cotyledon",
+        "emoji": "🌱",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "S",
+        "word": "Sepal",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Anther",
+        "emoji": "🌼",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cell",
+        "emoji": "🔬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wood",
+        "emoji": "🪵",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "K",
+        "word": "Kernel",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "plant-parts-4",
+    "title": "Plant Parts - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "plant-parts-5",
+    "title": "Plant Parts - Part 5",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "plant-parts-6",
+    "title": "Plant Parts - Part 6",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "plant-parts-7",
+    "title": "Plant Parts - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "plant-parts-8",
+    "title": "Plant Parts - Part 8",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "plant-parts-9",
+    "title": "Plant Parts - Part 9",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "plant-parts-10",
+    "title": "Plant Parts - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "plant-parts-11",
+    "title": "Plant Parts - Part 11",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "plant-parts-12",
+    "title": "Plant Parts - Part 12",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "plant-parts-13",
+    "title": "Plant Parts - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "plant-parts-14",
+    "title": "Plant Parts - Part 14",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "plant-parts-15",
+    "title": "Plant Parts - Part 15",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "plant-parts-16",
+    "title": "Plant Parts - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "plant-parts-17",
+    "title": "Plant Parts - Part 17",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "plant-parts-18",
+    "title": "Plant Parts - Part 18",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "plant-parts-19",
+    "title": "Plant Parts - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "plant-parts-20",
+    "title": "Plant Parts - Part 20",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "plant-parts-21",
+    "title": "Plant Parts - Part 21",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "plant-parts-22",
+    "title": "Plant Parts - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "plant-parts-23",
+    "title": "Plant Parts - Part 23",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "plant-parts-24",
+    "title": "Plant Parts - Part 24",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "plant-parts-25",
+    "title": "Plant Parts - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "plant-parts-26",
+    "title": "Plant Parts - Part 26",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "plant-parts-27",
+    "title": "Plant Parts - Part 27",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "plant-parts-28",
+    "title": "Plant Parts - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "plant-parts-29",
+    "title": "Plant Parts - Part 29",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "plant-parts-30",
+    "title": "Plant Parts - Part 30",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Root",
+        "emoji": "🌱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Stem",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flower",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Seed",
+        "emoji": "🌱",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Petal",
+        "emoji": "🌺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🌳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trunk",
+        "emoji": "🌳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Branch",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bud",
+        "emoji": "🌷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Thorn",
+        "emoji": "🌹",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vine",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sprout",
+        "emoji": "🌱",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "P",
+        "word": "Pollen",
+        "emoji": "🟡",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  }
+]

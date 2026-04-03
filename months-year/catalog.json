@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "months-year-1",
+    "title": "Months of the Year - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "months-year-2",
+    "title": "Months of the Year - Part 2",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Autumn",
+        "emoji": "🍁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎉",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's",
+        "emoji": "💝",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🐣",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "I",
+        "word": "Independence Day",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Season",
+        "emoji": "🌍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Y",
+        "word": "Year",
+        "emoji": "📅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "L",
+        "word": "Leap Year",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Date",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Birthday",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anniversary",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "months-year-3",
+    "title": "Months of the Year - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Holiday",
+        "emoji": "🎉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Festival",
+        "emoji": "🎪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "G",
+        "word": "Graduation",
+        "emoji": "🎓",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Planting",
+        "emoji": "🌱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Harvest",
+        "emoji": "🌾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Snowflake",
+        "emoji": "❄️",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Rainy Season",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Solstice",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Equinox",
+        "emoji": "🌍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Weather",
+        "emoji": "🌤️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Monsoon",
+        "emoji": "🌊",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "T",
+        "word": "Tropical",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frost",
+        "emoji": "🥶",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "B",
+        "word": "Blizzard",
+        "emoji": "🌨️",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "H",
+        "word": "Heat Wave",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "months-year-4",
+    "title": "Months of the Year - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "months-year-5",
+    "title": "Months of the Year - Part 5",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "months-year-6",
+    "title": "Months of the Year - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "months-year-7",
+    "title": "Months of the Year - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "months-year-8",
+    "title": "Months of the Year - Part 8",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "months-year-9",
+    "title": "Months of the Year - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "months-year-10",
+    "title": "Months of the Year - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "months-year-11",
+    "title": "Months of the Year - Part 11",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "months-year-12",
+    "title": "Months of the Year - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "months-year-13",
+    "title": "Months of the Year - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "months-year-14",
+    "title": "Months of the Year - Part 14",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "months-year-15",
+    "title": "Months of the Year - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "months-year-16",
+    "title": "Months of the Year - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "months-year-17",
+    "title": "Months of the Year - Part 17",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "months-year-18",
+    "title": "Months of the Year - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "months-year-19",
+    "title": "Months of the Year - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "months-year-20",
+    "title": "Months of the Year - Part 20",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "months-year-21",
+    "title": "Months of the Year - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "months-year-22",
+    "title": "Months of the Year - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "months-year-23",
+    "title": "Months of the Year - Part 23",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "months-year-24",
+    "title": "Months of the Year - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "months-year-25",
+    "title": "Months of the Year - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "months-year-26",
+    "title": "Months of the Year - Part 26",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "months-year-27",
+    "title": "Months of the Year - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "months-year-28",
+    "title": "Months of the Year - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "months-year-29",
+    "title": "Months of the Year - Part 29",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "months-year-30",
+    "title": "Months of the Year - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "January",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "February",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "☘️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "April",
+        "emoji": "🌧️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "May",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "J",
+        "word": "June",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "July",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "August",
+        "emoji": "🌻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "September",
+        "emoji": "🍂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "October",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "November",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "December",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌷",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  }
+]

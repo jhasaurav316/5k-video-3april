@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "festivals-1",
+    "title": "World Festivals - Part 1",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "festivals-2",
+    "title": "World Festivals - Part 2",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hanukkah",
+        "emoji": "🕎",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Ramadan",
+        "emoji": "🌙",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Songkran",
+        "emoji": "💦",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Day of Dead",
+        "emoji": "💀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lantern Festival",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mid-Autumn",
+        "emoji": "🌕",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Cinco de Mayo",
+        "emoji": "🎊",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pongal",
+        "emoji": "🌾",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Navratri",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "O",
+        "word": "Onam",
+        "emoji": "🚣",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Ganesh Chaturthi",
+        "emoji": "🐘",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Baisakhi",
+        "emoji": "🌾",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tanabata",
+        "emoji": "🎋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry Blossom Fest",
+        "emoji": "🌸",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "K",
+        "word": "Kwanzaa",
+        "emoji": "🕯️",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "festivals-3",
+    "title": "World Festivals - Part 3",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "I",
+        "word": "Independence Day",
+        "emoji": "🎆",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Fireworks Night",
+        "emoji": "🎇",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Boat",
+        "emoji": "🐉",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Sukkot",
+        "emoji": "🏠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Raksha Bandhan",
+        "emoji": "🧵",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Makar Sankranti",
+        "emoji": "🪁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lohri",
+        "emoji": "🔥",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Purim",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Janmashtami",
+        "emoji": "🪈",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "U",
+        "word": "Ugadi",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Vesak",
+        "emoji": "🪷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "W",
+        "word": "Winter Solstice",
+        "emoji": "❄️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Summer Solstice",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "A",
+        "word": "Advent",
+        "emoji": "🕯️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Epiphany",
+        "emoji": "⭐",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "festivals-4",
+    "title": "World Festivals - Part 4",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "festivals-5",
+    "title": "World Festivals - Part 5",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "festivals-6",
+    "title": "World Festivals - Part 6",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "festivals-7",
+    "title": "World Festivals - Part 7",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "festivals-8",
+    "title": "World Festivals - Part 8",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "festivals-9",
+    "title": "World Festivals - Part 9",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "festivals-10",
+    "title": "World Festivals - Part 10",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "festivals-11",
+    "title": "World Festivals - Part 11",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "festivals-12",
+    "title": "World Festivals - Part 12",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "festivals-13",
+    "title": "World Festivals - Part 13",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "festivals-14",
+    "title": "World Festivals - Part 14",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "festivals-15",
+    "title": "World Festivals - Part 15",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "festivals-16",
+    "title": "World Festivals - Part 16",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "festivals-17",
+    "title": "World Festivals - Part 17",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "festivals-18",
+    "title": "World Festivals - Part 18",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "festivals-19",
+    "title": "World Festivals - Part 19",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "festivals-20",
+    "title": "World Festivals - Part 20",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "festivals-21",
+    "title": "World Festivals - Part 21",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "festivals-22",
+    "title": "World Festivals - Part 22",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "festivals-23",
+    "title": "World Festivals - Part 23",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "festivals-24",
+    "title": "World Festivals - Part 24",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "festivals-25",
+    "title": "World Festivals - Part 25",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "festivals-26",
+    "title": "World Festivals - Part 26",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "festivals-27",
+    "title": "World Festivals - Part 27",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "festivals-28",
+    "title": "World Festivals - Part 28",
+    "bgGradient": [
+      "#FF5722",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "festivals-29",
+    "title": "World Festivals - Part 29",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "festivals-30",
+    "title": "World Festivals - Part 30",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Diwali",
+        "emoji": "🪔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Christmas",
+        "emoji": "🎄",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Easter",
+        "emoji": "🥚",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Holi",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Eid",
+        "emoji": "🌙",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Thanksgiving",
+        "emoji": "🦃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lunar New Year",
+        "emoji": "🏮",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnival",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Oktoberfest",
+        "emoji": "🍺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "St. Patrick's Day",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Valentine's Day",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "New Year",
+        "emoji": "🎆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Halloween",
+        "emoji": "🎃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mardi Gras",
+        "emoji": "🎭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Bastille Day",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  }
+]

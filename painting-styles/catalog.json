@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "painting-styles-1",
+    "title": "Painting Styles - Part 1",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "painting-styles-2",
+    "title": "Painting Styles - Part 2",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Expressionism",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Minimalism",
+        "emoji": "🎨",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "G",
+        "word": "Gouache",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fresco",
+        "emoji": "🏛️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "T",
+        "word": "Tempera",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Digital Art",
+        "emoji": "💻",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Collage",
+        "emoji": "✂️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mosaic",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spray Art",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Batik",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Calligraphy",
+        "emoji": "✒️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dot Painting",
+        "emoji": "🎨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Encaustic",
+        "emoji": "🎨",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "F",
+        "word": "Finger Paint",
+        "emoji": "🖐️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "G",
+        "word": "Graffiti",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "painting-styles-3",
+    "title": "Painting Styles - Part 3",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Henna",
+        "emoji": "🎨",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "I",
+        "word": "Icon",
+        "emoji": "🖼️",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "K",
+        "word": "Kinetic Art",
+        "emoji": "🎨",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Mixed Media",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Naive Art",
+        "emoji": "🖼️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pointillism",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Rococo",
+        "emoji": "🎨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stipple",
+        "emoji": "✒️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Trompe L'oeil",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vignette",
+        "emoji": "🖼️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Art",
+        "emoji": "☯️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Baroque",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "F",
+        "word": "Folk Art",
+        "emoji": "🖼️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Gothic",
+        "emoji": "🏰",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "W",
+        "word": "Woodcut",
+        "emoji": "🪵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "painting-styles-4",
+    "title": "Painting Styles - Part 4",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "painting-styles-5",
+    "title": "Painting Styles - Part 5",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "painting-styles-6",
+    "title": "Painting Styles - Part 6",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "painting-styles-7",
+    "title": "Painting Styles - Part 7",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "painting-styles-8",
+    "title": "Painting Styles - Part 8",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "painting-styles-9",
+    "title": "Painting Styles - Part 9",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "painting-styles-10",
+    "title": "Painting Styles - Part 10",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "painting-styles-11",
+    "title": "Painting Styles - Part 11",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "painting-styles-12",
+    "title": "Painting Styles - Part 12",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "painting-styles-13",
+    "title": "Painting Styles - Part 13",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "painting-styles-14",
+    "title": "Painting Styles - Part 14",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "painting-styles-15",
+    "title": "Painting Styles - Part 15",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "painting-styles-16",
+    "title": "Painting Styles - Part 16",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "painting-styles-17",
+    "title": "Painting Styles - Part 17",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "painting-styles-18",
+    "title": "Painting Styles - Part 18",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "painting-styles-19",
+    "title": "Painting Styles - Part 19",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "painting-styles-20",
+    "title": "Painting Styles - Part 20",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "painting-styles-21",
+    "title": "Painting Styles - Part 21",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "painting-styles-22",
+    "title": "Painting Styles - Part 22",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "painting-styles-23",
+    "title": "Painting Styles - Part 23",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "painting-styles-24",
+    "title": "Painting Styles - Part 24",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "painting-styles-25",
+    "title": "Painting Styles - Part 25",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "painting-styles-26",
+    "title": "Painting Styles - Part 26",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "painting-styles-27",
+    "title": "Painting Styles - Part 27",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "painting-styles-28",
+    "title": "Painting Styles - Part 28",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "painting-styles-29",
+    "title": "Painting Styles - Part 29",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "painting-styles-30",
+    "title": "Painting Styles - Part 30",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Watercolor",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Paint",
+        "emoji": "🖌️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Acrylic",
+        "emoji": "🎨",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pastel",
+        "emoji": "🖍️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Sketch",
+        "emoji": "✏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mural",
+        "emoji": "🖼️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Portrait",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Landscape",
+        "emoji": "🏞️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Abstract",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Still Life",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "I",
+        "word": "Impressionism",
+        "emoji": "🎨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cubism",
+        "emoji": "🎨",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Surrealism",
+        "emoji": "🎨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Realism",
+        "emoji": "🖼️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pop Art",
+        "emoji": "🎨",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  }
+]

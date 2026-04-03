@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "garden-creatures-1",
+    "title": "Garden Creatures - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "garden-creatures-2",
+    "title": "Garden Creatures - Part 2",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hummingbird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slug",
+        "emoji": "🐌",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "E",
+        "word": "Earthworm",
+        "emoji": "🪱",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Beetle",
+        "emoji": "🪲",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pill Bug",
+        "emoji": "🪲",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Centipede",
+        "emoji": "🐛",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Nuthatch",
+        "emoji": "🐦",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "D",
+        "word": "Dove",
+        "emoji": "🕊️",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "H",
+        "word": "Hedgehog",
+        "emoji": "🦔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#8BC34A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "garden-creatures-3",
+    "title": "Garden Creatures - Part 3",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "M",
+        "word": "Millipede",
+        "emoji": "🐛",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "Oriole",
+        "emoji": "🐦",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Roly Poly",
+        "emoji": "🪲",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sparrow",
+        "emoji": "🐦",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Thrush",
+        "emoji": "🐦",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "V",
+        "word": "Vole",
+        "emoji": "🐭",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "W",
+        "word": "Wren",
+        "emoji": "🐦",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chickadee",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Finch",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Blue Jay",
+        "emoji": "🐦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "S",
+        "word": "Squirrel",
+        "emoji": "🐿️",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "garden-creatures-4",
+    "title": "Garden Creatures - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "garden-creatures-5",
+    "title": "Garden Creatures - Part 5",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "garden-creatures-6",
+    "title": "Garden Creatures - Part 6",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "garden-creatures-7",
+    "title": "Garden Creatures - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "garden-creatures-8",
+    "title": "Garden Creatures - Part 8",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "garden-creatures-9",
+    "title": "Garden Creatures - Part 9",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "garden-creatures-10",
+    "title": "Garden Creatures - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "garden-creatures-11",
+    "title": "Garden Creatures - Part 11",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "garden-creatures-12",
+    "title": "Garden Creatures - Part 12",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "garden-creatures-13",
+    "title": "Garden Creatures - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "garden-creatures-14",
+    "title": "Garden Creatures - Part 14",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "garden-creatures-15",
+    "title": "Garden Creatures - Part 15",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "garden-creatures-16",
+    "title": "Garden Creatures - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "garden-creatures-17",
+    "title": "Garden Creatures - Part 17",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "garden-creatures-18",
+    "title": "Garden Creatures - Part 18",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "garden-creatures-19",
+    "title": "Garden Creatures - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "garden-creatures-20",
+    "title": "Garden Creatures - Part 20",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "garden-creatures-21",
+    "title": "Garden Creatures - Part 21",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "garden-creatures-22",
+    "title": "Garden Creatures - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "garden-creatures-23",
+    "title": "Garden Creatures - Part 23",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "garden-creatures-24",
+    "title": "Garden Creatures - Part 24",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "garden-creatures-25",
+    "title": "Garden Creatures - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "garden-creatures-26",
+    "title": "Garden Creatures - Part 26",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "garden-creatures-27",
+    "title": "Garden Creatures - Part 27",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "garden-creatures-28",
+    "title": "Garden Creatures - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "garden-creatures-29",
+    "title": "Garden Creatures - Part 29",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "garden-creatures-30",
+    "title": "Garden Creatures - Part 30",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bee",
+        "emoji": "🐝",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Worm",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snail",
+        "emoji": "🐌",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Caterpillar",
+        "emoji": "🐛",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🦗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🔥",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moth",
+        "emoji": "🦋",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "R",
+        "word": "Robin",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Toad",
+        "emoji": "🐸",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  }
+]

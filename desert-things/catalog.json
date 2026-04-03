@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "desert-things-1",
+    "title": "Desert Things - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "desert-things-2",
+    "title": "Desert Things - Part 2",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Palm Tree",
+        "emoji": "🌴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Road Runner",
+        "emoji": "🐦",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Sandstorm",
+        "emoji": "🌪️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "B",
+        "word": "Boulder",
+        "emoji": "🪨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "J",
+        "word": "Jackrabbit",
+        "emoji": "🐇",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Kangaroo Rat",
+        "emoji": "🐀",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "E",
+        "word": "Eagle",
+        "emoji": "🦅",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fox",
+        "emoji": "🦊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Nomad",
+        "emoji": "🧑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dry",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "S",
+        "word": "Sage Brush",
+        "emoji": "🌿",
+        "bgColor": "#78909C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "desert-things-3",
+    "title": "Desert Things - Part 3",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Beetle",
+        "emoji": "🪲",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cliff",
+        "emoji": "🏔️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Desert Rose",
+        "emoji": "🌹",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "G",
+        "word": "Gila Monster",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hawk",
+        "emoji": "🦅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mesa",
+        "emoji": "🏜️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Prickly Pear",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Q",
+        "word": "Quail",
+        "emoji": "🐦",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rock",
+        "emoji": "🪨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sidewinder",
+        "emoji": "🐍",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tarantula",
+        "emoji": "🕷️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "U",
+        "word": "Ultraviolet",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Wind",
+        "emoji": "💨",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "Y",
+        "word": "Yucca",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "desert-things-4",
+    "title": "Desert Things - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "desert-things-5",
+    "title": "Desert Things - Part 5",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "desert-things-6",
+    "title": "Desert Things - Part 6",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "desert-things-7",
+    "title": "Desert Things - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "desert-things-8",
+    "title": "Desert Things - Part 8",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "desert-things-9",
+    "title": "Desert Things - Part 9",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "desert-things-10",
+    "title": "Desert Things - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "desert-things-11",
+    "title": "Desert Things - Part 11",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "desert-things-12",
+    "title": "Desert Things - Part 12",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "desert-things-13",
+    "title": "Desert Things - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "desert-things-14",
+    "title": "Desert Things - Part 14",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "desert-things-15",
+    "title": "Desert Things - Part 15",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "desert-things-16",
+    "title": "Desert Things - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "desert-things-17",
+    "title": "Desert Things - Part 17",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "desert-things-18",
+    "title": "Desert Things - Part 18",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "desert-things-19",
+    "title": "Desert Things - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "desert-things-20",
+    "title": "Desert Things - Part 20",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "desert-things-21",
+    "title": "Desert Things - Part 21",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "desert-things-22",
+    "title": "Desert Things - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "desert-things-23",
+    "title": "Desert Things - Part 23",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "desert-things-24",
+    "title": "Desert Things - Part 24",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "desert-things-25",
+    "title": "Desert Things - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "desert-things-26",
+    "title": "Desert Things - Part 26",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "desert-things-27",
+    "title": "Desert Things - Part 27",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "desert-things-28",
+    "title": "Desert Things - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "desert-things-29",
+    "title": "Desert Things - Part 29",
+    "bgGradient": [
+      "#FFB74D",
+      "#FFE0B2"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "desert-things-30",
+    "title": "Desert Things - Part 30",
+    "bgGradient": [
+      "#8D6E63",
+      "#D7CCC8"
+    ],
+    "accentColor": "#4E342E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cactus",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sand",
+        "emoji": "🏜️",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "C",
+        "word": "Camel",
+        "emoji": "🐫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oasis",
+        "emoji": "🏝️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Scorpion",
+        "emoji": "🦂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dune",
+        "emoji": "🏜️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sun",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tumbleweed",
+        "emoji": "🌿",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mirage",
+        "emoji": "🌅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Canyon",
+        "emoji": "🏜️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Armadillo",
+        "emoji": "🐾",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Heat",
+        "emoji": "🔥",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  }
+]

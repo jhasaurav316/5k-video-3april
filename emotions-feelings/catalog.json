@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "emotions-feelings-1",
+    "title": "Emotions & Feelings - Part 1",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "emotions-feelings-2",
+    "title": "Emotions & Feelings - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Embarrassed",
+        "emoji": "😳",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Frustrated",
+        "emoji": "😤",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "G",
+        "word": "Grumpy",
+        "emoji": "😾",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hopeful",
+        "emoji": "🌈",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "I",
+        "word": "Inspired",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "K",
+        "word": "Kind",
+        "emoji": "🤗",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "L",
+        "word": "Loving",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Nervous",
+        "emoji": "😰",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "O",
+        "word": "Optimistic",
+        "emoji": "🌞",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Patient",
+        "emoji": "⏳",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Relaxed",
+        "emoji": "😊",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Thankful",
+        "emoji": "🙏",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Worried",
+        "emoji": "😟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Bored",
+        "emoji": "😐",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Curious",
+        "emoji": "🤔",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "emotions-feelings-3",
+    "title": "Emotions & Feelings - Part 3",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Delighted",
+        "emoji": "😄",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "E",
+        "word": "Eager",
+        "emoji": "🙂",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Fearful",
+        "emoji": "😱",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Giddy",
+        "emoji": "🤪",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hurt",
+        "emoji": "💔",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Impatient",
+        "emoji": "⏰",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Joyful",
+        "emoji": "😁",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Moody",
+        "emoji": "🌧️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Peaceful",
+        "emoji": "☮️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silly",
+        "emoji": "🤪",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "T",
+        "word": "Tired",
+        "emoji": "😴",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "U",
+        "word": "Upset",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Amused",
+        "emoji": "😄",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Content",
+        "emoji": "😊",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Friendly",
+        "emoji": "🤝",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "emotions-feelings-4",
+    "title": "Emotions & Feelings - Part 4",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "emotions-feelings-5",
+    "title": "Emotions & Feelings - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "emotions-feelings-6",
+    "title": "Emotions & Feelings - Part 6",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "emotions-feelings-7",
+    "title": "Emotions & Feelings - Part 7",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "emotions-feelings-8",
+    "title": "Emotions & Feelings - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "emotions-feelings-9",
+    "title": "Emotions & Feelings - Part 9",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "emotions-feelings-10",
+    "title": "Emotions & Feelings - Part 10",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "emotions-feelings-11",
+    "title": "Emotions & Feelings - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "emotions-feelings-12",
+    "title": "Emotions & Feelings - Part 12",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "emotions-feelings-13",
+    "title": "Emotions & Feelings - Part 13",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "emotions-feelings-14",
+    "title": "Emotions & Feelings - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "emotions-feelings-15",
+    "title": "Emotions & Feelings - Part 15",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "emotions-feelings-16",
+    "title": "Emotions & Feelings - Part 16",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "emotions-feelings-17",
+    "title": "Emotions & Feelings - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "emotions-feelings-18",
+    "title": "Emotions & Feelings - Part 18",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "emotions-feelings-19",
+    "title": "Emotions & Feelings - Part 19",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "emotions-feelings-20",
+    "title": "Emotions & Feelings - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "emotions-feelings-21",
+    "title": "Emotions & Feelings - Part 21",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "emotions-feelings-22",
+    "title": "Emotions & Feelings - Part 22",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "emotions-feelings-23",
+    "title": "Emotions & Feelings - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "emotions-feelings-24",
+    "title": "Emotions & Feelings - Part 24",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "emotions-feelings-25",
+    "title": "Emotions & Feelings - Part 25",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "emotions-feelings-26",
+    "title": "Emotions & Feelings - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "emotions-feelings-27",
+    "title": "Emotions & Feelings - Part 27",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "emotions-feelings-28",
+    "title": "Emotions & Feelings - Part 28",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "emotions-feelings-29",
+    "title": "Emotions & Feelings - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "emotions-feelings-30",
+    "title": "Emotions & Feelings - Part 30",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Happy",
+        "emoji": "😊",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Sad",
+        "emoji": "😢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Angry",
+        "emoji": "😠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Surprised",
+        "emoji": "😮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Scared",
+        "emoji": "😨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Excited",
+        "emoji": "🤩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Proud",
+        "emoji": "😎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Shy",
+        "emoji": "😳",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "J",
+        "word": "Jealous",
+        "emoji": "😒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Calm",
+        "emoji": "😌",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Grateful",
+        "emoji": "🙏",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lonely",
+        "emoji": "😔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Brave",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Confused",
+        "emoji": "😕",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Disappointed",
+        "emoji": "😞",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  }
+]

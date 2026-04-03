@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "berries-1",
+    "title": "Berries - Part 1",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "berries-2",
+    "title": "Berries - Part 2",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Marionberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "C",
+        "word": "Currant",
+        "emoji": "🍇",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dewberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Salmon Berry",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tayberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wineberry",
+        "emoji": "🍇",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Bearberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chokeberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hawthorn Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Noni Berry",
+        "emoji": "🍈",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "O",
+        "word": "Olallieberry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "P",
+        "word": "Partridge Berry",
+        "emoji": "🔴",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Serviceberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "T",
+        "word": "Thimbleberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Winterberry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "berries-3",
+    "title": "Berries - Part 3",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "Y",
+        "word": "Youngberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Barberry",
+        "emoji": "🔴",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Cloudberry",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fairyberry",
+        "emoji": "🫐",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "K",
+        "word": "Kiwiberry",
+        "emoji": "🥝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Rowan Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Snowberry",
+        "emoji": "⚪",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry Guava",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pokeberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sea Buckthorn",
+        "emoji": "🍊",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "V",
+        "word": "Viburnum Berry",
+        "emoji": "🔴",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Bilberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crowberry",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "M",
+        "word": "Maqui Berry",
+        "emoji": "🫐",
+        "bgColor": "#4A148C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "berries-4",
+    "title": "Berries - Part 4",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "berries-5",
+    "title": "Berries - Part 5",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "berries-6",
+    "title": "Berries - Part 6",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "berries-7",
+    "title": "Berries - Part 7",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "berries-8",
+    "title": "Berries - Part 8",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "berries-9",
+    "title": "Berries - Part 9",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "berries-10",
+    "title": "Berries - Part 10",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "berries-11",
+    "title": "Berries - Part 11",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "berries-12",
+    "title": "Berries - Part 12",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "berries-13",
+    "title": "Berries - Part 13",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "berries-14",
+    "title": "Berries - Part 14",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "berries-15",
+    "title": "Berries - Part 15",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "berries-16",
+    "title": "Berries - Part 16",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "berries-17",
+    "title": "Berries - Part 17",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "berries-18",
+    "title": "Berries - Part 18",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "berries-19",
+    "title": "Berries - Part 19",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "berries-20",
+    "title": "Berries - Part 20",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "berries-21",
+    "title": "Berries - Part 21",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "berries-22",
+    "title": "Berries - Part 22",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "berries-23",
+    "title": "Berries - Part 23",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "berries-24",
+    "title": "Berries - Part 24",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "berries-25",
+    "title": "Berries - Part 25",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "berries-26",
+    "title": "Berries - Part 26",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "berries-27",
+    "title": "Berries - Part 27",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "berries-28",
+    "title": "Berries - Part 28",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "berries-29",
+    "title": "Berries - Part 29",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "berries-30",
+    "title": "Berries - Part 30",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Strawberry",
+        "emoji": "🍓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blueberry",
+        "emoji": "🫐",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Raspberry",
+        "emoji": "🫐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blackberry",
+        "emoji": "🫐",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Cranberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "G",
+        "word": "Gooseberry",
+        "emoji": "🍈",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Boysenberry",
+        "emoji": "🫐",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "E",
+        "word": "Elderberry",
+        "emoji": "🍇",
+        "bgColor": "#4A148C"
+      },
+      {
+        "letter": "H",
+        "word": "Huckleberry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "L",
+        "word": "Loganberry",
+        "emoji": "🫐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mulberry",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Acai Berry",
+        "emoji": "🫐",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "G",
+        "word": "Goji Berry",
+        "emoji": "🔴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Juniper Berry",
+        "emoji": "🫐",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "L",
+        "word": "Lingonberry",
+        "emoji": "🍒",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  }
+]

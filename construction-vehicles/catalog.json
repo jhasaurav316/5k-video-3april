@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "construction-vehicles-1",
+    "title": "Construction Vehicles - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "construction-vehicles-2",
+    "title": "Construction Vehicles - Part 2",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Digger",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hauler",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "J",
+        "word": "Jackhammer",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mini Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Paver",
+        "emoji": "🚜",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "S",
+        "word": "Steam Roller",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Trencher",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Wrecking Ball",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "A",
+        "word": "Asphalt Truck",
+        "emoji": "🚛",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Boom Lift",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Concrete Pump",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Drill Rig",
+        "emoji": "🏗️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Flatbed Truck",
+        "emoji": "🚛",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Generator",
+        "emoji": "⚙️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Hat",
+        "emoji": "⛑️",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "construction-vehicles-3",
+    "title": "Construction Vehicles - Part 3",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Knuckle Boom",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Level",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "N",
+        "word": "Nail Gun",
+        "emoji": "🔫",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "Outrigger",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pneumatic Drill",
+        "emoji": "🔨",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Surveyor",
+        "emoji": "📐",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tractor",
+        "emoji": "🚜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Vibrator",
+        "emoji": "〰️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelbarrow",
+        "emoji": "🛒",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Cherry Picker",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scraper",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bobcat",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Crawler",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Dozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "construction-vehicles-4",
+    "title": "Construction Vehicles - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "construction-vehicles-5",
+    "title": "Construction Vehicles - Part 5",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "construction-vehicles-6",
+    "title": "Construction Vehicles - Part 6",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "construction-vehicles-7",
+    "title": "Construction Vehicles - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "construction-vehicles-8",
+    "title": "Construction Vehicles - Part 8",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "construction-vehicles-9",
+    "title": "Construction Vehicles - Part 9",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "construction-vehicles-10",
+    "title": "Construction Vehicles - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "construction-vehicles-11",
+    "title": "Construction Vehicles - Part 11",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "construction-vehicles-12",
+    "title": "Construction Vehicles - Part 12",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "construction-vehicles-13",
+    "title": "Construction Vehicles - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "construction-vehicles-14",
+    "title": "Construction Vehicles - Part 14",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "construction-vehicles-15",
+    "title": "Construction Vehicles - Part 15",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "construction-vehicles-16",
+    "title": "Construction Vehicles - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "construction-vehicles-17",
+    "title": "Construction Vehicles - Part 17",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "construction-vehicles-18",
+    "title": "Construction Vehicles - Part 18",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "construction-vehicles-19",
+    "title": "Construction Vehicles - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "construction-vehicles-20",
+    "title": "Construction Vehicles - Part 20",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "construction-vehicles-21",
+    "title": "Construction Vehicles - Part 21",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "construction-vehicles-22",
+    "title": "Construction Vehicles - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "construction-vehicles-23",
+    "title": "Construction Vehicles - Part 23",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "construction-vehicles-24",
+    "title": "Construction Vehicles - Part 24",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "construction-vehicles-25",
+    "title": "Construction Vehicles - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "construction-vehicles-26",
+    "title": "Construction Vehicles - Part 26",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "construction-vehicles-27",
+    "title": "Construction Vehicles - Part 27",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "construction-vehicles-28",
+    "title": "Construction Vehicles - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "construction-vehicles-29",
+    "title": "Construction Vehicles - Part 29",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "construction-vehicles-30",
+    "title": "Construction Vehicles - Part 30",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Excavator",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bulldozer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Crane",
+        "emoji": "🏗️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Dump Truck",
+        "emoji": "🚛",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Loader",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Road Roller",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cement Mixer",
+        "emoji": "🚛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Backhoe",
+        "emoji": "🚜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Forklift",
+        "emoji": "🚜",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Scaffolding",
+        "emoji": "🏗️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "G",
+        "word": "Grader",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Pile Driver",
+        "emoji": "🏗️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Skid Steer",
+        "emoji": "🚜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Crane",
+        "emoji": "🏗️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Compactor",
+        "emoji": "🚜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  }
+]

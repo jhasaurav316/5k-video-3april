@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "shapes-1",
+    "title": "Shapes - Part 1",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "shapes-2",
+    "title": "Shapes - Part 2",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sphere",
+        "emoji": "🔵",
+        "bgColor": "#2196F3"
+      },
+      {
+        "letter": "C",
+        "word": "Cylinder",
+        "emoji": "🥫",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cone",
+        "emoji": "🍦",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pyramid",
+        "emoji": "🔺",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Spiral",
+        "emoji": "🌀",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "T",
+        "word": "Trapezoid",
+        "emoji": "🔶",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parallelogram",
+        "emoji": "▱",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Rhombus",
+        "emoji": "🔷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Semicircle",
+        "emoji": "🌗",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kite Shape",
+        "emoji": "🪁",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "Z",
+        "word": "Zigzag",
+        "emoji": "⚡",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "W",
+        "word": "Wave",
+        "emoji": "🌊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "D",
+        "word": "Dot",
+        "emoji": "⚫",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "L",
+        "word": "Line",
+        "emoji": "➖",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "shapes-3",
+    "title": "Shapes - Part 3",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Heptagon",
+        "emoji": "⬡",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Nonagon",
+        "emoji": "⬡",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Decagon",
+        "emoji": "⬡",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "E",
+        "word": "Ellipse",
+        "emoji": "⭕",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "P",
+        "word": "Prism",
+        "emoji": "🔺",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Torus",
+        "emoji": "🍩",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Arc",
+        "emoji": "🌈",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Chord",
+        "emoji": "🎵",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Radius",
+        "emoji": "📏",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sector",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Compass Rose",
+        "emoji": "🧭",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "I",
+        "word": "Infinity",
+        "emoji": "♾️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "F",
+        "word": "Four Leaf",
+        "emoji": "🍀",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Moon Shape",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bowtie",
+        "emoji": "🎀",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "shapes-4",
+    "title": "Shapes - Part 4",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "shapes-5",
+    "title": "Shapes - Part 5",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "shapes-6",
+    "title": "Shapes - Part 6",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "shapes-7",
+    "title": "Shapes - Part 7",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "shapes-8",
+    "title": "Shapes - Part 8",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "shapes-9",
+    "title": "Shapes - Part 9",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "shapes-10",
+    "title": "Shapes - Part 10",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "shapes-11",
+    "title": "Shapes - Part 11",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "shapes-12",
+    "title": "Shapes - Part 12",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "shapes-13",
+    "title": "Shapes - Part 13",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "shapes-14",
+    "title": "Shapes - Part 14",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "shapes-15",
+    "title": "Shapes - Part 15",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "shapes-16",
+    "title": "Shapes - Part 16",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "shapes-17",
+    "title": "Shapes - Part 17",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "shapes-18",
+    "title": "Shapes - Part 18",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "shapes-19",
+    "title": "Shapes - Part 19",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "shapes-20",
+    "title": "Shapes - Part 20",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "shapes-21",
+    "title": "Shapes - Part 21",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "shapes-22",
+    "title": "Shapes - Part 22",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "shapes-23",
+    "title": "Shapes - Part 23",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "shapes-24",
+    "title": "Shapes - Part 24",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "shapes-25",
+    "title": "Shapes - Part 25",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "shapes-26",
+    "title": "Shapes - Part 26",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "shapes-27",
+    "title": "Shapes - Part 27",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "shapes-28",
+    "title": "Shapes - Part 28",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "shapes-29",
+    "title": "Shapes - Part 29",
+    "bgGradient": [
+      "#2196F3",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "shapes-30",
+    "title": "Shapes - Part 30",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Circle",
+        "emoji": "⭕",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Square",
+        "emoji": "🟧",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "T",
+        "word": "Triangle",
+        "emoji": "🔺",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rectangle",
+        "emoji": "🟦",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Star",
+        "emoji": "⭐",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Heart",
+        "emoji": "❤️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "O",
+        "word": "Oval",
+        "emoji": "🥚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Pentagon",
+        "emoji": "⬠",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hexagon",
+        "emoji": "⬡",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "O",
+        "word": "Octagon",
+        "emoji": "🛑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Arrow",
+        "emoji": "➡️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Crescent",
+        "emoji": "🌙",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cross",
+        "emoji": "✝️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cube",
+        "emoji": "🧊",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  }
+]

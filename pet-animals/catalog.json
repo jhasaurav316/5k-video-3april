@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "pet-animals-1",
+    "title": "Pet Animals - Part 1",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "pet-animals-2",
+    "title": "Pet Animals - Part 2",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Ferret",
+        "emoji": "🦡",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lovebird",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Gerbil",
+        "emoji": "🐭",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "C",
+        "word": "Chinchilla",
+        "emoji": "🐭",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Pony",
+        "emoji": "🐴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hermit Crab",
+        "emoji": "🦀",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Axolotl",
+        "emoji": "🦎",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "M",
+        "word": "Mouse",
+        "emoji": "🐭",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "D",
+        "word": "Dove",
+        "emoji": "🕊️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Tarantula",
+        "emoji": "🕷️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockatiel",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Bearded Dragon",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "pet-animals-3",
+    "title": "Pet Animals - Part 3",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Parakeet",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Rat",
+        "emoji": "🐀",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Shrimp",
+        "emoji": "🦐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hedgehog",
+        "emoji": "🦔",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Sugar Glider",
+        "emoji": "🐿️",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pig",
+        "emoji": "🐷",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "D",
+        "word": "Donkey",
+        "emoji": "🫏",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Alpaca",
+        "emoji": "🦙",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Llama",
+        "emoji": "🦙",
+        "bgColor": "#A1887F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "pet-animals-4",
+    "title": "Pet Animals - Part 4",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "pet-animals-5",
+    "title": "Pet Animals - Part 5",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "pet-animals-6",
+    "title": "Pet Animals - Part 6",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "pet-animals-7",
+    "title": "Pet Animals - Part 7",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "pet-animals-8",
+    "title": "Pet Animals - Part 8",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "pet-animals-9",
+    "title": "Pet Animals - Part 9",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "pet-animals-10",
+    "title": "Pet Animals - Part 10",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "pet-animals-11",
+    "title": "Pet Animals - Part 11",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "pet-animals-12",
+    "title": "Pet Animals - Part 12",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "pet-animals-13",
+    "title": "Pet Animals - Part 13",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "pet-animals-14",
+    "title": "Pet Animals - Part 14",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "pet-animals-15",
+    "title": "Pet Animals - Part 15",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "pet-animals-16",
+    "title": "Pet Animals - Part 16",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "pet-animals-17",
+    "title": "Pet Animals - Part 17",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "pet-animals-18",
+    "title": "Pet Animals - Part 18",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "pet-animals-19",
+    "title": "Pet Animals - Part 19",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "pet-animals-20",
+    "title": "Pet Animals - Part 20",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "pet-animals-21",
+    "title": "Pet Animals - Part 21",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "pet-animals-22",
+    "title": "Pet Animals - Part 22",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "pet-animals-23",
+    "title": "Pet Animals - Part 23",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "pet-animals-24",
+    "title": "Pet Animals - Part 24",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "pet-animals-25",
+    "title": "Pet Animals - Part 25",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "pet-animals-26",
+    "title": "Pet Animals - Part 26",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "pet-animals-27",
+    "title": "Pet Animals - Part 27",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "pet-animals-28",
+    "title": "Pet Animals - Part 28",
+    "bgGradient": [
+      "#FF7043",
+      "#FFAB91"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "pet-animals-29",
+    "title": "Pet Animals - Part 29",
+    "bgGradient": [
+      "#AB47BC",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "pet-animals-30",
+    "title": "Pet Animals - Part 30",
+    "bgGradient": [
+      "#26C6DA",
+      "#B2EBF2"
+    ],
+    "accentColor": "#00838F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dog",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cat",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fish",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "H",
+        "word": "Hamster",
+        "emoji": "🐹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "R",
+        "word": "Rabbit",
+        "emoji": "🐇",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Guinea Pig",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bird",
+        "emoji": "🐦",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kitten",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Puppy",
+        "emoji": "🐶",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunny",
+        "emoji": "🐰",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "C",
+        "word": "Canary",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "vegetables-1",
+    "title": "Vegetables - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "vegetables-2",
+    "title": "Vegetables - Part 2",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "Z",
+        "word": "Zucchini",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Eggplant",
+        "emoji": "🍆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "A",
+        "word": "Asparagus",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "K",
+        "word": "Kale",
+        "emoji": "🥬",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Celery",
+        "emoji": "🌿",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "T",
+        "word": "Turnip",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "S",
+        "word": "Sweet Potato",
+        "emoji": "🍠",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Leek",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Pumpkin",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom",
+        "emoji": "🍄",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cauliflower",
+        "emoji": "🥦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Artichoke",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Brussels Sprout",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Green Bean",
+        "emoji": "🫘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Watercress",
+        "emoji": "🌿",
+        "bgColor": "#2E7D32"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "vegetables-3",
+    "title": "Vegetables - Part 3",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Parsnip",
+        "emoji": "🥕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rutabaga",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "F",
+        "word": "Fennel",
+        "emoji": "🌿",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "D",
+        "word": "Daikon",
+        "emoji": "🥕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Horseradish",
+        "emoji": "🌿",
+        "bgColor": "#CDDC39"
+      },
+      {
+        "letter": "J",
+        "word": "Jicama",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "O",
+        "word": "Okra",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Napa Cabbage",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yam",
+        "emoji": "🍠",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chard",
+        "emoji": "🥬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Endive",
+        "emoji": "🥬",
+        "bgColor": "#A5D6A7"
+      },
+      {
+        "letter": "B",
+        "word": "Bok Choy",
+        "emoji": "🥬",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Shallot",
+        "emoji": "🧅",
+        "bgColor": "#CE93D8"
+      },
+      {
+        "letter": "T",
+        "word": "Taro",
+        "emoji": "🥔",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "G",
+        "word": "Ginger",
+        "emoji": "🫚",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "vegetables-4",
+    "title": "Vegetables - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "vegetables-5",
+    "title": "Vegetables - Part 5",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "vegetables-6",
+    "title": "Vegetables - Part 6",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "vegetables-7",
+    "title": "Vegetables - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "vegetables-8",
+    "title": "Vegetables - Part 8",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "vegetables-9",
+    "title": "Vegetables - Part 9",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "vegetables-10",
+    "title": "Vegetables - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "vegetables-11",
+    "title": "Vegetables - Part 11",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "vegetables-12",
+    "title": "Vegetables - Part 12",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "vegetables-13",
+    "title": "Vegetables - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "vegetables-14",
+    "title": "Vegetables - Part 14",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "vegetables-15",
+    "title": "Vegetables - Part 15",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "vegetables-16",
+    "title": "Vegetables - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "vegetables-17",
+    "title": "Vegetables - Part 17",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "vegetables-18",
+    "title": "Vegetables - Part 18",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "vegetables-19",
+    "title": "Vegetables - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "vegetables-20",
+    "title": "Vegetables - Part 20",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "vegetables-21",
+    "title": "Vegetables - Part 21",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "vegetables-22",
+    "title": "Vegetables - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "vegetables-23",
+    "title": "Vegetables - Part 23",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "vegetables-24",
+    "title": "Vegetables - Part 24",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "vegetables-25",
+    "title": "Vegetables - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "vegetables-26",
+    "title": "Vegetables - Part 26",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "vegetables-27",
+    "title": "Vegetables - Part 27",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "vegetables-28",
+    "title": "Vegetables - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "vegetables-29",
+    "title": "Vegetables - Part 29",
+    "bgGradient": [
+      "#FF9800",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "vegetables-30",
+    "title": "Vegetables - Part 30",
+    "bgGradient": [
+      "#8BC34A",
+      "#DCEDC8"
+    ],
+    "accentColor": "#33691E",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrot",
+        "emoji": "🥕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Potato",
+        "emoji": "🥔",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tomato",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Corn",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "P",
+        "word": "Peas",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Spinach",
+        "emoji": "🥬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Onion",
+        "emoji": "🧅",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "G",
+        "word": "Garlic",
+        "emoji": "🧄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pepper",
+        "emoji": "🫑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cucumber",
+        "emoji": "🥒",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "L",
+        "word": "Lettuce",
+        "emoji": "🥬",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "B",
+        "word": "Beet",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      },
+      {
+        "letter": "R",
+        "word": "Radish",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  }
+]

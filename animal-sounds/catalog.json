@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "animal-sounds-1",
+    "title": "Animal Sounds - Part 1",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "animal-sounds-2",
+    "title": "Animal Sounds - Part 2",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Squeak",
+        "emoji": "🐭",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "C",
+        "word": "Caw",
+        "emoji": "🐦",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Croak",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tweet",
+        "emoji": "🐦",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Whinny",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "G",
+        "word": "Gobble",
+        "emoji": "🦃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Honk",
+        "emoji": "🪿",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Screech",
+        "emoji": "🦉",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "Z",
+        "word": "Zzz",
+        "emoji": "😴",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "C",
+        "word": "Coo",
+        "emoji": "🕊️",
+        "bgColor": "#BDBDBD"
+      },
+      {
+        "letter": "R",
+        "word": "Ribbit",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snap",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Warble",
+        "emoji": "🐦",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "Y",
+        "word": "Yap",
+        "emoji": "🐕",
+        "bgColor": "#A1887F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "animal-sounds-3",
+    "title": "Animal Sounds - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bleat",
+        "emoji": "🐐",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "C",
+        "word": "Chatter",
+        "emoji": "🐿️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🐦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flutter",
+        "emoji": "🦋",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "G",
+        "word": "Grunt",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hoot",
+        "emoji": "🦉",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Keen",
+        "emoji": "🦅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "L",
+        "word": "Low",
+        "emoji": "🐄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nicker",
+        "emoji": "🐴",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "P",
+        "word": "Peep",
+        "emoji": "🐤",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Rattle",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Snarl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Squawk",
+        "emoji": "🐦",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "T",
+        "word": "Trill",
+        "emoji": "🐦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Whine",
+        "emoji": "🐕",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "animal-sounds-4",
+    "title": "Animal Sounds - Part 4",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "animal-sounds-5",
+    "title": "Animal Sounds - Part 5",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "animal-sounds-6",
+    "title": "Animal Sounds - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "animal-sounds-7",
+    "title": "Animal Sounds - Part 7",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "animal-sounds-8",
+    "title": "Animal Sounds - Part 8",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "animal-sounds-9",
+    "title": "Animal Sounds - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "animal-sounds-10",
+    "title": "Animal Sounds - Part 10",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "animal-sounds-11",
+    "title": "Animal Sounds - Part 11",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "animal-sounds-12",
+    "title": "Animal Sounds - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "animal-sounds-13",
+    "title": "Animal Sounds - Part 13",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "animal-sounds-14",
+    "title": "Animal Sounds - Part 14",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "animal-sounds-15",
+    "title": "Animal Sounds - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "animal-sounds-16",
+    "title": "Animal Sounds - Part 16",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "animal-sounds-17",
+    "title": "Animal Sounds - Part 17",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "animal-sounds-18",
+    "title": "Animal Sounds - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "animal-sounds-19",
+    "title": "Animal Sounds - Part 19",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "animal-sounds-20",
+    "title": "Animal Sounds - Part 20",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "animal-sounds-21",
+    "title": "Animal Sounds - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "animal-sounds-22",
+    "title": "Animal Sounds - Part 22",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "animal-sounds-23",
+    "title": "Animal Sounds - Part 23",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "animal-sounds-24",
+    "title": "Animal Sounds - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "animal-sounds-25",
+    "title": "Animal Sounds - Part 25",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "animal-sounds-26",
+    "title": "Animal Sounds - Part 26",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "animal-sounds-27",
+    "title": "Animal Sounds - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "animal-sounds-28",
+    "title": "Animal Sounds - Part 28",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "animal-sounds-29",
+    "title": "Animal Sounds - Part 29",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "animal-sounds-30",
+    "title": "Animal Sounds - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bark",
+        "emoji": "🐕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Meow",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Moo",
+        "emoji": "🐄",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Roar",
+        "emoji": "🦁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chirp",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Q",
+        "word": "Quack",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Hiss",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Buzz",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Neigh",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Oink",
+        "emoji": "🐷",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "B",
+        "word": "Baa",
+        "emoji": "🐑",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cluck",
+        "emoji": "🐔",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Growl",
+        "emoji": "🐻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Howl",
+        "emoji": "🐺",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Purr",
+        "emoji": "🐱",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  }
+]

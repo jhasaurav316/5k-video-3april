@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "furniture-1",
+    "title": "Furniture - Part 1",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "furniture-2",
+    "title": "Furniture - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bookcase",
+        "emoji": "📚",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "S",
+        "word": "Stool",
+        "emoji": "🪑",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bench",
+        "emoji": "🪑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Couch",
+        "emoji": "🛋️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Rocking Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hammock",
+        "emoji": "🏖️",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "V",
+        "word": "Vase",
+        "emoji": "🏺",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧣",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fan",
+        "emoji": "🌀",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "TV Stand",
+        "emoji": "📺",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🛏️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Footrest",
+        "emoji": "🦶",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Chandelier",
+        "emoji": "💡",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "D",
+        "word": "Dressing Table",
+        "emoji": "🪞",
+        "bgColor": "#F48FB1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "furniture-3",
+    "title": "Furniture - Part 3",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Armchair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Bunk Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Cradle",
+        "emoji": "🛏️",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "D",
+        "word": "Dining Table",
+        "emoji": "🍽️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "E",
+        "word": "End Table",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Futon",
+        "emoji": "🛋️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Grandfather Clock",
+        "emoji": "🕰️",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "H",
+        "word": "Hutch",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "I",
+        "word": "Iron Board",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "K",
+        "word": "Kitchen Island",
+        "emoji": "🍳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Loveseat",
+        "emoji": "🛋️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mattress",
+        "emoji": "🛏️",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "P",
+        "word": "Picture Frame",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "Q",
+        "word": "Quilt",
+        "emoji": "🧵",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Recliner",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "furniture-4",
+    "title": "Furniture - Part 4",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "furniture-5",
+    "title": "Furniture - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "furniture-6",
+    "title": "Furniture - Part 6",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "furniture-7",
+    "title": "Furniture - Part 7",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "furniture-8",
+    "title": "Furniture - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "furniture-9",
+    "title": "Furniture - Part 9",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "furniture-10",
+    "title": "Furniture - Part 10",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "furniture-11",
+    "title": "Furniture - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "furniture-12",
+    "title": "Furniture - Part 12",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "furniture-13",
+    "title": "Furniture - Part 13",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "furniture-14",
+    "title": "Furniture - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "furniture-15",
+    "title": "Furniture - Part 15",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "furniture-16",
+    "title": "Furniture - Part 16",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "furniture-17",
+    "title": "Furniture - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "furniture-18",
+    "title": "Furniture - Part 18",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "furniture-19",
+    "title": "Furniture - Part 19",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "furniture-20",
+    "title": "Furniture - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "furniture-21",
+    "title": "Furniture - Part 21",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "furniture-22",
+    "title": "Furniture - Part 22",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "furniture-23",
+    "title": "Furniture - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "furniture-24",
+    "title": "Furniture - Part 24",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "furniture-25",
+    "title": "Furniture - Part 25",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "furniture-26",
+    "title": "Furniture - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "furniture-27",
+    "title": "Furniture - Part 27",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "furniture-28",
+    "title": "Furniture - Part 28",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "furniture-29",
+    "title": "Furniture - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "furniture-30",
+    "title": "Furniture - Part 30",
+    "bgGradient": [
+      "#00695C",
+      "#80CBC4"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Chair",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Table",
+        "emoji": "🪑",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Sofa",
+        "emoji": "🛋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕐",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🟫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🗄️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Cabinet",
+        "emoji": "🗄️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🛋️",
+        "bgColor": "#BF360C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  }
+]

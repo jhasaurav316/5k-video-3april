@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "library-words-1",
+    "title": "Library Words - Part 1",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "library-words-2",
+    "title": "Library Words - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Spine",
+        "emoji": "📖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Page",
+        "emoji": "📄",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Chapter",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Genre",
+        "emoji": "📖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "ISBN",
+        "emoji": "🔢",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "B",
+        "word": "Bookmark",
+        "emoji": "📌",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dewey Decimal",
+        "emoji": "🔢",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Encyclopedia",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hardcover",
+        "emoji": "📖",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "L",
+        "word": "Lending",
+        "emoji": "🤝",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Magazine",
+        "emoji": "📰",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "N",
+        "word": "Newsletter",
+        "emoji": "📰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Paperback",
+        "emoji": "📖",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "R",
+        "word": "Reference",
+        "emoji": "📚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Section",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "library-words-3",
+    "title": "Library Words - Part 3",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Website",
+        "emoji": "💻",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Atlas",
+        "emoji": "🗺️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Biography",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Comic Book",
+        "emoji": "💬",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "D",
+        "word": "Dictionary",
+        "emoji": "📖",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "F",
+        "word": "Fairy Tale",
+        "emoji": "🧚",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "H",
+        "word": "History Book",
+        "emoji": "📖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kids Section",
+        "emoji": "🧒",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mystery",
+        "emoji": "🔍",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Picture Book",
+        "emoji": "🖼️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Romance",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sci-Fi",
+        "emoji": "🚀",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Thesaurus",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Volume",
+        "emoji": "📚",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Wiki",
+        "emoji": "💻",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "library-words-4",
+    "title": "Library Words - Part 4",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "library-words-5",
+    "title": "Library Words - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "library-words-6",
+    "title": "Library Words - Part 6",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "library-words-7",
+    "title": "Library Words - Part 7",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "library-words-8",
+    "title": "Library Words - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "library-words-9",
+    "title": "Library Words - Part 9",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "library-words-10",
+    "title": "Library Words - Part 10",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "library-words-11",
+    "title": "Library Words - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "library-words-12",
+    "title": "Library Words - Part 12",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "library-words-13",
+    "title": "Library Words - Part 13",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "library-words-14",
+    "title": "Library Words - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "library-words-15",
+    "title": "Library Words - Part 15",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "library-words-16",
+    "title": "Library Words - Part 16",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "library-words-17",
+    "title": "Library Words - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "library-words-18",
+    "title": "Library Words - Part 18",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "library-words-19",
+    "title": "Library Words - Part 19",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "library-words-20",
+    "title": "Library Words - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "library-words-21",
+    "title": "Library Words - Part 21",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "library-words-22",
+    "title": "Library Words - Part 22",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "library-words-23",
+    "title": "Library Words - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "library-words-24",
+    "title": "Library Words - Part 24",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "library-words-25",
+    "title": "Library Words - Part 25",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "library-words-26",
+    "title": "Library Words - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "library-words-27",
+    "title": "Library Words - Part 27",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "library-words-28",
+    "title": "Library Words - Part 28",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "library-words-29",
+    "title": "Library Words - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "library-words-30",
+    "title": "Library Words - Part 30",
+    "bgGradient": [
+      "#9C27B0",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Book",
+        "emoji": "📖",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shelf",
+        "emoji": "📚",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Card",
+        "emoji": "📇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Story",
+        "emoji": "📚",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Librarian",
+        "emoji": "🧑",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Read",
+        "emoji": "📖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quiet",
+        "emoji": "🤫",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Catalog",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Due Date",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Return",
+        "emoji": "🔄",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Borrow",
+        "emoji": "📖",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Fiction",
+        "emoji": "📖",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Non-Fiction",
+        "emoji": "📖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Author",
+        "emoji": "✍️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Title",
+        "emoji": "📖",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  }
+]

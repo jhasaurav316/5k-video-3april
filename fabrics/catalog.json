@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "fabrics-1",
+    "title": "Fabrics & Textiles - Part 1",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "fabrics-2",
+    "title": "Fabrics & Textiles - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tweed",
+        "emoji": "🧥",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Corduroy",
+        "emoji": "👖",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "O",
+        "word": "Organza",
+        "emoji": "✨",
+        "bgColor": "#E1BEE7"
+      },
+      {
+        "letter": "S",
+        "word": "Suede",
+        "emoji": "🥾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Leather",
+        "emoji": "🧥",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "F",
+        "word": "Felt",
+        "emoji": "🎨",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Canvas",
+        "emoji": "🎨",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Burlap",
+        "emoji": "🟤",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gauze",
+        "emoji": "🩹",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rayon",
+        "emoji": "👗",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Muslin",
+        "emoji": "👕",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "T",
+        "word": "Taffeta",
+        "emoji": "✨",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "G",
+        "word": "Gingham",
+        "emoji": "🟥",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Plaid",
+        "emoji": "🟩",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Batik",
+        "emoji": "🎨",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "fabrics-3",
+    "title": "Fabrics & Textiles - Part 3",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Knit Fabric",
+        "emoji": "🧶",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Spandex",
+        "emoji": "🤸",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "C",
+        "word": "Chambray",
+        "emoji": "👕",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Damask",
+        "emoji": "🌸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "E",
+        "word": "Embroidery",
+        "emoji": "🪡",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Hemp Fabric",
+        "emoji": "🌿",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "I",
+        "word": "Ikat",
+        "emoji": "🎨",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "A",
+        "word": "Angora",
+        "emoji": "🐰",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mohair",
+        "emoji": "🐑",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zephyr Cloth",
+        "emoji": "💨",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "Y",
+        "word": "Yarn",
+        "emoji": "🧶",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Ultrasuede",
+        "emoji": "✨",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "X",
+        "word": "Xerophyte Fiber",
+        "emoji": "🌵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Q",
+        "word": "Quilted Fabric",
+        "emoji": "🛏️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Woven Fabric",
+        "emoji": "🪡",
+        "bgColor": "#8D6E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "fabrics-4",
+    "title": "Fabrics & Textiles - Part 4",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "fabrics-5",
+    "title": "Fabrics & Textiles - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "fabrics-6",
+    "title": "Fabrics & Textiles - Part 6",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "fabrics-7",
+    "title": "Fabrics & Textiles - Part 7",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "fabrics-8",
+    "title": "Fabrics & Textiles - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "fabrics-9",
+    "title": "Fabrics & Textiles - Part 9",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "fabrics-10",
+    "title": "Fabrics & Textiles - Part 10",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "fabrics-11",
+    "title": "Fabrics & Textiles - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "fabrics-12",
+    "title": "Fabrics & Textiles - Part 12",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "fabrics-13",
+    "title": "Fabrics & Textiles - Part 13",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "fabrics-14",
+    "title": "Fabrics & Textiles - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "fabrics-15",
+    "title": "Fabrics & Textiles - Part 15",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "fabrics-16",
+    "title": "Fabrics & Textiles - Part 16",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "fabrics-17",
+    "title": "Fabrics & Textiles - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "fabrics-18",
+    "title": "Fabrics & Textiles - Part 18",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "fabrics-19",
+    "title": "Fabrics & Textiles - Part 19",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "fabrics-20",
+    "title": "Fabrics & Textiles - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "fabrics-21",
+    "title": "Fabrics & Textiles - Part 21",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "fabrics-22",
+    "title": "Fabrics & Textiles - Part 22",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "fabrics-23",
+    "title": "Fabrics & Textiles - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "fabrics-24",
+    "title": "Fabrics & Textiles - Part 24",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "fabrics-25",
+    "title": "Fabrics & Textiles - Part 25",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "fabrics-26",
+    "title": "Fabrics & Textiles - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "fabrics-27",
+    "title": "Fabrics & Textiles - Part 27",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "fabrics-28",
+    "title": "Fabrics & Textiles - Part 28",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "fabrics-29",
+    "title": "Fabrics & Textiles - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "fabrics-30",
+    "title": "Fabrics & Textiles - Part 30",
+    "bgGradient": [
+      "#4527A0",
+      "#B39DDB"
+    ],
+    "accentColor": "#311B92",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cotton",
+        "emoji": "👕",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Silk",
+        "emoji": "🧣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "W",
+        "word": "Wool",
+        "emoji": "🧶",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Linen",
+        "emoji": "👔",
+        "bgColor": "#D7CCC8"
+      },
+      {
+        "letter": "D",
+        "word": "Denim",
+        "emoji": "👖",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Polyester",
+        "emoji": "👚",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "N",
+        "word": "Nylon",
+        "emoji": "🧦",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Velvet",
+        "emoji": "🎀",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "S",
+        "word": "Satin",
+        "emoji": "✨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cashmere",
+        "emoji": "🧣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tulle",
+        "emoji": "💃",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "L",
+        "word": "Lace",
+        "emoji": "🪡",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "F",
+        "word": "Flannel",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chiffon",
+        "emoji": "💨",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "J",
+        "word": "Jersey",
+        "emoji": "🏈",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "bath-time-1",
+    "title": "Bath Time - Part 1",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "bath-time-2",
+    "title": "Bath Time - Part 2",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shower",
+        "emoji": "🚿",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "F",
+        "word": "Faucet",
+        "emoji": "🚰",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "S",
+        "word": "Sink",
+        "emoji": "🚰",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "S",
+        "word": "Slippers",
+        "emoji": "🩴",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Robe",
+        "emoji": "🧥",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Conditioner",
+        "emoji": "🧴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Nail Clipper",
+        "emoji": "✂️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cotton Ball",
+        "emoji": "☁️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bath Bomb",
+        "emoji": "💣",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lavender",
+        "emoji": "💜",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Steam",
+        "emoji": "♨️",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Washcloth",
+        "emoji": "🧻",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Scale",
+        "emoji": "⚖️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Perfume",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "bath-time-3",
+    "title": "Bath Time - Part 3",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Deodorant",
+        "emoji": "🧴",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "F",
+        "word": "Floss",
+        "emoji": "🧵",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "M",
+        "word": "Mouthwash",
+        "emoji": "🧴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hand Soap",
+        "emoji": "🧼",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "R",
+        "word": "Razor",
+        "emoji": "🪒",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Sunscreen",
+        "emoji": "🧴",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Body Wash",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tissue",
+        "emoji": "🧻",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "Q",
+        "word": "Q-tip",
+        "emoji": "🪥",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Plunger",
+        "emoji": "🪠",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Scrub",
+        "emoji": "🧽",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "B",
+        "word": "Bath Mat",
+        "emoji": "🟫",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "H",
+        "word": "Hamper",
+        "emoji": "🧺",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Candle",
+        "emoji": "🕯️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Music",
+        "emoji": "🎵",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "bath-time-4",
+    "title": "Bath Time - Part 4",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "bath-time-5",
+    "title": "Bath Time - Part 5",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "bath-time-6",
+    "title": "Bath Time - Part 6",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "bath-time-7",
+    "title": "Bath Time - Part 7",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "bath-time-8",
+    "title": "Bath Time - Part 8",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "bath-time-9",
+    "title": "Bath Time - Part 9",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "bath-time-10",
+    "title": "Bath Time - Part 10",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "bath-time-11",
+    "title": "Bath Time - Part 11",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "bath-time-12",
+    "title": "Bath Time - Part 12",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "bath-time-13",
+    "title": "Bath Time - Part 13",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "bath-time-14",
+    "title": "Bath Time - Part 14",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "bath-time-15",
+    "title": "Bath Time - Part 15",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "bath-time-16",
+    "title": "Bath Time - Part 16",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "bath-time-17",
+    "title": "Bath Time - Part 17",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "bath-time-18",
+    "title": "Bath Time - Part 18",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "bath-time-19",
+    "title": "Bath Time - Part 19",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "bath-time-20",
+    "title": "Bath Time - Part 20",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "bath-time-21",
+    "title": "Bath Time - Part 21",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "bath-time-22",
+    "title": "Bath Time - Part 22",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "bath-time-23",
+    "title": "Bath Time - Part 23",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "bath-time-24",
+    "title": "Bath Time - Part 24",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "bath-time-25",
+    "title": "Bath Time - Part 25",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "bath-time-26",
+    "title": "Bath Time - Part 26",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "bath-time-27",
+    "title": "Bath Time - Part 27",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "bath-time-28",
+    "title": "Bath Time - Part 28",
+    "bgGradient": [
+      "#0288D1",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "bath-time-29",
+    "title": "Bath Time - Part 29",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "bath-time-30",
+    "title": "Bath Time - Part 30",
+    "bgGradient": [
+      "#FFB300",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bathtub",
+        "emoji": "🛁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Soap",
+        "emoji": "🧼",
+        "bgColor": "#F48FB1"
+      },
+      {
+        "letter": "S",
+        "word": "Shampoo",
+        "emoji": "🧴",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Towel",
+        "emoji": "🧻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Bubbles",
+        "emoji": "🫧",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "D",
+        "word": "Duck",
+        "emoji": "🦆",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "W",
+        "word": "Water",
+        "emoji": "💧",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Sponge",
+        "emoji": "🧽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Brush",
+        "emoji": "🪥",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Toothbrush",
+        "emoji": "🪥",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Toothpaste",
+        "emoji": "🧴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Comb",
+        "emoji": "🪮",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "H",
+        "word": "Hair Dryer",
+        "emoji": "💨",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "L",
+        "word": "Lotion",
+        "emoji": "🧴",
+        "bgColor": "#FFB74D"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  }
+]

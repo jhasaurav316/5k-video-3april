@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "reptiles-1",
+    "title": "Reptiles - Part 1",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "reptiles-2",
+    "title": "Reptiles - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "M",
+        "word": "Monitor",
+        "emoji": "🦎",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "N",
+        "word": "Newt",
+        "emoji": "🦎",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Anole",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Basilisk",
+        "emoji": "🦎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Lizard",
+        "emoji": "🦎",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Frilled Lizard",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "G",
+        "word": "Garter Snake",
+        "emoji": "🐍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Horned Toad",
+        "emoji": "🦎",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "K",
+        "word": "King Cobra",
+        "emoji": "🐍",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "L",
+        "word": "Leatherback",
+        "emoji": "🐢",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Mamba",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Nile Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "P",
+        "word": "Pit Viper",
+        "emoji": "🐍",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Red Slider",
+        "emoji": "🐢",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sea Turtle",
+        "emoji": "🐢",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "reptiles-3",
+    "title": "Reptiles - Part 3",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Taipan",
+        "emoji": "🐍",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Uromastyx",
+        "emoji": "🦎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "V",
+        "word": "Viper",
+        "emoji": "🐍",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Water Snake",
+        "emoji": "🐍",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eastern Box",
+        "emoji": "🐢",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "G",
+        "word": "Green Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hognose",
+        "emoji": "🐍",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "J",
+        "word": "Jackson's",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Sidewinder",
+        "emoji": "🐍",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Tuatara",
+        "emoji": "🦎",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Copperhead",
+        "emoji": "🐍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Softshell",
+        "emoji": "🐢",
+        "bgColor": "#A1887F"
+      },
+      {
+        "letter": "B",
+        "word": "Box Turtle",
+        "emoji": "🐢",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Diamondback",
+        "emoji": "🐍",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "reptiles-4",
+    "title": "Reptiles - Part 4",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "reptiles-5",
+    "title": "Reptiles - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "reptiles-6",
+    "title": "Reptiles - Part 6",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "reptiles-7",
+    "title": "Reptiles - Part 7",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "reptiles-8",
+    "title": "Reptiles - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "reptiles-9",
+    "title": "Reptiles - Part 9",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "reptiles-10",
+    "title": "Reptiles - Part 10",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "reptiles-11",
+    "title": "Reptiles - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "reptiles-12",
+    "title": "Reptiles - Part 12",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "reptiles-13",
+    "title": "Reptiles - Part 13",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "reptiles-14",
+    "title": "Reptiles - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "reptiles-15",
+    "title": "Reptiles - Part 15",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "reptiles-16",
+    "title": "Reptiles - Part 16",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "reptiles-17",
+    "title": "Reptiles - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "reptiles-18",
+    "title": "Reptiles - Part 18",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "reptiles-19",
+    "title": "Reptiles - Part 19",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "reptiles-20",
+    "title": "Reptiles - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "reptiles-21",
+    "title": "Reptiles - Part 21",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "reptiles-22",
+    "title": "Reptiles - Part 22",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "reptiles-23",
+    "title": "Reptiles - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "reptiles-24",
+    "title": "Reptiles - Part 24",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "reptiles-25",
+    "title": "Reptiles - Part 25",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "reptiles-26",
+    "title": "Reptiles - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "reptiles-27",
+    "title": "Reptiles - Part 27",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "reptiles-28",
+    "title": "Reptiles - Part 28",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "reptiles-29",
+    "title": "Reptiles - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "reptiles-30",
+    "title": "Reptiles - Part 30",
+    "bgGradient": [
+      "#795548",
+      "#D7CCC8"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lizard",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Snake",
+        "emoji": "🐍",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turtle",
+        "emoji": "🐢",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "A",
+        "word": "Alligator",
+        "emoji": "🐊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "K",
+        "word": "Komodo Dragon",
+        "emoji": "🦎",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Tortoise",
+        "emoji": "🐢",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Cobra",
+        "emoji": "🐍",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "R",
+        "word": "Rattlesnake",
+        "emoji": "🐍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Skink",
+        "emoji": "🦎",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  }
+]

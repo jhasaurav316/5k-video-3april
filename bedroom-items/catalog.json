@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "bedroom-items-1",
+    "title": "Bedroom Items - Part 1",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "bedroom-items-2",
+    "title": "Bedroom Items - Part 2",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Alarm Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sheet",
+        "emoji": "🛏️",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Comforter",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "D",
+        "word": "Duvet",
+        "emoji": "🛏️",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "M",
+        "word": "Mattress",
+        "emoji": "🛏️",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "P",
+        "word": "Poster",
+        "emoji": "🖼️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Slippers",
+        "emoji": "🥿",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wardrobe",
+        "emoji": "🚪",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Bed Frame",
+        "emoji": "🛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Canopy",
+        "emoji": "🛏️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Desk",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Fan",
+        "emoji": "🌬️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Globe",
+        "emoji": "🌍",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "J",
+        "word": "Jewelry Box",
+        "emoji": "💎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "K",
+        "word": "Knob",
+        "emoji": "🚪",
+        "bgColor": "#9E9E9E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "bedroom-items-3",
+    "title": "Bedroom Items - Part 3",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lullaby",
+        "emoji": "🎵",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "N",
+        "word": "Night Light",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "O",
+        "word": "Ottoman",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "Q",
+        "word": "Quilt",
+        "emoji": "🧶",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rocking Chair",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stool",
+        "emoji": "🪑",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "T",
+        "word": "Throw Pillow",
+        "emoji": "🛌",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "V",
+        "word": "Vanity",
+        "emoji": "🪞",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wall Art",
+        "emoji": "🖼️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bedside Lamp",
+        "emoji": "💡",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Chest",
+        "emoji": "📦",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Drawer",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "F",
+        "word": "Footboard",
+        "emoji": "🛏️",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "H",
+        "word": "Headboard",
+        "emoji": "🛏️",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Photo Frame",
+        "emoji": "🖼️",
+        "bgColor": "#FFB300"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "bedroom-items-4",
+    "title": "Bedroom Items - Part 4",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "bedroom-items-5",
+    "title": "Bedroom Items - Part 5",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "bedroom-items-6",
+    "title": "Bedroom Items - Part 6",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "bedroom-items-7",
+    "title": "Bedroom Items - Part 7",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "bedroom-items-8",
+    "title": "Bedroom Items - Part 8",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "bedroom-items-9",
+    "title": "Bedroom Items - Part 9",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "bedroom-items-10",
+    "title": "Bedroom Items - Part 10",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "bedroom-items-11",
+    "title": "Bedroom Items - Part 11",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "bedroom-items-12",
+    "title": "Bedroom Items - Part 12",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "bedroom-items-13",
+    "title": "Bedroom Items - Part 13",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "bedroom-items-14",
+    "title": "Bedroom Items - Part 14",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "bedroom-items-15",
+    "title": "Bedroom Items - Part 15",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "bedroom-items-16",
+    "title": "Bedroom Items - Part 16",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "bedroom-items-17",
+    "title": "Bedroom Items - Part 17",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "bedroom-items-18",
+    "title": "Bedroom Items - Part 18",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "bedroom-items-19",
+    "title": "Bedroom Items - Part 19",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "bedroom-items-20",
+    "title": "Bedroom Items - Part 20",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "bedroom-items-21",
+    "title": "Bedroom Items - Part 21",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "bedroom-items-22",
+    "title": "Bedroom Items - Part 22",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "bedroom-items-23",
+    "title": "Bedroom Items - Part 23",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "bedroom-items-24",
+    "title": "Bedroom Items - Part 24",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "bedroom-items-25",
+    "title": "Bedroom Items - Part 25",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "bedroom-items-26",
+    "title": "Bedroom Items - Part 26",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "bedroom-items-27",
+    "title": "Bedroom Items - Part 27",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "bedroom-items-28",
+    "title": "Bedroom Items - Part 28",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "bedroom-items-29",
+    "title": "Bedroom Items - Part 29",
+    "bgGradient": [
+      "#FF80AB",
+      "#FFD1E8"
+    ],
+    "accentColor": "#C51162",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "bedroom-items-30",
+    "title": "Bedroom Items - Part 30",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bed",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pillow",
+        "emoji": "🛌",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Blanket",
+        "emoji": "🧶",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Lamp",
+        "emoji": "💡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dresser",
+        "emoji": "🪑",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "Mirror",
+        "emoji": "🪞",
+        "bgColor": "#90CAF9"
+      },
+      {
+        "letter": "R",
+        "word": "Rug",
+        "emoji": "🧶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Closet",
+        "emoji": "🚪",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "N",
+        "word": "Nightstand",
+        "emoji": "🪑",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bookshelf",
+        "emoji": "📚",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "T",
+        "word": "Teddy Bear",
+        "emoji": "🧸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "W",
+        "word": "Window",
+        "emoji": "🪟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Curtain",
+        "emoji": "🪟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hanger",
+        "emoji": "👔",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  }
+]

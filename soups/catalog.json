@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "soups-1",
+    "title": "Soups - Part 1",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "soups-2",
+    "title": "Soups - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Wonton Soup",
+        "emoji": "🥟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "R",
+        "word": "Ramen",
+        "emoji": "🍜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pho",
+        "emoji": "🍜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bisque",
+        "emoji": "🦐",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Cream Soup",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "H",
+        "word": "Hot and Sour",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "E",
+        "word": "Egg Drop Soup",
+        "emoji": "🥚",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Miso Soup",
+        "emoji": "🥣",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stew",
+        "emoji": "🥘",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Chili",
+        "emoji": "🌶️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tortilla Soup",
+        "emoji": "🌮",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "F",
+        "word": "French Onion",
+        "emoji": "🧅",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "G",
+        "word": "Gumbo",
+        "emoji": "🥘",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Avgolemono",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "B",
+        "word": "Borscht",
+        "emoji": "🟣",
+        "bgColor": "#880E4F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "soups-3",
+    "title": "Soups - Part 3",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dumpling Soup",
+        "emoji": "🥟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "K",
+        "word": "Kimchi Soup",
+        "emoji": "🥬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lobster Bisque",
+        "emoji": "🦞",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Pumpkin Soup",
+        "emoji": "🎃",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Seafood Soup",
+        "emoji": "🐟",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey Soup",
+        "emoji": "🦃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Udon Soup",
+        "emoji": "🍜",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "W",
+        "word": "Wedding Soup",
+        "emoji": "🥣",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuppa",
+        "emoji": "🥣",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Ribollita",
+        "emoji": "🍞",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Consomme",
+        "emoji": "🥣",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harira",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jambalaya",
+        "emoji": "🥘",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sotanghon",
+        "emoji": "🍜",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "I",
+        "word": "Italian Wedding",
+        "emoji": "🥣",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "soups-4",
+    "title": "Soups - Part 4",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "soups-5",
+    "title": "Soups - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "soups-6",
+    "title": "Soups - Part 6",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "soups-7",
+    "title": "Soups - Part 7",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "soups-8",
+    "title": "Soups - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "soups-9",
+    "title": "Soups - Part 9",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "soups-10",
+    "title": "Soups - Part 10",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "soups-11",
+    "title": "Soups - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "soups-12",
+    "title": "Soups - Part 12",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "soups-13",
+    "title": "Soups - Part 13",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "soups-14",
+    "title": "Soups - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "soups-15",
+    "title": "Soups - Part 15",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "soups-16",
+    "title": "Soups - Part 16",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "soups-17",
+    "title": "Soups - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "soups-18",
+    "title": "Soups - Part 18",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "soups-19",
+    "title": "Soups - Part 19",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "soups-20",
+    "title": "Soups - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "soups-21",
+    "title": "Soups - Part 21",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "soups-22",
+    "title": "Soups - Part 22",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "soups-23",
+    "title": "Soups - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "soups-24",
+    "title": "Soups - Part 24",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "soups-25",
+    "title": "Soups - Part 25",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "soups-26",
+    "title": "Soups - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "soups-27",
+    "title": "Soups - Part 27",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "soups-28",
+    "title": "Soups - Part 28",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "soups-29",
+    "title": "Soups - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "soups-30",
+    "title": "Soups - Part 30",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tomato Soup",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chicken Soup",
+        "emoji": "🍗",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Noodle Soup",
+        "emoji": "🍜",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Minestrone",
+        "emoji": "🥣",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Clam Chowder",
+        "emoji": "🥣",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "B",
+        "word": "Broccoli Soup",
+        "emoji": "🥦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Potato Soup",
+        "emoji": "🥔",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "L",
+        "word": "Lentil Soup",
+        "emoji": "🥣",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "O",
+        "word": "Onion Soup",
+        "emoji": "🧅",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mushroom Soup",
+        "emoji": "🍄",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vegetable Soup",
+        "emoji": "🥕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Bean Soup",
+        "emoji": "🫘",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Corn Chowder",
+        "emoji": "🌽",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Split Pea Soup",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gazpacho",
+        "emoji": "🍅",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  }
+]

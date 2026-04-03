@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "languages-1",
+    "title": "World Languages - Part 1",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "languages-2",
+    "title": "World Languages - Part 2",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Polish",
+        "emoji": "🇵🇱",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Greek",
+        "emoji": "🇬🇷",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Thai",
+        "emoji": "🇹🇭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "V",
+        "word": "Vietnamese",
+        "emoji": "🇻🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Indonesian",
+        "emoji": "🇮🇩",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Swahili",
+        "emoji": "🇰🇪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Hebrew",
+        "emoji": "🇮🇱",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "U",
+        "word": "Urdu",
+        "emoji": "🇵🇰",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Bengali",
+        "emoji": "🇧🇩",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Tamil",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "M",
+        "word": "Malay",
+        "emoji": "🇲🇾",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "P",
+        "word": "Persian",
+        "emoji": "🇮🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Finnish",
+        "emoji": "🇫🇮",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "N",
+        "word": "Norwegian",
+        "emoji": "🇳🇴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Danish",
+        "emoji": "🇩🇰",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "languages-3",
+    "title": "World Languages - Part 3",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Czech",
+        "emoji": "🇨🇿",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "R",
+        "word": "Romanian",
+        "emoji": "🇷🇴",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hungarian",
+        "emoji": "🇭🇺",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "L",
+        "word": "Latin",
+        "emoji": "📜",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Sign Language",
+        "emoji": "🤟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Welsh",
+        "emoji": "🇬🇧",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Cantonese",
+        "emoji": "🇭🇰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zulu",
+        "emoji": "🇿🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Amharic",
+        "emoji": "🇪🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yoruba",
+        "emoji": "🇳🇬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Esperanto",
+        "emoji": "🌍",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mongolian",
+        "emoji": "🇲🇳",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "K",
+        "word": "Kazakh",
+        "emoji": "🇰🇿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Nepali",
+        "emoji": "🇳🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "O",
+        "word": "Odia",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "languages-4",
+    "title": "World Languages - Part 4",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "languages-5",
+    "title": "World Languages - Part 5",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "languages-6",
+    "title": "World Languages - Part 6",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "languages-7",
+    "title": "World Languages - Part 7",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "languages-8",
+    "title": "World Languages - Part 8",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "languages-9",
+    "title": "World Languages - Part 9",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "languages-10",
+    "title": "World Languages - Part 10",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "languages-11",
+    "title": "World Languages - Part 11",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "languages-12",
+    "title": "World Languages - Part 12",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "languages-13",
+    "title": "World Languages - Part 13",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "languages-14",
+    "title": "World Languages - Part 14",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "languages-15",
+    "title": "World Languages - Part 15",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "languages-16",
+    "title": "World Languages - Part 16",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "languages-17",
+    "title": "World Languages - Part 17",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "languages-18",
+    "title": "World Languages - Part 18",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "languages-19",
+    "title": "World Languages - Part 19",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "languages-20",
+    "title": "World Languages - Part 20",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "languages-21",
+    "title": "World Languages - Part 21",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "languages-22",
+    "title": "World Languages - Part 22",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "languages-23",
+    "title": "World Languages - Part 23",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "languages-24",
+    "title": "World Languages - Part 24",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "languages-25",
+    "title": "World Languages - Part 25",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "languages-26",
+    "title": "World Languages - Part 26",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "languages-27",
+    "title": "World Languages - Part 27",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "languages-28",
+    "title": "World Languages - Part 28",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "languages-29",
+    "title": "World Languages - Part 29",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "languages-30",
+    "title": "World Languages - Part 30",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "E",
+        "word": "English",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Spanish",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin",
+        "emoji": "🇨🇳",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "H",
+        "word": "Hindi",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Arabic",
+        "emoji": "🇸🇦",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "French",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Portuguese",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Russian",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Japanese",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "German",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "K",
+        "word": "Korean",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Italian",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Turkish",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch",
+        "emoji": "🇳🇱",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "S",
+        "word": "Swedish",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  }
+]

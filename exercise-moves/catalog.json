@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "exercise-moves-1",
+    "title": "Exercise Moves - Part 1",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "exercise-moves-2",
+    "title": "Exercise Moves - Part 2",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Crawl",
+        "emoji": "🐛",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "G",
+        "word": "Gallop",
+        "emoji": "🐴",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "M",
+        "word": "March",
+        "emoji": "🥁",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Spin",
+        "emoji": "🌀",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "R",
+        "word": "Roll",
+        "emoji": "🤸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Bend",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Flap",
+        "emoji": "🐦",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Tiptoe",
+        "emoji": "🦶",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "W",
+        "word": "Wiggle",
+        "emoji": "🪱",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cartwheel",
+        "emoji": "🤸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Leap",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Plank",
+        "emoji": "💪",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "J",
+        "word": "Jog",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Swim",
+        "emoji": "🏊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Y",
+        "word": "Yoga",
+        "emoji": "🧘",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "exercise-moves-3",
+    "title": "Exercise Moves - Part 3",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Burpee",
+        "emoji": "💪",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Crunch",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dip",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flutter Kick",
+        "emoji": "🦵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Handstand",
+        "emoji": "🤸",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "J",
+        "word": "Jumping Jack",
+        "emoji": "🏃",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "K",
+        "word": "Karate Kick",
+        "emoji": "🥋",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "N",
+        "word": "Ninja Move",
+        "emoji": "🥷",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "P",
+        "word": "Pedal",
+        "emoji": "🚴",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Reach",
+        "emoji": "🙆",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Side Step",
+        "emoji": "🏃",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "T",
+        "word": "Touch Toes",
+        "emoji": "🦶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Wall Sit",
+        "emoji": "🏋️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "Z",
+        "word": "Zigzag Run",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Arm Circle",
+        "emoji": "💪",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "exercise-moves-4",
+    "title": "Exercise Moves - Part 4",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "exercise-moves-5",
+    "title": "Exercise Moves - Part 5",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "exercise-moves-6",
+    "title": "Exercise Moves - Part 6",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "exercise-moves-7",
+    "title": "Exercise Moves - Part 7",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "exercise-moves-8",
+    "title": "Exercise Moves - Part 8",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "exercise-moves-9",
+    "title": "Exercise Moves - Part 9",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "exercise-moves-10",
+    "title": "Exercise Moves - Part 10",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "exercise-moves-11",
+    "title": "Exercise Moves - Part 11",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "exercise-moves-12",
+    "title": "Exercise Moves - Part 12",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "exercise-moves-13",
+    "title": "Exercise Moves - Part 13",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "exercise-moves-14",
+    "title": "Exercise Moves - Part 14",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "exercise-moves-15",
+    "title": "Exercise Moves - Part 15",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "exercise-moves-16",
+    "title": "Exercise Moves - Part 16",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "exercise-moves-17",
+    "title": "Exercise Moves - Part 17",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "exercise-moves-18",
+    "title": "Exercise Moves - Part 18",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "exercise-moves-19",
+    "title": "Exercise Moves - Part 19",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "exercise-moves-20",
+    "title": "Exercise Moves - Part 20",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "exercise-moves-21",
+    "title": "Exercise Moves - Part 21",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "exercise-moves-22",
+    "title": "Exercise Moves - Part 22",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "exercise-moves-23",
+    "title": "Exercise Moves - Part 23",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "exercise-moves-24",
+    "title": "Exercise Moves - Part 24",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "exercise-moves-25",
+    "title": "Exercise Moves - Part 25",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "exercise-moves-26",
+    "title": "Exercise Moves - Part 26",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "exercise-moves-27",
+    "title": "Exercise Moves - Part 27",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "exercise-moves-28",
+    "title": "Exercise Moves - Part 28",
+    "bgGradient": [
+      "#FF5722",
+      "#FFCCBC"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "exercise-moves-29",
+    "title": "Exercise Moves - Part 29",
+    "bgGradient": [
+      "#4CAF50",
+      "#C8E6C9"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "exercise-moves-30",
+    "title": "Exercise Moves - Part 30",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "J",
+        "word": "Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "R",
+        "word": "Run",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Stretch",
+        "emoji": "🧘",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Squat",
+        "emoji": "🏋️",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Push-Up",
+        "emoji": "💪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sit-Up",
+        "emoji": "🏋️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lunge",
+        "emoji": "🏃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hop",
+        "emoji": "🐸",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Skip",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Climb",
+        "emoji": "🧗",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "D",
+        "word": "Dance",
+        "emoji": "💃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kick",
+        "emoji": "🦵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Twist",
+        "emoji": "🔄",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Balance",
+        "emoji": "🧘",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "W",
+        "word": "Walk",
+        "emoji": "🚶",
+        "bgColor": "#4CAF50"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "tropical-fish-1",
+    "title": "Tropical Fish - Part 1",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "tropical-fish-2",
+    "title": "Tropical Fish - Part 2",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Goldfish",
+        "emoji": "🐠",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "O",
+        "word": "Oscar Fish",
+        "emoji": "🐟",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "C",
+        "word": "Cichlid",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Rainbowfish",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Butterflyfish",
+        "emoji": "🐟",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "T",
+        "word": "Triggerfish",
+        "emoji": "🐟",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "W",
+        "word": "Wrasse",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Damselfish",
+        "emoji": "🐟",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Goby Fish",
+        "emoji": "🐟",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "H",
+        "word": "Hawkfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jawfish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "K",
+        "word": "Koi Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "E",
+        "word": "Electric Eel",
+        "emoji": "⚡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "F",
+        "word": "Flounder",
+        "emoji": "🐟",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Starfish",
+        "emoji": "⭐",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "tropical-fish-3",
+    "title": "Tropical Fish - Part 3",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cardinal Tetra",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebrafish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Blenny Fish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Surgeonfish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Regal Tang",
+        "emoji": "🐟",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "A",
+        "word": "Arowana",
+        "emoji": "🐟",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Corydoras",
+        "emoji": "🐟",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "I",
+        "word": "Idol Fish",
+        "emoji": "🐟",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "U",
+        "word": "Unicorn Fish",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "N",
+        "word": "Napoleon Wrasse",
+        "emoji": "🐟",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Tang",
+        "emoji": "🐟",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "L",
+        "word": "Lyretail",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "F",
+        "word": "Foxface Fish",
+        "emoji": "🐟",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "V",
+        "word": "Violet Goby",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray Tetra",
+        "emoji": "🐟",
+        "bgColor": "#B0BEC5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "tropical-fish-4",
+    "title": "Tropical Fish - Part 4",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "tropical-fish-5",
+    "title": "Tropical Fish - Part 5",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "tropical-fish-6",
+    "title": "Tropical Fish - Part 6",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "tropical-fish-7",
+    "title": "Tropical Fish - Part 7",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "tropical-fish-8",
+    "title": "Tropical Fish - Part 8",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "tropical-fish-9",
+    "title": "Tropical Fish - Part 9",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "tropical-fish-10",
+    "title": "Tropical Fish - Part 10",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "tropical-fish-11",
+    "title": "Tropical Fish - Part 11",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "tropical-fish-12",
+    "title": "Tropical Fish - Part 12",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "tropical-fish-13",
+    "title": "Tropical Fish - Part 13",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "tropical-fish-14",
+    "title": "Tropical Fish - Part 14",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "tropical-fish-15",
+    "title": "Tropical Fish - Part 15",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "tropical-fish-16",
+    "title": "Tropical Fish - Part 16",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "tropical-fish-17",
+    "title": "Tropical Fish - Part 17",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "tropical-fish-18",
+    "title": "Tropical Fish - Part 18",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "tropical-fish-19",
+    "title": "Tropical Fish - Part 19",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "tropical-fish-20",
+    "title": "Tropical Fish - Part 20",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "tropical-fish-21",
+    "title": "Tropical Fish - Part 21",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "tropical-fish-22",
+    "title": "Tropical Fish - Part 22",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "tropical-fish-23",
+    "title": "Tropical Fish - Part 23",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "tropical-fish-24",
+    "title": "Tropical Fish - Part 24",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "tropical-fish-25",
+    "title": "Tropical Fish - Part 25",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "tropical-fish-26",
+    "title": "Tropical Fish - Part 26",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "tropical-fish-27",
+    "title": "Tropical Fish - Part 27",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "tropical-fish-28",
+    "title": "Tropical Fish - Part 28",
+    "bgGradient": [
+      "#00BCD4",
+      "#B2EBF2"
+    ],
+    "accentColor": "#006064",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "tropical-fish-29",
+    "title": "Tropical Fish - Part 29",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "tropical-fish-30",
+    "title": "Tropical Fish - Part 30",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clownfish",
+        "emoji": "🐠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Angelfish",
+        "emoji": "🐟",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Betta Fish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Guppy",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Neon Tetra",
+        "emoji": "🐟",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🐟",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Fish",
+        "emoji": "🐟",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Pufferfish",
+        "emoji": "🐡",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "S",
+        "word": "Seahorse",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Lionfish",
+        "emoji": "🐟",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mandarin Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrotfish",
+        "emoji": "🐟",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Swordtail",
+        "emoji": "🐟",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Molly Fish",
+        "emoji": "🐟",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "P",
+        "word": "Platy Fish",
+        "emoji": "🐟",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  }
+]

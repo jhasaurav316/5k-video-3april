@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "continents-1",
+    "title": "Continents & Countries - Part 1",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "continents-2",
+    "title": "Continents & Countries - Part 2",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "I",
+        "word": "Italy",
+        "emoji": "🇮🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Spain",
+        "emoji": "🇪🇸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "U",
+        "word": "UK",
+        "emoji": "🇬🇧",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "R",
+        "word": "Russia",
+        "emoji": "🇷🇺",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "M",
+        "word": "Mexico",
+        "emoji": "🇲🇽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "Egypt",
+        "emoji": "🇪🇬",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "K",
+        "word": "Kenya",
+        "emoji": "🇰🇪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Nigeria",
+        "emoji": "🇳🇬",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South Africa",
+        "emoji": "🇿🇦",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "A",
+        "word": "Argentina",
+        "emoji": "🇦🇷",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thailand",
+        "emoji": "🇹🇭",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "South Korea",
+        "emoji": "🇰🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Greece",
+        "emoji": "🇬🇷",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "T",
+        "word": "Turkey",
+        "emoji": "🇹🇷",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sweden",
+        "emoji": "🇸🇪",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "continents-3",
+    "title": "Continents & Countries - Part 3",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "N",
+        "word": "Norway",
+        "emoji": "🇳🇴",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Switzerland",
+        "emoji": "🇨🇭",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Portugal",
+        "emoji": "🇵🇹",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "New Zealand",
+        "emoji": "🇳🇿",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Iceland",
+        "emoji": "🇮🇸",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "D",
+        "word": "Denmark",
+        "emoji": "🇩🇰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Peru",
+        "emoji": "🇵🇪",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Colombia",
+        "emoji": "🇨🇴",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "I",
+        "word": "Ireland",
+        "emoji": "🇮🇪",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "V",
+        "word": "Vietnam",
+        "emoji": "🇻🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Philippines",
+        "emoji": "🇵🇭",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Morocco",
+        "emoji": "🇲🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chile",
+        "emoji": "🇨🇱",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Singapore",
+        "emoji": "🇸🇬",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Finland",
+        "emoji": "🇫🇮",
+        "bgColor": "#0D47A1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "continents-4",
+    "title": "Continents & Countries - Part 4",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "continents-5",
+    "title": "Continents & Countries - Part 5",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "continents-6",
+    "title": "Continents & Countries - Part 6",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "continents-7",
+    "title": "Continents & Countries - Part 7",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "continents-8",
+    "title": "Continents & Countries - Part 8",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "continents-9",
+    "title": "Continents & Countries - Part 9",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "continents-10",
+    "title": "Continents & Countries - Part 10",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "continents-11",
+    "title": "Continents & Countries - Part 11",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "continents-12",
+    "title": "Continents & Countries - Part 12",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "continents-13",
+    "title": "Continents & Countries - Part 13",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "continents-14",
+    "title": "Continents & Countries - Part 14",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "continents-15",
+    "title": "Continents & Countries - Part 15",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "continents-16",
+    "title": "Continents & Countries - Part 16",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "continents-17",
+    "title": "Continents & Countries - Part 17",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "continents-18",
+    "title": "Continents & Countries - Part 18",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "continents-19",
+    "title": "Continents & Countries - Part 19",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "continents-20",
+    "title": "Continents & Countries - Part 20",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "continents-21",
+    "title": "Continents & Countries - Part 21",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "continents-22",
+    "title": "Continents & Countries - Part 22",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "continents-23",
+    "title": "Continents & Countries - Part 23",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "continents-24",
+    "title": "Continents & Countries - Part 24",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "continents-25",
+    "title": "Continents & Countries - Part 25",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "continents-26",
+    "title": "Continents & Countries - Part 26",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "continents-27",
+    "title": "Continents & Countries - Part 27",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "continents-28",
+    "title": "Continents & Countries - Part 28",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "continents-29",
+    "title": "Continents & Countries - Part 29",
+    "bgGradient": [
+      "#1565C0",
+      "#90CAF9"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "continents-30",
+    "title": "Continents & Countries - Part 30",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Africa",
+        "emoji": "🌍",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Asia",
+        "emoji": "🌏",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "E",
+        "word": "Europe",
+        "emoji": "🌍",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "North America",
+        "emoji": "🌎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "South America",
+        "emoji": "🌎",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Australia",
+        "emoji": "🌏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "A",
+        "word": "Antarctica",
+        "emoji": "🧊",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "U",
+        "word": "USA",
+        "emoji": "🇺🇸",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "C",
+        "word": "Canada",
+        "emoji": "🇨🇦",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazil",
+        "emoji": "🇧🇷",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "I",
+        "word": "India",
+        "emoji": "🇮🇳",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "China",
+        "emoji": "🇨🇳",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Japan",
+        "emoji": "🇯🇵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "France",
+        "emoji": "🇫🇷",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Germany",
+        "emoji": "🇩🇪",
+        "bgColor": "#212121"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  }
+]

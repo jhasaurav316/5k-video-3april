@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "time-words-1",
+    "title": "Time Words - Part 1",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "time-words-2",
+    "title": "Time Words - Part 2",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dusk",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Today",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tomorrow",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Y",
+        "word": "Yesterday",
+        "emoji": "📅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Week",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Month",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Y",
+        "word": "Year",
+        "emoji": "📅",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "D",
+        "word": "Decade",
+        "emoji": "📅",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Century",
+        "emoji": "📅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Past",
+        "emoji": "⏪",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "P",
+        "word": "Present",
+        "emoji": "🎁",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Future",
+        "emoji": "🔮",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Tick",
+        "emoji": "⏰",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Tock",
+        "emoji": "⏰",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "A",
+        "word": "Alarm",
+        "emoji": "⏰",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "time-words-3",
+    "title": "Time Words - Part 3",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Calendar",
+        "emoji": "📅",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Pendulum",
+        "emoji": "🔔",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Stopwatch",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "T",
+        "word": "Timer",
+        "emoji": "⏲️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Hourglass",
+        "emoji": "⏳",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Schedule",
+        "emoji": "📋",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Era",
+        "emoji": "📅",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Season",
+        "emoji": "🍂",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "S",
+        "word": "Spring",
+        "emoji": "🌸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Summer",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "A",
+        "word": "Autumn",
+        "emoji": "🍁",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "W",
+        "word": "Winter",
+        "emoji": "❄️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Leap Year",
+        "emoji": "📅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "O",
+        "word": "O'Clock",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bedtime",
+        "emoji": "🛏️",
+        "bgColor": "#7B1FA2"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "time-words-4",
+    "title": "Time Words - Part 4",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "time-words-5",
+    "title": "Time Words - Part 5",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "time-words-6",
+    "title": "Time Words - Part 6",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "time-words-7",
+    "title": "Time Words - Part 7",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "time-words-8",
+    "title": "Time Words - Part 8",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "time-words-9",
+    "title": "Time Words - Part 9",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "time-words-10",
+    "title": "Time Words - Part 10",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "time-words-11",
+    "title": "Time Words - Part 11",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "time-words-12",
+    "title": "Time Words - Part 12",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "time-words-13",
+    "title": "Time Words - Part 13",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "time-words-14",
+    "title": "Time Words - Part 14",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "time-words-15",
+    "title": "Time Words - Part 15",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "time-words-16",
+    "title": "Time Words - Part 16",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "time-words-17",
+    "title": "Time Words - Part 17",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "time-words-18",
+    "title": "Time Words - Part 18",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "time-words-19",
+    "title": "Time Words - Part 19",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "time-words-20",
+    "title": "Time Words - Part 20",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "time-words-21",
+    "title": "Time Words - Part 21",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "time-words-22",
+    "title": "Time Words - Part 22",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "time-words-23",
+    "title": "Time Words - Part 23",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "time-words-24",
+    "title": "Time Words - Part 24",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "time-words-25",
+    "title": "Time Words - Part 25",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "time-words-26",
+    "title": "Time Words - Part 26",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "time-words-27",
+    "title": "Time Words - Part 27",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "time-words-28",
+    "title": "Time Words - Part 28",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "time-words-29",
+    "title": "Time Words - Part 29",
+    "bgGradient": [
+      "#FDD835",
+      "#FFF9C4"
+    ],
+    "accentColor": "#F9A825",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "time-words-30",
+    "title": "Time Words - Part 30",
+    "bgGradient": [
+      "#607D8B",
+      "#CFD8DC"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Clock",
+        "emoji": "🕰️",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "H",
+        "word": "Hour",
+        "emoji": "⏰",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Minute",
+        "emoji": "⏱️",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Second",
+        "emoji": "⏱️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "D",
+        "word": "Day",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "N",
+        "word": "Night",
+        "emoji": "🌙",
+        "bgColor": "#311B92"
+      },
+      {
+        "letter": "M",
+        "word": "Morning",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "A",
+        "word": "Afternoon",
+        "emoji": "☀️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "E",
+        "word": "Evening",
+        "emoji": "🌆",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "S",
+        "word": "Sunrise",
+        "emoji": "🌅",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sunset",
+        "emoji": "🌅",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Noon",
+        "emoji": "☀️",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Midnight",
+        "emoji": "🌑",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "D",
+        "word": "Dawn",
+        "emoji": "🌅",
+        "bgColor": "#FFAB91"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  }
+]

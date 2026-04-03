@@ -1,0 +1,502 @@
+{
+  "batchName": "5k-video-3april",
+  "date": "2026-04-03",
+  "totalVideos": 2970,
+  "categories": [
+    {
+      "category": "Butterflies & Moths",
+      "key": "butterflies",
+      "count": 30
+    },
+    {
+      "category": "Farm Animals",
+      "key": "farm-animals",
+      "count": 30
+    },
+    {
+      "category": "Sea Mammals",
+      "key": "sea-mammals",
+      "count": 30
+    },
+    {
+      "category": "Insects & Bugs",
+      "key": "insects-bugs",
+      "count": 30
+    },
+    {
+      "category": "Reptiles",
+      "key": "reptiles",
+      "count": 30
+    },
+    {
+      "category": "Forest Animals",
+      "key": "forest-animals",
+      "count": 30
+    },
+    {
+      "category": "Savanna Animals",
+      "key": "savanna-animals",
+      "count": 30
+    },
+    {
+      "category": "Pond Life",
+      "key": "pond-life",
+      "count": 30
+    },
+    {
+      "category": "Garden Creatures",
+      "key": "garden-creatures",
+      "count": 30
+    },
+    {
+      "category": "Nocturnal Animals",
+      "key": "nocturnal-animals",
+      "count": 30
+    },
+    {
+      "category": "Baby Animals",
+      "key": "baby-animals",
+      "count": 30
+    },
+    {
+      "category": "Animal Homes",
+      "key": "animal-homes",
+      "count": 30
+    },
+    {
+      "category": "Animal Sounds",
+      "key": "animal-sounds",
+      "count": 30
+    },
+    {
+      "category": "Endangered Species",
+      "key": "endangered-species",
+      "count": 30
+    },
+    {
+      "category": "Migrating Animals",
+      "key": "migrating-animals",
+      "count": 30
+    },
+    {
+      "category": "Fruits",
+      "key": "fruits",
+      "count": 30
+    },
+    {
+      "category": "Vegetables",
+      "key": "vegetables",
+      "count": 30
+    },
+    {
+      "category": "Dairy Foods",
+      "key": "dairy-foods",
+      "count": 30
+    },
+    {
+      "category": "Baked Goods",
+      "key": "baked-goods",
+      "count": 30
+    },
+    {
+      "category": "Salad Items",
+      "key": "salad-items",
+      "count": 30
+    },
+    {
+      "category": "Soups",
+      "key": "soups",
+      "count": 30
+    },
+    {
+      "category": "Sandwiches",
+      "key": "sandwiches",
+      "count": 30
+    },
+    {
+      "category": "Ice Cream Flavors",
+      "key": "ice-cream-flavors",
+      "count": 30
+    },
+    {
+      "category": "Nuts & Seeds",
+      "key": "nuts-seeds",
+      "count": 30
+    },
+    {
+      "category": "Grains & Cereals",
+      "key": "grains-cereals",
+      "count": 30
+    },
+    {
+      "category": "Herbs",
+      "key": "herbs",
+      "count": 30
+    },
+    {
+      "category": "Berries",
+      "key": "berries",
+      "count": 30
+    },
+    {
+      "category": "Body Parts",
+      "key": "body-parts",
+      "count": 30
+    },
+    {
+      "category": "Five Senses",
+      "key": "five-senses",
+      "count": 30
+    },
+    {
+      "category": "Emotions & Feelings",
+      "key": "emotions-feelings",
+      "count": 30
+    },
+    {
+      "category": "Healthy Habits",
+      "key": "healthy-habits",
+      "count": 30
+    },
+    {
+      "category": "Exercise Moves",
+      "key": "exercise-moves",
+      "count": 30
+    },
+    {
+      "category": "Dental Care",
+      "key": "dental-care",
+      "count": 30
+    },
+    {
+      "category": "Countries",
+      "key": "countries",
+      "count": 30
+    },
+    {
+      "category": "Famous Landmarks",
+      "key": "famous-landmarks",
+      "count": 30
+    },
+    {
+      "category": "Types of Houses",
+      "key": "types-of-houses",
+      "count": 30
+    },
+    {
+      "category": "City Places",
+      "key": "city-places",
+      "count": 30
+    },
+    {
+      "category": "Park Things",
+      "key": "park-things",
+      "count": 30
+    },
+    {
+      "category": "Farm Things",
+      "key": "farm-things",
+      "count": 30
+    },
+    {
+      "category": "Desert Things",
+      "key": "desert-things",
+      "count": 30
+    },
+    {
+      "category": "Island Things",
+      "key": "island-things",
+      "count": 30
+    },
+    {
+      "category": "Space Objects",
+      "key": "space-objects",
+      "count": 30
+    },
+    {
+      "category": "Rocks & Minerals",
+      "key": "rocks-minerals",
+      "count": 30
+    },
+    {
+      "category": "Simple Machines",
+      "key": "simple-machines",
+      "count": 30
+    },
+    {
+      "category": "States of Matter",
+      "key": "states-of-matter",
+      "count": 30
+    },
+    {
+      "category": "Energy Types",
+      "key": "energy-types",
+      "count": 30
+    },
+    {
+      "category": "Magnets",
+      "key": "magnets",
+      "count": 30
+    },
+    {
+      "category": "Plant Parts",
+      "key": "plant-parts",
+      "count": 30
+    },
+    {
+      "category": "Types of Trees",
+      "key": "types-of-trees",
+      "count": 30
+    },
+    {
+      "category": "Musical Instruments",
+      "key": "musical-instruments",
+      "count": 30
+    },
+    {
+      "category": "Art Supplies",
+      "key": "art-supplies",
+      "count": 30
+    },
+    {
+      "category": "Painting Styles",
+      "key": "painting-styles",
+      "count": 30
+    },
+    {
+      "category": "Craft Materials",
+      "key": "craft-materials",
+      "count": 30
+    },
+    {
+      "category": "Types of Music",
+      "key": "types-of-music",
+      "count": 30
+    },
+    {
+      "category": "Theater Words",
+      "key": "theater-words",
+      "count": 30
+    },
+    {
+      "category": "Pottery Words",
+      "key": "pottery-words",
+      "count": 30
+    },
+    {
+      "category": "Clothing Items",
+      "key": "clothing-items",
+      "count": 30
+    },
+    {
+      "category": "Types of Shoes",
+      "key": "shoes-types",
+      "count": 30
+    },
+    {
+      "category": "Hats & Caps",
+      "key": "hats-caps",
+      "count": 30
+    },
+    {
+      "category": "Jewelry",
+      "key": "jewelry",
+      "count": 30
+    },
+    {
+      "category": "Winter Clothing",
+      "key": "winter-clothing",
+      "count": 30
+    },
+    {
+      "category": "Types of Boats",
+      "key": "types-of-boats",
+      "count": 30
+    },
+    {
+      "category": "Types of Trains",
+      "key": "types-of-trains",
+      "count": 30
+    },
+    {
+      "category": "Flying Machines",
+      "key": "flying-machines",
+      "count": 30
+    },
+    {
+      "category": "Construction Vehicles",
+      "key": "construction-vehicles",
+      "count": 30
+    },
+    {
+      "category": "Emergency Vehicles",
+      "key": "emergency-vehicles",
+      "count": 30
+    },
+    {
+      "category": "Farm Vehicles",
+      "key": "farm-vehicles",
+      "count": 30
+    },
+    {
+      "category": "Bedroom Items",
+      "key": "bedroom-items",
+      "count": 30
+    },
+    {
+      "category": "Bathroom Items",
+      "key": "bathroom-items",
+      "count": 30
+    },
+    {
+      "category": "Living Room Items",
+      "key": "living-room",
+      "count": 30
+    },
+    {
+      "category": "Kitchen Tools",
+      "key": "kitchen-tools",
+      "count": 30
+    },
+    {
+      "category": "Office Supplies",
+      "key": "office-supplies",
+      "count": 30
+    },
+    {
+      "category": "Laundry Items",
+      "key": "laundry-items",
+      "count": 30
+    },
+    {
+      "category": "Backyard Items",
+      "key": "backyard-items",
+      "count": 30
+    },
+    {
+      "category": "Garage Things",
+      "key": "garage-things",
+      "count": 30
+    },
+    {
+      "category": "Community Helpers",
+      "key": "community-helpers",
+      "count": 30
+    },
+    {
+      "category": "Sports Careers",
+      "key": "sports-careers",
+      "count": 30
+    },
+    {
+      "category": "Science Careers",
+      "key": "science-careers",
+      "count": 30
+    },
+    {
+      "category": "Creative Jobs",
+      "key": "creative-jobs",
+      "count": 30
+    },
+    {
+      "category": "Spring Words",
+      "key": "spring-words",
+      "count": 30
+    },
+    {
+      "category": "Autumn Words",
+      "key": "autumn-words",
+      "count": 30
+    },
+    {
+      "category": "Time Words",
+      "key": "time-words",
+      "count": 30
+    },
+    {
+      "category": "Days of the Week",
+      "key": "days-of-week",
+      "count": 30
+    },
+    {
+      "category": "Months of the Year",
+      "key": "months-year",
+      "count": 30
+    },
+    {
+      "category": "Birthday Party",
+      "key": "birthday-party",
+      "count": 30
+    },
+    {
+      "category": "Thanksgiving",
+      "key": "thanksgiving",
+      "count": 30
+    },
+    {
+      "category": "Easter",
+      "key": "easter",
+      "count": 30
+    },
+    {
+      "category": "New Year",
+      "key": "new-year",
+      "count": 30
+    },
+    {
+      "category": "Carnival & Circus",
+      "key": "carnival-circus",
+      "count": 30
+    },
+    {
+      "category": "Math Words",
+      "key": "math-words",
+      "count": 30
+    },
+    {
+      "category": "Reading Words",
+      "key": "reading-words",
+      "count": 30
+    },
+    {
+      "category": "Alphabet Phonics",
+      "key": "alphabet-phonics",
+      "count": 30
+    },
+    {
+      "category": "Classroom Objects",
+      "key": "classroom-objects",
+      "count": 30
+    },
+    {
+      "category": "Library Words",
+      "key": "library-words",
+      "count": 30
+    },
+    {
+      "category": "Computer Words",
+      "key": "computer-words",
+      "count": 30
+    },
+    {
+      "category": "Science Lab",
+      "key": "science-lab",
+      "count": 30
+    },
+    {
+      "category": "Hiking Words",
+      "key": "hiking-words",
+      "count": 30
+    },
+    {
+      "category": "Fishing Words",
+      "key": "fishing-words",
+      "count": 30
+    },
+    {
+      "category": "Gardening Tools",
+      "key": "gardening-tools",
+      "count": 30
+    }
+  ]
+}

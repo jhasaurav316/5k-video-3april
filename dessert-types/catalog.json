@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "dessert-types-1",
+    "title": "Dessert Types - Part 1",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "dessert-types-2",
+    "title": "Dessert Types - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sundae",
+        "emoji": "🍨",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Panna Cotta",
+        "emoji": "🍮",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Eclair",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Souffle",
+        "emoji": "🍮",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "M",
+        "word": "Mousse",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "C",
+        "word": "Creme Brulee",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "G",
+        "word": "Gelato",
+        "emoji": "🍨",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "S",
+        "word": "Sorbet",
+        "emoji": "🍧",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trifle",
+        "emoji": "🍰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Baklava",
+        "emoji": "🍯",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cannoli",
+        "emoji": "🍫",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Rice Pudding",
+        "emoji": "🍚",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "K",
+        "word": "Kulfi",
+        "emoji": "🍦",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gulab Jamun",
+        "emoji": "🟤",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "M",
+        "word": "Mochi",
+        "emoji": "🍡",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "dessert-types-3",
+    "title": "Dessert Types - Part 3",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Danish",
+        "emoji": "🥐",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "A",
+        "word": "Apple Strudel",
+        "emoji": "🍎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lemon Tart",
+        "emoji": "🍋",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "H",
+        "word": "Honey Cake",
+        "emoji": "🍯",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Nougat",
+        "emoji": "🍬",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Opera Cake",
+        "emoji": "🎵",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "P",
+        "word": "Profiterole",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "V",
+        "word": "Vanilla Cake",
+        "emoji": "🍰",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "Z",
+        "word": "Zabaglione",
+        "emoji": "🍷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "U",
+        "word": "Upside Down Cake",
+        "emoji": "🎂",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Y",
+        "word": "Yogurt Parfait",
+        "emoji": "🍨",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Strawberry Tart",
+        "emoji": "🍓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fruit Salad",
+        "emoji": "🍇",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Chocolate Cake",
+        "emoji": "🍫",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "R",
+        "word": "Red Velvet",
+        "emoji": "❤️",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "dessert-types-4",
+    "title": "Dessert Types - Part 4",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "dessert-types-5",
+    "title": "Dessert Types - Part 5",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "dessert-types-6",
+    "title": "Dessert Types - Part 6",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "dessert-types-7",
+    "title": "Dessert Types - Part 7",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "dessert-types-8",
+    "title": "Dessert Types - Part 8",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "dessert-types-9",
+    "title": "Dessert Types - Part 9",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "dessert-types-10",
+    "title": "Dessert Types - Part 10",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "dessert-types-11",
+    "title": "Dessert Types - Part 11",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "dessert-types-12",
+    "title": "Dessert Types - Part 12",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "dessert-types-13",
+    "title": "Dessert Types - Part 13",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "dessert-types-14",
+    "title": "Dessert Types - Part 14",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "dessert-types-15",
+    "title": "Dessert Types - Part 15",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "dessert-types-16",
+    "title": "Dessert Types - Part 16",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "dessert-types-17",
+    "title": "Dessert Types - Part 17",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "dessert-types-18",
+    "title": "Dessert Types - Part 18",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "dessert-types-19",
+    "title": "Dessert Types - Part 19",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "dessert-types-20",
+    "title": "Dessert Types - Part 20",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "dessert-types-21",
+    "title": "Dessert Types - Part 21",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "dessert-types-22",
+    "title": "Dessert Types - Part 22",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "dessert-types-23",
+    "title": "Dessert Types - Part 23",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "dessert-types-24",
+    "title": "Dessert Types - Part 24",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "dessert-types-25",
+    "title": "Dessert Types - Part 25",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "dessert-types-26",
+    "title": "Dessert Types - Part 26",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "dessert-types-27",
+    "title": "Dessert Types - Part 27",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "dessert-types-28",
+    "title": "Dessert Types - Part 28",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "dessert-types-29",
+    "title": "Dessert Types - Part 29",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "dessert-types-30",
+    "title": "Dessert Types - Part 30",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cake",
+        "emoji": "🎂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Cream",
+        "emoji": "🍦",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "P",
+        "word": "Pie",
+        "emoji": "🥧",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cookie",
+        "emoji": "🍪",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Brownie",
+        "emoji": "🍫",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Donut",
+        "emoji": "🍩",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Cupcake",
+        "emoji": "🧁",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Pudding",
+        "emoji": "🍮",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "J",
+        "word": "Jelly",
+        "emoji": "🟢",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Macaron",
+        "emoji": "🟣",
+        "bgColor": "#9C27B0"
+      },
+      {
+        "letter": "C",
+        "word": "Cheesecake",
+        "emoji": "🍰",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiramisu",
+        "emoji": "☕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "W",
+        "word": "Waffle",
+        "emoji": "🧇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Crepe",
+        "emoji": "🫓",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "F",
+        "word": "Flan",
+        "emoji": "🍮",
+        "bgColor": "#FF8F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  }
+]

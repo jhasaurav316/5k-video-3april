@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "hospital-1",
+    "title": "Hospital & Medical - Part 1",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "hospital-2",
+    "title": "Hospital & Medical - Part 2",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Dentist",
+        "emoji": "🪥",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Surgeon",
+        "emoji": "🧑‍⚕️",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Operating Room",
+        "emoji": "🏥",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "B",
+        "word": "Blood Test",
+        "emoji": "🩸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Prescription",
+        "emoji": "📋",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hand Wash",
+        "emoji": "🧼",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mask",
+        "emoji": "😷",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "G",
+        "word": "Gloves",
+        "emoji": "🧤",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "S",
+        "word": "Stretcher",
+        "emoji": "🛏️",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vaccine",
+        "emoji": "💉",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Cast",
+        "emoji": "🦴",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Recovery Room",
+        "emoji": "🛏️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "L",
+        "word": "Lab Coat",
+        "emoji": "🥼",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Patient",
+        "emoji": "🤒",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "First Aid",
+        "emoji": "🩹",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "hospital-3",
+    "title": "Hospital & Medical - Part 3",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "I",
+        "word": "IV Drip",
+        "emoji": "💧",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "K",
+        "word": "Kidney",
+        "emoji": "🫘",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "U",
+        "word": "Ultrasound",
+        "emoji": "📡",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zinc Supplement",
+        "emoji": "💊",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "N",
+        "word": "Nebulizer",
+        "emoji": "💨",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Oxygen Tank",
+        "emoji": "🫁",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Check Up",
+        "emoji": "✅",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Blood Pressure",
+        "emoji": "🩸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Joint",
+        "emoji": "🦴",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "Y",
+        "word": "Yoga Therapy",
+        "emoji": "🧘",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "P",
+        "word": "Pharmacy",
+        "emoji": "💊",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Q",
+        "word": "Quarantine",
+        "emoji": "🏠",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rehab",
+        "emoji": "🏋️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Scrubs",
+        "emoji": "🥼",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "W",
+        "word": "Ward",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "hospital-4",
+    "title": "Hospital & Medical - Part 4",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "hospital-5",
+    "title": "Hospital & Medical - Part 5",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "hospital-6",
+    "title": "Hospital & Medical - Part 6",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "hospital-7",
+    "title": "Hospital & Medical - Part 7",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "hospital-8",
+    "title": "Hospital & Medical - Part 8",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "hospital-9",
+    "title": "Hospital & Medical - Part 9",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "hospital-10",
+    "title": "Hospital & Medical - Part 10",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "hospital-11",
+    "title": "Hospital & Medical - Part 11",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "hospital-12",
+    "title": "Hospital & Medical - Part 12",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "hospital-13",
+    "title": "Hospital & Medical - Part 13",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "hospital-14",
+    "title": "Hospital & Medical - Part 14",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "hospital-15",
+    "title": "Hospital & Medical - Part 15",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "hospital-16",
+    "title": "Hospital & Medical - Part 16",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "hospital-17",
+    "title": "Hospital & Medical - Part 17",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "hospital-18",
+    "title": "Hospital & Medical - Part 18",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "hospital-19",
+    "title": "Hospital & Medical - Part 19",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "hospital-20",
+    "title": "Hospital & Medical - Part 20",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "hospital-21",
+    "title": "Hospital & Medical - Part 21",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 169
+  },
+  {
+    "id": "hospital-22",
+    "title": "Hospital & Medical - Part 22",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 144
+  },
+  {
+    "id": "hospital-23",
+    "title": "Hospital & Medical - Part 23",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "hospital-24",
+    "title": "Hospital & Medical - Part 24",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "hospital-25",
+    "title": "Hospital & Medical - Part 25",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "hospital-26",
+    "title": "Hospital & Medical - Part 26",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "hospital-27",
+    "title": "Hospital & Medical - Part 27",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "hospital-28",
+    "title": "Hospital & Medical - Part 28",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "hospital-29",
+    "title": "Hospital & Medical - Part 29",
+    "bgGradient": [
+      "#42A5F5",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "hospital-30",
+    "title": "Hospital & Medical - Part 30",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "D",
+        "word": "Doctor",
+        "emoji": "👨‍⚕️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Nurse",
+        "emoji": "👩‍⚕️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Ambulance",
+        "emoji": "🚑",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hospital",
+        "emoji": "🏥",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Stethoscope",
+        "emoji": "🩺",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "B",
+        "word": "Bandage",
+        "emoji": "🩹",
+        "bgColor": "#FFB74D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine",
+        "emoji": "💊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Syringe",
+        "emoji": "💉",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "T",
+        "word": "Thermometer",
+        "emoji": "🌡️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ray",
+        "emoji": "🔬",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Heartbeat",
+        "emoji": "❤️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wheelchair",
+        "emoji": "🦽",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Crutches",
+        "emoji": "🩼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Eye Chart",
+        "emoji": "👁️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tooth",
+        "emoji": "🦷",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  }
+]

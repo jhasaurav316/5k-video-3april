@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "musical-instruments-1",
+    "title": "Musical Instruments - Part 1",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "musical-instruments-2",
+    "title": "Musical Instruments - Part 2",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Trombone",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tuba",
+        "emoji": "🎺",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "M",
+        "word": "Maracas",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "T",
+        "word": "Tambourine",
+        "emoji": "🎵",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "C",
+        "word": "Cymbal",
+        "emoji": "🎵",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "B",
+        "word": "Bass",
+        "emoji": "🎸",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "H",
+        "word": "Harmonica",
+        "emoji": "🎵",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Mandolin",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "S",
+        "word": "Sitar",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kazoo",
+        "emoji": "🎵",
+        "bgColor": "#FDD835"
+      },
+      {
+        "letter": "R",
+        "word": "Recorder",
+        "emoji": "🎵",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "P",
+        "word": "Piccolo",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "B",
+        "word": "Bongo",
+        "emoji": "🥁",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Castanets",
+        "emoji": "🎵",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glockenspiel",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "musical-instruments-3",
+    "title": "Musical Instruments - Part 3",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "L",
+        "word": "Lute",
+        "emoji": "🎸",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "O",
+        "word": "Organ",
+        "emoji": "🎹",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Steel Drum",
+        "emoji": "🥁",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "W",
+        "word": "Whistle",
+        "emoji": "🎵",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "Z",
+        "word": "Zither",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Conga",
+        "emoji": "🥁",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "D",
+        "word": "Didgeridoo",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Electric Guitar",
+        "emoji": "🎸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "French Horn",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "K",
+        "word": "Keyboard",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "L",
+        "word": "Lyre",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "N",
+        "word": "Ngoni",
+        "emoji": "🎸",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "P",
+        "word": "Pan Flute",
+        "emoji": "🎵",
+        "bgColor": "#8BC34A"
+      },
+      {
+        "letter": "S",
+        "word": "Snare Drum",
+        "emoji": "🥁",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "V",
+        "word": "Vibraphone",
+        "emoji": "🎵",
+        "bgColor": "#00BCD4"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 122
+  },
+  {
+    "id": "musical-instruments-4",
+    "title": "Musical Instruments - Part 4",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "musical-instruments-5",
+    "title": "Musical Instruments - Part 5",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "musical-instruments-6",
+    "title": "Musical Instruments - Part 6",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "musical-instruments-7",
+    "title": "Musical Instruments - Part 7",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "musical-instruments-8",
+    "title": "Musical Instruments - Part 8",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "musical-instruments-9",
+    "title": "Musical Instruments - Part 9",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "musical-instruments-10",
+    "title": "Musical Instruments - Part 10",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "musical-instruments-11",
+    "title": "Musical Instruments - Part 11",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "musical-instruments-12",
+    "title": "Musical Instruments - Part 12",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "musical-instruments-13",
+    "title": "Musical Instruments - Part 13",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "musical-instruments-14",
+    "title": "Musical Instruments - Part 14",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "musical-instruments-15",
+    "title": "Musical Instruments - Part 15",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "musical-instruments-16",
+    "title": "Musical Instruments - Part 16",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "musical-instruments-17",
+    "title": "Musical Instruments - Part 17",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "musical-instruments-18",
+    "title": "Musical Instruments - Part 18",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "musical-instruments-19",
+    "title": "Musical Instruments - Part 19",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "musical-instruments-20",
+    "title": "Musical Instruments - Part 20",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "musical-instruments-21",
+    "title": "Musical Instruments - Part 21",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "musical-instruments-22",
+    "title": "Musical Instruments - Part 22",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "musical-instruments-23",
+    "title": "Musical Instruments - Part 23",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "musical-instruments-24",
+    "title": "Musical Instruments - Part 24",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "musical-instruments-25",
+    "title": "Musical Instruments - Part 25",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "musical-instruments-26",
+    "title": "Musical Instruments - Part 26",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "musical-instruments-27",
+    "title": "Musical Instruments - Part 27",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "musical-instruments-28",
+    "title": "Musical Instruments - Part 28",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "musical-instruments-29",
+    "title": "Musical Instruments - Part 29",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "musical-instruments-30",
+    "title": "Musical Instruments - Part 30",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Piano",
+        "emoji": "🎹",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "G",
+        "word": "Guitar",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drum",
+        "emoji": "🥁",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Flute",
+        "emoji": "🎵",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "V",
+        "word": "Violin",
+        "emoji": "🎻",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Trumpet",
+        "emoji": "🎺",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "H",
+        "word": "Harp",
+        "emoji": "🎵",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cello",
+        "emoji": "🎻",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Saxophone",
+        "emoji": "🎷",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xylophone",
+        "emoji": "🎵",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "U",
+        "word": "Ukulele",
+        "emoji": "🎸",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "B",
+        "word": "Banjo",
+        "emoji": "🎸",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "A",
+        "word": "Accordion",
+        "emoji": "🪗",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Clarinet",
+        "emoji": "🎵",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "O",
+        "word": "Oboe",
+        "emoji": "🎵",
+        "bgColor": "#795548"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  }
+]

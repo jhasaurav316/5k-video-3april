@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "jungle-animals-1",
+    "title": "Jungle Animals - Part 1",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "jungle-animals-2",
+    "title": "Jungle Animals - Part 2",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Hippo",
+        "emoji": "🦛",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "R",
+        "word": "Rhino",
+        "emoji": "🦏",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "L",
+        "word": "Lemur",
+        "emoji": "🐒",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "I",
+        "word": "Iguana",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "B",
+        "word": "Boa",
+        "emoji": "🐍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "K",
+        "word": "Koala",
+        "emoji": "🐨",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "C",
+        "word": "Chimpanzee",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tapir",
+        "emoji": "🐽",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "O",
+        "word": "Okapi",
+        "emoji": "🦓",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spider Monkey",
+        "emoji": "🕷️",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "B",
+        "word": "Baboon",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "C",
+        "word": "Capybara",
+        "emoji": "🐹",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "V",
+        "word": "Vulture",
+        "emoji": "🦅",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "P",
+        "word": "Python",
+        "emoji": "🐍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "A",
+        "word": "Ant Eater",
+        "emoji": "🐜",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "jungle-animals-3",
+    "title": "Jungle Animals - Part 3",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "W",
+        "word": "Warthog",
+        "emoji": "🐗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gecko",
+        "emoji": "🦎",
+        "bgColor": "#AED581"
+      },
+      {
+        "letter": "H",
+        "word": "Hornbill",
+        "emoji": "🐦",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tree Frog",
+        "emoji": "🐸",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "M",
+        "word": "Mandrill",
+        "emoji": "🐒",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "O",
+        "word": "Ocelot",
+        "emoji": "🐱",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "K",
+        "word": "Kinkajou",
+        "emoji": "🐻",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "N",
+        "word": "Numbat",
+        "emoji": "🐿️",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "C",
+        "word": "Caiman",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "J",
+        "word": "Jabiru",
+        "emoji": "🐦",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sun Bear",
+        "emoji": "🐻",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "F",
+        "word": "Flying Fox",
+        "emoji": "🦇",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "L",
+        "word": "Leaf Insect",
+        "emoji": "🍃",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "R",
+        "word": "Red Panda",
+        "emoji": "🐼",
+        "bgColor": "#FF5722"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "jungle-animals-4",
+    "title": "Jungle Animals - Part 4",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "jungle-animals-5",
+    "title": "Jungle Animals - Part 5",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 151
+  },
+  {
+    "id": "jungle-animals-6",
+    "title": "Jungle Animals - Part 6",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "jungle-animals-7",
+    "title": "Jungle Animals - Part 7",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "jungle-animals-8",
+    "title": "Jungle Animals - Part 8",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "jungle-animals-9",
+    "title": "Jungle Animals - Part 9",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 154
+  },
+  {
+    "id": "jungle-animals-10",
+    "title": "Jungle Animals - Part 10",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 129
+  },
+  {
+    "id": "jungle-animals-11",
+    "title": "Jungle Animals - Part 11",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "jungle-animals-12",
+    "title": "Jungle Animals - Part 12",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "jungle-animals-13",
+    "title": "Jungle Animals - Part 13",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "jungle-animals-14",
+    "title": "Jungle Animals - Part 14",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "jungle-animals-15",
+    "title": "Jungle Animals - Part 15",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "jungle-animals-16",
+    "title": "Jungle Animals - Part 16",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "jungle-animals-17",
+    "title": "Jungle Animals - Part 17",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "jungle-animals-18",
+    "title": "Jungle Animals - Part 18",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "jungle-animals-19",
+    "title": "Jungle Animals - Part 19",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "jungle-animals-20",
+    "title": "Jungle Animals - Part 20",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "jungle-animals-21",
+    "title": "Jungle Animals - Part 21",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "jungle-animals-22",
+    "title": "Jungle Animals - Part 22",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "jungle-animals-23",
+    "title": "Jungle Animals - Part 23",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "jungle-animals-24",
+    "title": "Jungle Animals - Part 24",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "jungle-animals-25",
+    "title": "Jungle Animals - Part 25",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "jungle-animals-26",
+    "title": "Jungle Animals - Part 26",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "jungle-animals-27",
+    "title": "Jungle Animals - Part 27",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "jungle-animals-28",
+    "title": "Jungle Animals - Part 28",
+    "bgGradient": [
+      "#1B5E20",
+      "#A5D6A7"
+    ],
+    "accentColor": "#0D3B0D",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "jungle-animals-29",
+    "title": "Jungle Animals - Part 29",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "jungle-animals-30",
+    "title": "Jungle Animals - Part 30",
+    "bgGradient": [
+      "#4E342E",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gorilla",
+        "emoji": "🦍",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "M",
+        "word": "Monkey",
+        "emoji": "🐒",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant",
+        "emoji": "🐘",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "T",
+        "word": "Toucan",
+        "emoji": "🦜",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parrot",
+        "emoji": "🦜",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "J",
+        "word": "Jaguar",
+        "emoji": "🐆",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Sloth",
+        "emoji": "🦥",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "C",
+        "word": "Crocodile",
+        "emoji": "🐊",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Orangutan",
+        "emoji": "🦧",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Chameleon",
+        "emoji": "🦎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "F",
+        "word": "Frog",
+        "emoji": "🐸",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Anaconda",
+        "emoji": "🐍",
+        "bgColor": "#1B5E20"
+      },
+      {
+        "letter": "P",
+        "word": "Panther",
+        "emoji": "🐆",
+        "bgColor": "#212121"
+      },
+      {
+        "letter": "T",
+        "word": "Tiger",
+        "emoji": "🐯",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Macaw",
+        "emoji": "🦜",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  }
+]

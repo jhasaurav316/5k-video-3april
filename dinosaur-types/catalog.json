@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "dinosaur-types-1",
+    "title": "Dinosaur Types - Part 1",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "dinosaur-types-2",
+    "title": "Dinosaur Types - Part 2",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Apatosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "G",
+        "word": "Gallimimus",
+        "emoji": "🦖",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "C",
+        "word": "Compsognathus",
+        "emoji": "🦖",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dilophosaurus",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Oviraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hadrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "E",
+        "word": "Edmontosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "M",
+        "word": "Megalosaurus",
+        "emoji": "🦖",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "B",
+        "word": "Baryonyx",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Sauropod",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Raptor",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pachycephalosaurus",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Therizinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "N",
+        "word": "Nodosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "C",
+        "word": "Ceratosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 132
+  },
+  {
+    "id": "dinosaur-types-3",
+    "title": "Dinosaur Types - Part 3",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "K",
+        "word": "Kentrosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "L",
+        "word": "Lambeosaurus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "U",
+        "word": "Utahraptor",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Microraptor",
+        "emoji": "🦖",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "G",
+        "word": "Giganotosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Archaeopteryx",
+        "emoji": "🐦",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "D",
+        "word": "Deinonychus",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "X",
+        "word": "Xiaosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "W",
+        "word": "Wuerhosaurus",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zuniceratops",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Fukuiraptor",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "J",
+        "word": "Jobaria",
+        "emoji": "🦕",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "Y",
+        "word": "Yangchuanosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Quetzalcoatlus",
+        "emoji": "🦅",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Suchomimus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 158
+  },
+  {
+    "id": "dinosaur-types-4",
+    "title": "Dinosaur Types - Part 4",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "dinosaur-types-5",
+    "title": "Dinosaur Types - Part 5",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "dinosaur-types-6",
+    "title": "Dinosaur Types - Part 6",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "dinosaur-types-7",
+    "title": "Dinosaur Types - Part 7",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 161
+  },
+  {
+    "id": "dinosaur-types-8",
+    "title": "Dinosaur Types - Part 8",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 136
+  },
+  {
+    "id": "dinosaur-types-9",
+    "title": "Dinosaur Types - Part 9",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "dinosaur-types-10",
+    "title": "Dinosaur Types - Part 10",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "dinosaur-types-11",
+    "title": "Dinosaur Types - Part 11",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "dinosaur-types-12",
+    "title": "Dinosaur Types - Part 12",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 139
+  },
+  {
+    "id": "dinosaur-types-13",
+    "title": "Dinosaur Types - Part 13",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 165
+  },
+  {
+    "id": "dinosaur-types-14",
+    "title": "Dinosaur Types - Part 14",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "dinosaur-types-15",
+    "title": "Dinosaur Types - Part 15",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "dinosaur-types-16",
+    "title": "Dinosaur Types - Part 16",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  },
+  {
+    "id": "dinosaur-types-17",
+    "title": "Dinosaur Types - Part 17",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 168
+  },
+  {
+    "id": "dinosaur-types-18",
+    "title": "Dinosaur Types - Part 18",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 143
+  },
+  {
+    "id": "dinosaur-types-19",
+    "title": "Dinosaur Types - Part 19",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 170
+  },
+  {
+    "id": "dinosaur-types-20",
+    "title": "Dinosaur Types - Part 20",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 145
+  },
+  {
+    "id": "dinosaur-types-21",
+    "title": "Dinosaur Types - Part 21",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 120
+  },
+  {
+    "id": "dinosaur-types-22",
+    "title": "Dinosaur Types - Part 22",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 146
+  },
+  {
+    "id": "dinosaur-types-23",
+    "title": "Dinosaur Types - Part 23",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 121
+  },
+  {
+    "id": "dinosaur-types-24",
+    "title": "Dinosaur Types - Part 24",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 148
+  },
+  {
+    "id": "dinosaur-types-25",
+    "title": "Dinosaur Types - Part 25",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "dinosaur-types-26",
+    "title": "Dinosaur Types - Part 26",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "dinosaur-types-27",
+    "title": "Dinosaur Types - Part 27",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "dinosaur-types-28",
+    "title": "Dinosaur Types - Part 28",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "dinosaur-types-29",
+    "title": "Dinosaur Types - Part 29",
+    "bgGradient": [
+      "#5D4037",
+      "#BCAAA4"
+    ],
+    "accentColor": "#3E2723",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 126
+  },
+  {
+    "id": "dinosaur-types-30",
+    "title": "Dinosaur Types - Part 30",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE082"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "T",
+        "word": "T-Rex",
+        "emoji": "🦖",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Triceratops",
+        "emoji": "🦕",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "S",
+        "word": "Stegosaurus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "V",
+        "word": "Velociraptor",
+        "emoji": "🦖",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "B",
+        "word": "Brachiosaurus",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pteranodon",
+        "emoji": "🦅",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "A",
+        "word": "Ankylosaurus",
+        "emoji": "🦕",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "S",
+        "word": "Spinosaurus",
+        "emoji": "🦖",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "D",
+        "word": "Diplodocus",
+        "emoji": "🦕",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "P",
+        "word": "Parasaurolophus",
+        "emoji": "🦕",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "I",
+        "word": "Iguanodon",
+        "emoji": "🦕",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "A",
+        "word": "Allosaurus",
+        "emoji": "🦖",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Carnotaurus",
+        "emoji": "🦖",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Mosasaurus",
+        "emoji": "🦕",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "P",
+        "word": "Plesiosaur",
+        "emoji": "🦕",
+        "bgColor": "#0288D1"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  }
+]

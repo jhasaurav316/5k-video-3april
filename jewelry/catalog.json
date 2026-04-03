@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "jewelry-1",
+    "title": "Jewelry - Part 1",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 147
+  },
+  {
+    "id": "jewelry-2",
+    "title": "Jewelry - Part 2",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "E",
+        "word": "Emerald",
+        "emoji": "💎",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Pearl",
+        "emoji": "📿",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "letter": "O",
+        "word": "Opal",
+        "emoji": "💎",
+        "bgColor": "#E0E0E0"
+      },
+      {
+        "letter": "A",
+        "word": "Amethyst",
+        "emoji": "💎",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "T",
+        "word": "Topaz",
+        "emoji": "💎",
+        "bgColor": "#FF8F00"
+      },
+      {
+        "letter": "L",
+        "word": "Locket",
+        "emoji": "📿",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "C",
+        "word": "Charm",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bangle",
+        "emoji": "📿",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "C",
+        "word": "Cuff",
+        "emoji": "📿",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "H",
+        "word": "Hairpin",
+        "emoji": "📌",
+        "bgColor": "#FF80AB"
+      },
+      {
+        "letter": "S",
+        "word": "Stud",
+        "emoji": "💎",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "C",
+        "word": "Clasp",
+        "emoji": "🔗",
+        "bgColor": "#9E9E9E"
+      },
+      {
+        "letter": "G",
+        "word": "Gold",
+        "emoji": "🥇",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Silver",
+        "emoji": "🥈",
+        "bgColor": "#B0BEC5"
+      },
+      {
+        "letter": "P",
+        "word": "Platinum",
+        "emoji": "💎",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 123
+  },
+  {
+    "id": "jewelry-3",
+    "title": "Jewelry - Part 3",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Filigree",
+        "emoji": "✨",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "K",
+        "word": "Karat",
+        "emoji": "💎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "M",
+        "word": "Moonstone",
+        "emoji": "🌙",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "T",
+        "word": "Turquoise",
+        "emoji": "💎",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "J",
+        "word": "Jade",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "C",
+        "word": "Coral",
+        "emoji": "📿",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "I",
+        "word": "Ivory",
+        "emoji": "📿",
+        "bgColor": "#FFF9C4"
+      },
+      {
+        "letter": "A",
+        "word": "Amulet",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Birthstone",
+        "emoji": "💎",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Cameo",
+        "emoji": "📿",
+        "bgColor": "#BCAAA4"
+      },
+      {
+        "letter": "G",
+        "word": "Garnet",
+        "emoji": "💎",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Marquise",
+        "emoji": "💎",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "S",
+        "word": "Solitaire",
+        "emoji": "💍",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "T",
+        "word": "Tennis Bracelet",
+        "emoji": "📿",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "Z",
+        "word": "Zirconia",
+        "emoji": "💎",
+        "bgColor": "#E0E0E0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 149
+  },
+  {
+    "id": "jewelry-4",
+    "title": "Jewelry - Part 4",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 124
+  },
+  {
+    "id": "jewelry-5",
+    "title": "Jewelry - Part 5",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 150
+  },
+  {
+    "id": "jewelry-6",
+    "title": "Jewelry - Part 6",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 125
+  },
+  {
+    "id": "jewelry-7",
+    "title": "Jewelry - Part 7",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 152
+  },
+  {
+    "id": "jewelry-8",
+    "title": "Jewelry - Part 8",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 127
+  },
+  {
+    "id": "jewelry-9",
+    "title": "Jewelry - Part 9",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 153
+  },
+  {
+    "id": "jewelry-10",
+    "title": "Jewelry - Part 10",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 128
+  },
+  {
+    "id": "jewelry-11",
+    "title": "Jewelry - Part 11",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 155
+  },
+  {
+    "id": "jewelry-12",
+    "title": "Jewelry - Part 12",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 130
+  },
+  {
+    "id": "jewelry-13",
+    "title": "Jewelry - Part 13",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 156
+  },
+  {
+    "id": "jewelry-14",
+    "title": "Jewelry - Part 14",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 131
+  },
+  {
+    "id": "jewelry-15",
+    "title": "Jewelry - Part 15",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 157
+  },
+  {
+    "id": "jewelry-16",
+    "title": "Jewelry - Part 16",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 133
+  },
+  {
+    "id": "jewelry-17",
+    "title": "Jewelry - Part 17",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 159
+  },
+  {
+    "id": "jewelry-18",
+    "title": "Jewelry - Part 18",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 134
+  },
+  {
+    "id": "jewelry-19",
+    "title": "Jewelry - Part 19",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 160
+  },
+  {
+    "id": "jewelry-20",
+    "title": "Jewelry - Part 20",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 135
+  },
+  {
+    "id": "jewelry-21",
+    "title": "Jewelry - Part 21",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 162
+  },
+  {
+    "id": "jewelry-22",
+    "title": "Jewelry - Part 22",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 137
+  },
+  {
+    "id": "jewelry-23",
+    "title": "Jewelry - Part 23",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 163
+  },
+  {
+    "id": "jewelry-24",
+    "title": "Jewelry - Part 24",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 138
+  },
+  {
+    "id": "jewelry-25",
+    "title": "Jewelry - Part 25",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 164
+  },
+  {
+    "id": "jewelry-26",
+    "title": "Jewelry - Part 26",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 140
+  },
+  {
+    "id": "jewelry-27",
+    "title": "Jewelry - Part 27",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 166
+  },
+  {
+    "id": "jewelry-28",
+    "title": "Jewelry - Part 28",
+    "bgGradient": [
+      "#FFB300",
+      "#FFE082"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 141
+  },
+  {
+    "id": "jewelry-29",
+    "title": "Jewelry - Part 29",
+    "bgGradient": [
+      "#E91E63",
+      "#F8BBD0"
+    ],
+    "accentColor": "#880E4F",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 167
+  },
+  {
+    "id": "jewelry-30",
+    "title": "Jewelry - Part 30",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "R",
+        "word": "Ring",
+        "emoji": "💍",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "N",
+        "word": "Necklace",
+        "emoji": "📿",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "B",
+        "word": "Bracelet",
+        "emoji": "📿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Earring",
+        "emoji": "💎",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "W",
+        "word": "Watch",
+        "emoji": "⌚",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "P",
+        "word": "Pendant",
+        "emoji": "📿",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "B",
+        "word": "Brooch",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Chain",
+        "emoji": "⛓️",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "T",
+        "word": "Tiara",
+        "emoji": "👑",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "A",
+        "word": "Anklet",
+        "emoji": "📿",
+        "bgColor": "#00BCD4"
+      },
+      {
+        "letter": "C",
+        "word": "Crown",
+        "emoji": "👑",
+        "bgColor": "#FFD54F"
+      },
+      {
+        "letter": "G",
+        "word": "Gem",
+        "emoji": "💎",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "D",
+        "word": "Diamond",
+        "emoji": "💎",
+        "bgColor": "#B3E5FC"
+      },
+      {
+        "letter": "R",
+        "word": "Ruby",
+        "emoji": "💎",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sapphire",
+        "emoji": "💎",
+        "bgColor": "#1565C0"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3,
+    "targetDuration": 142
+  }
+]
