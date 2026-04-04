@@ -7,11 +7,12 @@
 
 $ErrorActionPreference = "Stop"
 $ProjectDir = $PSScriptRoot
+$cpuCores = (Get-CimInstance Win32_Processor).NumberOfLogicalProcessors
 
 Write-Host ""
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host "  PHASE 1: 30 Airport & Travel + 30 Alphabet Phonics + 30 Animal Homes + 11 Animal Sounds" -ForegroundColor Cyan
-Write-Host "  101 Videos | 2:00-2:50 each | Full HD (1080x1920)" -ForegroundColor Cyan
+Write-Host "  101 Videos | Using $cpuCores CPU cores | Full HD (1080x1920)" -ForegroundColor Cyan
 Write-Host "================================================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -142,7 +143,7 @@ foreach ($cat in $catalogs) {
         Write-Host "  [$current/$total] $($video.title) [$($elapsed.ToString('hh\:mm\:ss'))]" -ForegroundColor Cyan
 
         $prevEAP = $ErrorActionPreference; $ErrorActionPreference = "Continue"
-        npx remotion render src/index.ts $compId "$outputFile" --concurrency=100% --log=error --crf=18 --codec=h264 --gl=angle --port=3100
+        npx remotion render src/index.ts $compId "$outputFile" --concurrency=$cpuCores --log=error --crf=18 --codec=h264 --gl=angle --enable-multiprocess-on-linux --port=3100 --bundle-cache=true
         $ErrorActionPreference = $prevEAP
 
         if ($LASTEXITCODE -eq 0) {
